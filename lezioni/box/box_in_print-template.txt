@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda [SCHEDA_NUMERO]</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="[LEZIONE_CLASSE]">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda [SCHEDA_NUMERO]</div>
+
+    <h1 class="scheda-title">
+      [SCHEDA_TITOLO]
+    </h1>
+  </div>
+
+  <div class="cover-image">
+    <img src="[COVER_IMAGE_SRC]" alt="[COVER_IMAGE_ALT]">
+  </div>
+
+  <div class="cover-intro">
+    <p>
+      [SCHEDA_INTRO]
+    </p>
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+      [A_AUTORE], <i>[A_TITOLO]</i>[A_LUOGO_ANNO]
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box">
+      <img src="[A_IMAGE_1_SRC]" alt="">
+      <div class="image-index">A.1</div>
+    </div>
+
+    <div class="image-box">
+      <img src="[A_IMAGE_2_SRC]" alt="">
+      <div class="image-index">A.2</div>
+    </div>
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+    [A_SOTTODIDASCALIA]
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+    [A_TESTO_CRITICO]
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+      [B_AUTORE], <i>[B_TITOLO]</i>[B_LUOGO_ANNO]
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box">
+      <img src="[B_IMAGE_1_SRC]" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+    <div class="image-box">
+      <img src="[B_IMAGE_2_SRC]" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+    [B_SOTTODIDASCALIA]
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+    [B_TESTO_CRITICO]
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+    <div class="caption-main">
+      [C_AUTORE], <i>[C_TITOLO]</i>[C_LUOGO_ANNO]
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box">
+      <img src="[C_IMAGE_1_SRC]" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+    <div class="image-box">
+      <img src="[B_IMAGE_2_SRC]" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+    [C_SOTTODIDASCALIA]
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+    [C_TESTO_CRITICO]
+  </section>
+
+</section>
+
+
+    <!-- IN CASO DI IMMAGINE SINGOLA 5 CASI IN A E 4 CASI IN C -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">[PROPOSTA_LETTERA].</span>
+
+    <div class="caption-main">
+      [PROGETTO_AUTORE], <i>[PROGETTO_TITOLO]</i>[PROGETTO_LUOGO_ANNO]
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box">
+      <img src="[IMAGE_SRC]" alt="">
+      <div class="image-index">[PROPOSTA_LETTERA].[IMAGE_INDEX]</div>
+    </div>
+
+
+  </div>
+
+  <div class="caption-sub">
+    [PROGETTO_SOTTODIDASCALIA]
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+    [TESTO_CRITICO]
+  </section>
+
+</section>
+
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

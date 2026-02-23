@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 6.3</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione3">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 6.3</div>
+
+    <h1 class="scheda-title">
+      La soglia: <br>il punto in cui lo spazio cambia
+    </h1>
+  </div>
+
+  <div class="cover-image" style="--img-scale: 50%;">
+    <img src="print6/box_6.3_C_7.jpg" alt="[COVER_IMAGE_ALT]">
+  </div>
+
+  <div class="cover-intro">
+   La soglia non è un limite, ma una trasformazione. È il luogo in cui mutano luce, acustica, materia, temperatura, orientamento. Ogni attraversamento modifica la percezione e apre a una nuova qualità dello spazio. La soglia agisce come dispositivo critico: introduce differenze, produce intensità, condensa il senso del progetto.
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+    Alhambra, <i>Corte dei Mirti</i> (XIV secolo)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_A_3.jpg" alt="">
+      <div class="image-index">A.1</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_A_2.jpg" alt="">
+      <div class="image-index">A.2</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_A_5.jpg" alt="">
+      <div class="image-index">A.3</div>
+    </div>
+
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_A_6.jpg" alt="">
+      <div class="image-index">A.4</div>
+    </div>
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Il delicato passaggio porticato riorganizza luce, riflessi e ritmo percettivo: il corpo attraversa una soglia che trasforma il silenzio dell’ombra in apertura luminosa.
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>
+La <i>Corte dei Mirti</i> dell’Alhambra offre uno degli esempi più raffinati di soglia come trasformazione percettiva. L’architettura islamica nasrida evita l’opposizione netto-interno/esterno tipica dell’Occidente e costruisce, invece, una sequenza continua di transizioni. Qui, la soglia è il portico che media tra gli ambienti ombrosi e densi degli interni e la luminosità abbagliante del cortile centrale. Attraversarlo significa sperimentare uno slittamento atmosferico: la luce si diffonde attraverso i trafori, i ritmi delle colonne scandiscono il passo, l’acqua della vasca riflette e moltiplica ciò che l’occhio percepisce.</p>
+<p>
+La soglia diventa un <i>filtro</i>: attenua la luce, corregge lo sguardo, produce profondità. La percezione non cambia per contrasto ma per modulazione. L’architettura non separa, ma calibra le intensità del paesaggio interno della corte.</p>
+<p>
+Per la lezione 6, questo caso è fondamentale perché mostra la soglia come strumento progettuale: un luogo in cui l’architettura non definisce semplicemente un limite, ma costruisce un’esperienza. È la soglia a fondare l’identità atmosferica dell’Alhambra: un equilibrio delicato tra ombra e riflesso, tra geometria e vibrazione luminosa, tra misura architettonica e vita sensoriale dello spazio.</p>
+
+
+   
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+    Peter Märkli, <i>La Congiunta, Giornico</i> (1992)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+ 
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_B_7.jpg" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_B_8.jpg" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_B_4.jpg" alt="">
+      <div class="image-index">B.3</div>
+    </div>
+
+  
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_B_6.jpg" alt="">
+      <div class="image-index">B.4</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_B_5.jpg" alt="">
+      <div class="image-index">B.5</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_B_3.jpg" alt="">
+      <div class="image-index">B.6</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_B_1.jpg" alt="">
+      <div class="image-index">B.7</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_B_2.jpg" alt="">
+      <div class="image-index">B.8</div>
+    </div>
+
+
+
+ 
+ 
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+L’ingresso disassato introduce un passaggio minimo ma decisivo: un gradino, una piega di luce, un restringimento materico che separa il mondo esterno dal silenzio compatto dell’interno dedicato alle sculture di Hans Josephsohn.
+
+</div>
+    
+
+  <div class="icono-divider"></div>
+
+
+<section class="text-section">
+  <p>
+A <i>La Congiunta</i> la soglia non è un varco funzionale, ma un vero evento percettivo: un punto in cui il corpo comprende immediatamente che lo spazio sta cambiando natura. Märkli costruisce questa transizione con una radicale economia di mezzi. Una fenditura nel volume, un ingresso laterale quasi anonimo, un breve tratto compresso che costringe a rallentare: è qui che il visitatore attraversa un confine immateriale tra il paesaggio luminoso della valle e l’interno oscuro, denso, monolitico del museo.</p>
+<p>
+La soglia funziona come uno strumento di disorientamento controllato: lo sguardo non vede ancora lo spazio principale, ma ne percepisce già la qualità atmosferica. Un tenue riflesso sul calcestruzzo, un suono ovattato, la brusca caduta di luce segnano la perdita della continuità con l’esterno. Non si entra semplicemente in un edificio: si entra in un’altra condizione percettiva.</p>
+<p>
+Märkli dimostra che la soglia può essere un dispositivo critico estremamente potente: trasforma la temperatura dello spazio, modifica l’orientamento corporeo, predispone l’attenzione. Nell’interno di <i>La Congiunta</i> — una sequenza di sale grezze e silenziose — questo breve passaggio iniziale acquista un valore quasi rituale: è l’atto che prepara il visitatore all’incontro con le sculture di Josephsohn, permettendo allo spazio di assumere il proprio carattere contemplativo.</p>
+<p>
+Qui la soglia non dichiara una separazione, ma genera una nuova atmosfera. È il punto in cui l’architettura diventa percezione.</p>
+<p>
+La soglia è l’evento che definisce l’intero edificio.</p>
+
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+  <div class="caption-main">
+     Ryue Nishizawa (con Rei Naito), <i>Teshima Art Museum, Teshima, Giappone</i> (2010)
+    </div>
+  </div>
+
+ <div class="image-grid">
+
+ 
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_C_1.jpg" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_C_2.jpg" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_C_3.jpg" alt="">
+      <div class="image-index">C.3</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_C_4.jpg" alt="">
+      <div class="image-index">C.4</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_C_5.jpg" alt="">
+      <div class="image-index">C.5</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.3_C_6.jpg" alt="">
+      <div class="image-index">C.6</div>
+    </div>
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+ Una soglia continua tra cielo e suolo: due aperture e una calotta sottilissima trasformano luce, suono, umidità e orientamento del corpo.
+</div>
+    
+ <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>
+
+Il <i>Teshima Art Museum</i> è una lezione radicale sulla <strong>soglia come trasformazione</strong>. Non c’è facciata né porta in senso tradizionale: l’accesso è un passaggio graduale dal pendio coltivato alla superficie liscia del pavimento, dal rumore del vento all’ovattamento interno. Entrare significa attraversare una differenza di <strong>luce, acustica, temperatura</strong>. Il gesto di togliersi le scarpe è già un dispositivo percettivo: rende consapevoli della materia, della micro–pendenza del suolo, dell’umidità che varia da zona a zona.</p>
+<p>
+La calotta di calcestruzzo, sottilissima, è incisa da due grandi aperture: non semplici fori, ma soglie attive che connettono direttamente l’interno al cielo. La luce discende radente o verticale secondo l’ora, ridisegnando le profondità; il suono della pioggia amplifica la volta come una camera di risonanza; la brezza muove l’aria e con essa le piccole gocce che si formano per condensazione, scivolano e si raccolgono in rivoli. Ogni elemento modifica l’altro: la soglia non separa, mette in relazione.</p>
+<p>
+Anche l’orientamento del corpo nasce da queste differenze: ci si muove seguendo i flussi d’acqua, sostando nelle zone più luminose, cercando il fresco o il tiepido. La geometria controllata (spessore, raggio, curvatura) non produce un’immagine, ma <strong>condizioni</strong> affinché i fenomeni accadano: il progetto orchestra i passaggi di stato tra dentro e fuori, secco e umido, silenzio e risonanza, ombra e chiarore. Ne risulta uno spazio in cui <strong>la soglia è ovunque</strong>: nelle aperture, nelle variazioni del suolo, nell’aria che cambia. Il museo non rappresenta la natura; la rende esperibile attraverso un continuum di trasformazioni percettive. Qui la soglia non è linea, ma <strong>campo</strong>: il punto in cui lo spazio cambia e, cambiando, fa nascere la forma.</p>
+
+
+
+    
+ </section>
+
+
+</section>
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

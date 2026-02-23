@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 4.2</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 4.2 - Il campo strutturale: lo spazio come sistema di relazioni interdipendenti</h1>
+    <p class="box-intro">Lo spazio non è un contenitore, ma un campo di forze. Ogni elemento entra in relazione con gli altri, partecipa a un equilibrio complesso fatto di direzioni, polarità, tensioni. La forma non è un volume isolato, ma l’emergere di una struttura condivisa. I progetti scelti mostrano come l’architettura nasca dalla costruzione coerente di un campo interdipendente.
+
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img4/box_4.2_A_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_A_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_A_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_A_4.png" style="display: none; height: 80%; width: auto;">   
+    <img class="carousel-image zoomable" src="img4/box_4.2_A_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_A_6.png" style="display: none; height: 80%; width: auto;">
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+<br>
+    <figcaption>
+      <div class="caption-main">Rafael Moneo, <i>Museo Romano di Mérida</i> (1980-1986)</div>
+      <div class="caption-sub">Il Museo di Moneo è un esempio rigoroso di campo direzionale:
+<ul>
+<li>le grandi pareti in laterizio generano assi longitudinali potentissimi,</li>
+<li>le campate ripetute costruiscono ritmo e profondità,</li>
+<li>la luce zenitale allinea verticalità e movimento,</li>
+<li>il vuoto centrale tiene insieme l’intero sistema.</li>
+</ul>
+Lo spazio non è una somma di elementi: è un campo coerente di forze parallele e convergenti.
+
+
+      </div>
+    </figcaption>
+</section>
+<br>
+  <section class="text-section">
+
+<p>L’interno del Museo Romano di Mérida è costruito come un <strong>campo spaziale unitario</strong>: una grande navata a doppia altezza, scandita da pareti longitudinali in laterizio e da una sequenza di archi ripetuti. Questa serialità non ha valore decorativo: <strong>organizza la direzione dello spazio</strong>, orienta lo sguardo e dà al corpo un chiaro vettore di percorrenza. Il ritmo delle campate costruisce profondità e proporzione, trasformando la navata in un sistema percettivo coerente.</p>
+<p>
+La luce naturale, filtrata da aperture alte e sottili, non illumina semplicemente le opere: definisce il comportamento del vuoto, accentua la verticalità, crea gradienti di intensità che guidano la percezione. La luce diventa una vera struttura interna, capace di stabilire gerarchie e di restituire monumentalità ai reperti.</p>
+<p>
+Un secondo livello museale integra le preesistenze archeologiche in situ. Non come reperti isolati, ma come parte del campo spaziale stesso: variazioni di quota, aperture, affacci rendono i resti romani un elemento che “agisce” nell’architettura contemporanea, mettendo in relazione passato e presente in un’unica continuità.</p>
+<p>
+L’uso del mattone, che avvolge la struttura in cemento, non è citazione storicista: è <strong>coerenza materica</strong> e costruttiva, un modo per radicare il museo nella tradizione romana reinterpretandola in chiave contemporanea.</p>
+<p>
+Il Museo di Mérida dimostra che la monumentalità non è un fatto formale, ma nasce dalla forza della <strong>struttura percettiva</strong>: direzione, luce, ritmo, materia e archeologia concorrono a costruire un campo unitario, uno spazio che non espone la storia, ma la fa vivere attraverso la sua struttura.</p>
+
+
+
+
+  </section>
+<br>
+<p><strong>B.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_2.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_13.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_12.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_14.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_1.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_8.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_9.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_10.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_B_7.png" style="display: none; height: 80%; width: auto;">
+
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+</section>
+<br>
+    <figcaption>
+      <div class="caption-main">Enric Miralles + Carme Pinós, <i>Cementerio de Igualada</i> (1985-1994) 
+        </div>
+      <div class="caption-sub">Il cimitero di Igualada è un esempio molto interessante di campo paesaggistico strutturato:
+<ul>
+<li>il percorso in trincea definisce una direzione vettoriale forte,</li>
+<li>i muri inclinati producono tensioni contrapposte,</li>
+<li>il terreno scolpito diventa materia strutturale,</li>
+<li>luce, suolo e geometria si legano in una relazione interdipendente.</li>
+</ul>
+È impossibile isolare una “forma”: ciò che conta è la dinamica dell’intero campo.
+
+</div>
+    </figcaption>
+  </section>
+<br>
+  <section class="text-section">
+ <p><strong>Il percorso come struttura percettiva: lo spazio che nasce dal suolo</strong></p>
+<p>
+Nel Cimitero di Igualada il percorso diventa il vero principio generatore dello spazio. Miralles e Pinós non progettano un cimitero come insieme di oggetti, ma come architettura di suolo, un taglio scavato nella terra che guida il corpo attraverso una discesa lenta, processionale. Il sentiero, sinuoso e inciso nella topografia, è una struttura di percezione: organizza direzioni, compressioni e aperture, modulando il tempo dell’esperienza.</p>
+<p>
+L’architettura non si impone sul paesaggio: si inscrive in esso. Muri inclinati, tagli obliqui, quote che si abbassano e si rialzano costruiscono un campo dinamico in cui ogni elemento risponde alle forze del terreno. La geometria spezzata non è irregolarità formale: è la traduzione spaziale della topografia e del movimento, una sintassi che nasce dal luogo stesso.</p>
+<p>
+La matericità — cemento grezzo, pietra, travi di legno invecchiate — radica il percorso nel ciclo naturale del tempo. L’invecchiamento dei materiali, voluto, fa parte dell’opera: restituisce allo spazio il senso della trasformazione, della finitudine, della continuità tra vita e morte.</p>
+<p>
+La luce, filtrata tra le pareti e riflessa sulle superfici ruvide, non illumina come in un edificio tradizionale: rivela le soglie, marca passaggi, accentua la profondità della trincea o l’apertura improvvisa del cortile finale. È una luce che guida, che misura, che accompagna il cammino più che mettere in risalto forme.</p>
+<p>
+Il risultato è un’opera in cui percorso, <strong>suolo</strong>, <strong>luce</strong> e <strong>materia</strong> sono inseparabili. Lo spazio non si comprende da un punto di vista esterno: si comprende camminando, perché è il movimento a svelarne la struttura. Igualada è uno dei casi più radicali della fine del Novecento in cui il progetto non costruisce un oggetto, ma un <strong>campo percettivo</strong> — una narrazione silenziosa in cui il paesaggio diventa architettura e l’architettura diventa esperienza del tempo.
+    </p>
+
+  </section>
+<br>
+<p><strong>C.</strong></p>
+<br>
+  <section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img4/box_4.2_C_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_C_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_C_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_C_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_C_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_C_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.2_C_7.png" style="display: none; height: 80%; width: auto;">
+
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+</section>
+<br>
+      <figcaption>
+        <div class="caption-main">Sverre Fehn, <i>Padiglione Nordico</i>, Biennale di Venezia (1962)</div>
+        <div class="caption-sub">Il Padiglione Nordico è un esempio altissimo di campo isotropo e luminoso:
+<ul>
+<li>la griglia di travi in calcestruzzo definisce un campo strutturale continuo,</li>
+<li>gli alberi che attraversano la copertura introducono poli verticali naturali,</li>
+<li>luce e ombra si intrecciano come materia dello spazio,</li>
+<li>le superfici leggere non chiudono, ma organizzano il vuoto.</li>
+</ul>
+È uno spazio dove il vuoto è attivo quanto la struttura.
+
+</div>
+<br>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+<section class="text-section">
+ <p>
+ <strong>La struttura come filtro: un campo luminoso che scioglie il confine tra interno ed esterno</strong> </p>
+<p>
+Nel Padiglione Nordico di Venezia, Fehn non costruisce un interno protetto né un padiglione chiuso: costruisce un <strong>luogo intermedio</strong>, uno spazio percettivo in cui luce, natura e struttura collaborano come parti di un unico campo. La grande griglia di travi sottili in cemento non definisce un volume, ma un filtro: lascia passare la luce, la modula, la diffonde. La copertura diventa così un dispositivo atmosferico che genera una luce omogenea, “senza ombre”, capace di trasformare il vuoto in materia sensibile.</p>
+<p>
+Il gesto più radicale è l’inclusione dei platani preesistenti, che attraversano la copertura e si ergono come colonne viventi. Essi introducono tempo, umidità, stagioni, movimento dell’aria: elementi che dissolvono la distinzione tra architettura e paesaggio. Lo spazio non è più interno né esterno, ma una <strong>soglia continua</strong>, un ambiente poroso dove la natura diventa parte attiva della struttura.</p>
+<p>
+Le pareti leggere e l’apertura su due lati definiscono uno spazio attraversabile, in cui lo sguardo e il corpo sono liberi di orientarsi senza gerarchie imposte. La materialità — cemento bianco, sabbia chiara, marmo frantumato — potenzia la luminosità diffusa e costruisce un’atmosfera silenziosa, essenziale, profondamente nordica.</p>
+<p>
+Ciò che rende il padiglione un riferimento centrale per la Lezione 4 è il suo modo di intendere lo spazio come <strong>campo percettivo</strong>: un sistema in cui struttura, luce e natura non sono elementi separati, ma relazioni che si sostengono a vicenda. L’architettura non rappresenta il paesaggio: lo lascia accadere. Non costruisce un volume: costruisce le condizioni per percepire la luce, il vuoto, il passare delle ore.
+Il Padiglione Nordico è quindi un manifesto della modernità silenziosa di Fehn: un’architettura che rinuncia alla forma come oggetto e afferma la forma come relazione. Un luogo fragile e potentissimo, in cui l’esperienza percettiva non è un effetto ma la vera struttura dello spazio.</p>
+
+
+
+  </section>
+
+
+<br>
+  <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+</body>
+</html>

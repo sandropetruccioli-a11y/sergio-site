@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 7.6</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 7.6 - La densità come variabile: massa, luce, atmosfera</h1>
+    <p class="box-intro">La densità è una qualità percettiva, non una misura volumetrica. È l’effetto congiunto di materia, luce, ritmo, pressione visiva. Può addensarsi o rarefarsi, costruire attrito o leggerezza. Un campo può apparire denso anche se quasi vuoto, oppure fluido pur fatto di massa. Comprendere la densità significa leggere lo spessore atmosferico dello spazio, la sua intensità silenziosa.</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img7/box_7.6_A_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_A_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_A_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_A_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_A_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_A_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_A_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_A_8.png" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+<br>
+    <figcaption>
+      <div class="caption-main">Louis Kahn, <i>Bath House, Trenton</i> (1955)</div>
+      <div class="caption-sub">I muri in cemento, letti in rapporto con il vuoto centrale e con la luce zenitale, generano uno spazio “pesante” pur essendo essenziale. La densità non è il volume: è la qualità della materia nella luce.
+      </div>
+    </figcaption>
+</section>
+<br>
+  <section class="text-section">
+  
+<p><strong>La densità materica come variabile percettiva</strong></p>
+<p>
+Nel <i>Bath House, Trenton</i>, Louis Kahn dimostra come la densità non sia un fatto volumetrico, ma un fenomeno percettivo che nasce dal rapporto tra materia, luce, peso atmosferico e ordine geometrico. L’architettura si presenta come un sistema primario: quattro padiglioni quadrati coperti da tetti piramidali sospesi sopra muri in blocchi di cemento. Questa semplicità apparente rivela, nella percezione, una complessità fatta di intensità e pesi distribuiti.</p>
+<p>
+Le <strong>pareti in blocchi di cemento</strong> — materiali umili, economici, standard — diventano qui il luogo in cui la densità si manifesta come qualità dello spazio. Kahn li sceglie per la loro “ruvidezza antica”: non superfici astratte, ma materia che porta con sé un peso visivo, una gravità. I blocchi, volutamente non rifiniti, assumono l’aspetto di pietre primarie, capaci di restituire all’edificio una presenza quasi arcaica. La loro texture assorbe la luce invece di rifletterla, rendendo la massa più intensa e tangibile.</p>
+<p>
+Il sistema dei “serviti” e “servizi” si materializza proprio attraverso queste pareti: le grandi colonne cave d’angolo, in blocchi di cemento, sostengono i tetti e ospitano gli spazi tecnici. La densità materica diventa così anche densità funzionale: ciò che costruisce la massa è ciò che costruisce l’ordine logico dell’edificio.</p>
+<p>
+La <strong>luce zenitale</strong> è l’altra variabile che modula la densità. Il tetto staccato dai muri crea una sottile fessura continua: un gesto minimo che trasforma completamente la percezione. La luce filtra dall’alto, scava la materia, ne evidenzia la grana, e introduce un contrasto tra peso e gravità luminosa. La parete densa diventa superficie vibrante; la massa si fa atmosfera. In questa relazione si genera la qualità più profonda del <i>Bath House, Trenton</i>: una architettura che appare pesante e leggera allo stesso tempo.</p>
+<p>
+Lo scorrere dell’acqua piovana sulle superfici — elemento che Kahn aveva immaginato come parte del processo estetico — accentua nel tempo questa densità, marcando le pareti con striature e patine che rendono il materiale ancora più “presente”. Il restauro ha dovuto replicare questo carattere, confermando che la densità non è decorazione, ma identità percettiva.</p>
+<p>
+In sintesi, nel <i>Bath House, Trenton</i> la densità è una variabile attiva: nasce dalla materia, si trasforma con la luce, struttura lo spazio e ne determina il comportamento. È la dimostrazione che un edificio minimo può diventare un laboratorio essenziale della percezione architettonica.</p>
+
+
+
+
+  </section>
+<br>
+<p><strong>B.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img7/box_7.6_B_2.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_B_1.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_B_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_B_5.png" style="display: none; height: 80%; width: auto;">
+
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+</section>
+<br>
+    <figcaption>
+      <div class="caption-main">Sigurd Lewerentz, <i>St. Mark’s Church, Björkhagen</i> (1956–1960) 
+        </div>
+      <div class="caption-sub">Densità luminosa: la luce radente come materia che dà peso, spessore e intensità all’esperienza dello spazio liturgico.</div>
+    </figcaption>
+  </section>
+
+
+<br>
+  <section class="text-section">
+
+<p>
+Nella chiesa di St. Mark a Björkhagen, Sigurd Lewerentz costruisce una delle definizioni più radicali di densità luminosa nella storia dell’architettura del Novecento. La densità, in questo caso, non nasce dalla massa o dai volumi, ma dalla relazione intensa tra luce, materia e percezione: è la qualità sensibile con cui lo spazio esercita pressione percettiva sul corpo.</p>
+<p>
+Lewerentz capovolge la tradizione delle chiese occidentali, che affidano alla luce zenitale o diffusa il ruolo di alleggerire lo spazio. Qui la luce è orizzontale, radente, bassa, filtrata da piccole aperture collocate quasi a livello del pavimento. È una luce che sfiora, che striscia sulle superfici; una luce che rivela più che illuminare.</p>
+<p>
+Su questa luce minima agisce la matericità ruvida dei mattoni, posati a mano senza giunti visibili, con variazioni cromatiche e imperfezioni che la luce enfatizza invece di nascondere. Il risultato è uno spazio in cui il buio non è mera assenza, ma sostanza attiva: un contrappeso che intensifica la presenza della luce e ne rende percepibile la densità.</p>
+<p>
+La chiesa non è luminosa, né oscura: è un luogo di contrasto controllato, di zone che emergono lentamente dal fondo, di masse che acquistano peso grazie alla luce anziché perdere peso per effetto della luce. L’atmosfera che ne deriva è rigorosa, contemplativa, quasi ascetica: una spiritualità costruita non con simboli, ma con <strong>spessore percettivo</strong>.</p>
+<p>
+In questa architettura la <strong>densità luminosa diventa così una variabile progettuale</strong>: una forma di energia che plasma il campo, determina la qualità dell’esperienza e fa della luce un vero e proprio materiale costruttivo.</p>
+
+
+
+
+  </section>
+<br>
+<p><strong>C.</strong></p>
+<br>
+  <section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img7/box_7.6_C_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_C_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_C_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_C_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img7/box_7.6_C_5.png" style="display: none; height: 80%; width: auto;">
+     
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+</section>
+<br>
+    <figcaption>
+      <div class="caption-main">Peter Behrens, <i>AEG Turbinenfabrik, Berlino </i> (1909)
+        </div>
+      <div class="caption-sub">La grande struttura metallica e il volume monumentale comprimono l’aria interna e creano una densità atmosferica percepibile: non è la materia a pesare, ma l’effetto combinato di scala, luce e struttura.</div>
+    </figcaption>
+  </section>
+<br>
+  <section class="text-section">
+<p><strong>Densità atmosferica: lo spazio industriale come campo percettivo costruito da luce, struttura e massa</strong></p>
+<p>
+
+La <i>AEG Turbinenfabrik</i> di Peter Behrens non è soltanto un prototipo dell’architettura industriale moderna: è uno dei primi esempi in cui l’atmosfera di un grande spazio produttivo viene costruita attraverso il rapporto calibrato tra luce, struttura e massa. La “densità” qui non è un fatto materiale — l’edificio è leggero, fatto di acciaio e vetro — ma una qualità percettiva prodotta dalla scala, dalla luce filtrata e dalla monumentalità controllata.</p>
+<p>
+L’enorme navata, alta quasi 25 metri, non appare come un semplice contenitore funzionale: si percepisce come un campo unitario, un volume attraversato da una luce grigia, diffusa, che scivola lungo i montanti metallici e ne sottolinea la ripetizione ritmica. Le pareti vetrate inclinate, sostenute da telai d’acciaio perfettamente leggibili, creano una luminosità uniforme, atmosferica, che avvolge l’interno in una sorta di “foschia industriale”. È questa luce filtrata, continua, a costruire la densità atmosferica dello spazio: non un pieno, ma un <strong>peso dell’aria</strong> determinato dalla relazione tra struttura e illuminazione.</p>
+<p>
+La massa non deriva dal materiale, ma dal simbolismo della forma: il grande frontone cementizio — più gesto rappresentativo che elemento strutturale — introduce una gravità visiva che contrasta con la leggerezza dei fianchi vetrati. È in questo equilibrio tra pesante e leggero, tra trasparenza e monumentalità, che l’edificio produce la propria atmosfera densa.</p>
+<p>
+Behrens crea così il primo “tempio dell’industria”: un luogo in cui la densità non è quantitativa, ma qualitativa; non deriva dal costruito, ma dalla percezione dello spazio come energia, ritmo e presenza. Un precedente fondamentale per comprendere la densità atmosferica come variabile progettuale.</p>
+
+
+
+
+  </section>
+
+
+
+
+
+<br>
+  <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+</body>
+</html>

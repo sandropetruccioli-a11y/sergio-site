@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 9.2</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<body class="lezione3">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 9.2 – Coerenza e stabilità del campo strutturale: quando la forma “regge” davvero</h1>
+    <p class="box-intro">Un progetto è coerente quando ogni parte sostiene le altre: pianta, sezione, luce, percorso e materia concorrono a una logica comune e indivisibile. La forma non regge perché è “bella”: regge perché è necessaria. Questa scheda mostra esempi in cui il campo strutturale si manifesta come organismo stabile, attraversabile, verificabile da ogni punto di vista – senza incrinature, senza parti accessorie. La coerenza non è una qualità visiva, ma una struttura interna.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.2_A_5.png" style="display: block; height: 60%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_A_1.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_A_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_A_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_A_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_A_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_A_8.png" style="display: none; height: 80%; width: auto;">
+  
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Mies van der Rohe, <i>Neue Nationalgalerie, Berlino</i> (1968)</div>
+      <div class="caption-sub">La coerenza come chiarezza assoluta: la struttura modulare del tetto è leggibile nella pianta, nella sezione e nello spazio costruito. Il progetto è una dichiarazione radicale: tetto e basamento sono gli unici protagonisti, e ogni componente risponde a un ordine condiviso. Non c’è differenza tra struttura e forma: la coerenza è il principio generativo.
+      </div>
+    </figcaption>
+</section>
+
+ 
+<section class="text-section">
+ <p>
+La <i>Neue Nationalgalerie</i> di Berlino rappresenta uno degli esempi più rigorosi di coerenza e stabilità del campo strutturale nella storia dell’architettura moderna. In questo progetto, Mies van der Rohe non cerca una forma espressiva, ma costruisce un sistema logico assoluto, in cui ogni parte sostiene le altre secondo una necessità interna non negoziabile.</p>
+<p>
+Il progetto si fonda su un principio radicale di riduzione: un grande tetto piano in acciaio, sostenuto da una griglia strutturale regolare, e un basamento in pietra che accoglie gli spazi espositivi principali. Non esistono elementi secondari o accessori. La forma non deriva da una composizione figurativa, ma dall’applicazione coerente di una grammatica strutturale chiusa e completa.</p>
+<p>
+La coerenza del campo è verificabile da ogni punto di vista. Pianta, sezione e spazio costruito coincidono perfettamente: ciò che appare è esattamente ciò che sostiene. Il modulo strutturale del tetto governa l’intero edificio, rendendo leggibili le relazioni tra carichi, luci, ritmo e vuoto. La trasparenza perimetrale non è un gesto estetico, ma uno strumento di verifica: permette di percepire la continuità del campo strutturale senza mediazioni.</p>
+<p>
+Lo spazio espositivo superiore non possiede un centro simbolico né una direzione privilegiata. È il campo stesso, stabile e omogeneo, a costruire l’identità dello spazio. Come in un teorema, la struttura “regge” perché ogni passaggio è logicamente necessario; non c’è nulla da aggiungere né da sottrarre senza compromettere l’intero sistema.</p>
+<p>
+In relazione al tema della scheda, la <i>Neue Nationalgalerie</i> dimostra che la coerenza non è una qualità visiva, ma una struttura interna. La forma non regge perché è bella, ma perché è inevitabile. Coerenza e identità coincidono: il progetto è stabile perché non potrebbe essere altrimenti. L’architettura si manifesta qui come organismo mentale prima ancora che costruito, verificabile, attraversabile, assolutamente coerente.</p>
+
+
+  </section>
+
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.2_B_3.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_B_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_B_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_B_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_B_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_B_8.png" style="display: none; height: 80%; width: auto;">
+  
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Louis Kahn, <i>First Unitarian Church, Rochester</i> (1959–1969)</div>
+      <div class="caption-sub">La coerenza come convergenza tra spazio sacro, struttura e luce. L’aula centrale, perfettamente centrata e proporzionata, è definita da un involucro che rispetta, amplifica e protegge la funzione spirituale. Tutti gli elementi – volume, luce zenitale, pareti portanti – lavorano insieme. La forma è l’esito di una logica indivisibile.
+
+      </div>
+    </figcaption>
+</section>
+
+<section class="text-section">
+ <p>
+Nel progetto per la <i>First Unitarian Church</i> di Rochester, Louis Kahn porta la propria ricerca sulla coerenza architettonica a un livello di estrema concentrazione, trasformandola in una convergenza indivisibile tra spazio, struttura, luce e significato. L’edificio non è il risultato di una composizione progressiva, ma l’esito necessario di un’idea unitaria perseguita senza deviazioni.</p>
+<p>
+Il cuore del progetto è l’aula centrale, uno spazio compatto e silenzioso, rigorosamente centrato e proporzionato. Questo spazio non è semplicemente il luogo del rito, ma il generatore dell’intero campo architettonico. Attorno ad esso si organizzano gli ambienti secondari, secondo una logica che distingue ma non separa: ogni parte esiste in funzione della centralità spirituale dell’aula.</p>
+<p>
+La coerenza del progetto è strutturale prima ancora che formale. Le pareti portanti non delimitano soltanto lo spazio, ma lo costruiscono fisicamente e simbolicamente. La luce zenitale, filtrata e controllata, non agisce come elemento decorativo, ma come vera e propria materia costruttiva: orienta lo sguardo, stabilizza la percezione, rafforza il carattere raccolto dello spazio. Luce e gravità si incontrano in un equilibrio preciso, verificabile in ogni punto dell’edificio.</p>
+<p>
+Il campo architettonico è stabile perché ogni elemento partecipa a una sola logica portante, fisica e concettuale insieme. Non esistono parti accessorie o indipendenti: modificare un elemento significherebbe compromettere l’intero sistema. La forma non ammette variazioni perché è già il risultato di una necessità interna.</p>
+<p>
+In relazione al tema della scheda, la <i>First Unitarian Church</i> dimostra che la coerenza non è una qualità estetica, ma una struttura etica del progetto. Forma e senso coincidono. L’architettura regge perché tutte le sue parti convergono in un unico campo stabile, in cui spazio, luce e struttura sono inseparabili e inevitabili.</p>
+
+
+  </section>
+
+<br>
+
+
+<br>
+<p><strong>C.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.2_C_3.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_C_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_C_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_C_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_C_8.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_C_9.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.2_C_11.png" style="display: none; height: 80%; width: auto;">
+
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Sverre Fehn, <i>Glacier Museum, Fjaerland, Norvegia</i> (1991–2002)</div>
+      <div class="caption-sub">La coerenza come dialogo tra forma e paesaggio. Ogni parte del progetto – il muro curvo, il ponte interno, la luce diffusa – è coerente con l’idea di attraversare un ghiacciaio. La sezione non contraddice la pianta, la materia rafforza il disegno, il percorso costruisce il significato. La sintassi è totale: tutto sostiene tutto.
+
+      </div>
+    </figcaption>
+</section>
+
+</section>
+<section class="text-section">
+ <p>
+
+Nel <i>Glacier Museum</i> di Fjærland, Sverre Fehn costruisce uno dei suoi esempi più alti di coerenza spaziale e concettuale, dimostrando come un campo architettonico possa essere stabile senza essere rigido, e coerente senza essere chiuso. Il progetto si confronta con un paesaggio di forte intensità fisica e simbolica — i ghiacciai norvegesi — senza imitarlo né dominarlo, ma traducendone le forze in una struttura architettonica leggibile e necessaria.</p>
+<p>
+La grammatica del progetto è ridotta a pochi elementi essenziali: un muro curvo in cemento armato che incide il terreno, un percorso–ponte che guida l’attraversamento interno, una luce diffusa che modella lo spazio come fenomeno temporale. Presi singolarmente, questi elementi potrebbero apparire autonomi; è la loro sintassi, però, a costruire la coerenza del campo. Nessuna parte agisce isolatamente: ogni gesto è comprensibile solo in relazione agli altri.</p>
+<p>
+La stabilità del progetto non deriva da simmetrie o schemi formali rigidi, ma da un equilibrio interno tra direzioni, masse e tensioni. La sezione rafforza la pianta, la materia rende percepibile il disegno, il percorso costruisce progressivamente il significato dello spazio. Il museo non si limita a contenere una narrazione scientifica: la mette in atto attraverso l’esperienza dell’attraversamento, facendo coincidere struttura, spazio e racconto.</p>
+<p>
+Fehn lavora come un geologo del progetto: osserva, stratifica, misura. L’edificio diventa una prosecuzione mentale del paesaggio, un dispositivo che rende comprensibile l’idea di ghiacciaio non come oggetto, ma come processo. Il campo architettonico che ne risulta è stabile perché ogni parte sostiene le altre, e ogni relazione è verificabile nello spazio costruito.</p>
+<p>
+Nel contesto della Scheda 9.2, il <i>Glacier Museum</i> mostra che la coerenza del campo strutturale non è una qualità visiva, ma una struttura interna del progetto: una sintassi invisibile che tiene insieme percezione, materia e significato. La forma “regge” perché è necessaria al racconto e al luogo, e non potrebbe essere diversa senza perdere la propria identità.</p>
+
+
+
+</section>
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+
+
+
+</body>
+</html>

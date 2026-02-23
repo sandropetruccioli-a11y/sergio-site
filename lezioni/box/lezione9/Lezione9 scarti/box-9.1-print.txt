@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 9.1</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<body class="lezione3">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 9.1 – Responsabilità del progetto: lo spazio come esperienza vissuta</h1>
+    <p class="box-intro">L’architettura non è solo linguaggio: è un atto di responsabilità. Ogni scelta formale modella l’esperienza dello spazio, condiziona il comportamento del corpo, costruisce percezioni, orienta le emozioni. Luce, materia, atmosfera e densità non sono variabili estetiche: sono decisioni strutturali che definiscono la qualità del mondo abitabile. Questa scheda mostra opere in cui la forma nasce da una consapevolezza profonda della responsabilità progettuale.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.1_A_2.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_A_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_A_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_A_5.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_A_1.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_A_8.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_A_6.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_A_9.jpg" style="display: none; height: 80%; width: auto;">
+  
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Louis Kahn, <i>Yale Center for British Art, New Haven</i> (1977)</div>
+      <div class="caption-sub">La responsabilità come chiarezza ordinatrice: luce naturale, struttura e materia costruiscono un’esperienza contemplativa. Ogni elemento – travi, aperture, proporzioni – è calibrato per rendere lo spazio leggibile, stabile e sereno. L’architettura non impone: accompagna lo sguardo e il corpo con misura e rigore.
+      </div>
+    </figcaption>
+</section>
+
+ 
+<section class="text-section">
+ <p>
+Il <i>Yale Center for British Art</i> rappresenta una delle espressioni più mature del pensiero di Louis Kahn ed è un caso esemplare per la presente scheda di approfondimento, dedicata alla responsabilità del progetto e allo spazio come esperienza vissuta.</p>
+<p>
+In questo edificio, la responsabilità architettonica non è un principio astratto, ma una qualità che si manifesta direttamente nel modo in cui lo spazio viene percepito, attraversato e abitato nel tempo.</p>
+<p>
+La grammatica architettonica — struttura, luce, materia, proporzione — non è esibita come linguaggio formale, ma organizzata come sistema di relazioni leggibili. La griglia strutturale in cemento non è un vincolo compositivo, bensì un dispositivo di orientamento percettivo: rende lo spazio comprensibile, stabile, affidabile. Ogni ambiente è misurato per sostenere un’esperienza calma e continua, in cui il corpo non è sollecitato, ma accompagnato.</p>
+<p>
+La luce naturale è il principale strumento attraverso cui questa responsabilità si concretizza. I lucernari zenitali, filtrati e controllati, non producono effetti spettacolari, ma una luminosità diffusa che costruisce un tempo lento della visione. La luce non invade lo spazio, lo misura; non drammatizza, ma chiarisce. In questo modo, l’esperienza del visitatore diventa centrale: lo spazio non distrae, non impone una direzione emotiva, ma permette una relazione attenta e rispettosa con le opere e con il luogo.</p>
+<p>
+Anche la materia partecipa a questa etica dello spazio. Cemento, acciaio opaco, quercia bianca e tessuti naturali generano un equilibrio tra gravità e calore, tra struttura e tattilità. Ogni scelta contribuisce a costruire un ambiente in cui la presenza dell’architettura è costante ma mai dominante.</p>
+<p>
+In relazione al tema della lezione, il progetto di Kahn dimostra che la responsabilità del progetto consiste nel prendersi cura dell’esperienza vissuta. Lo spazio non è un’immagine, ma una condizione di permanenza, orientamento e durata. L’architettura diventa così un atto etico: non afferma se stessa, ma costruisce le condizioni per un’esperienza umana misurata, dignitosa e consapevole.</p>
+
+
+
+
+
+  </section>
+
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.1_B_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_B_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_B_3a.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_B_5.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_B_6.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_B_8.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_B_9.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Peter Zumthor, <i>Kolumba Museum, Colonia</i> (1997–2007)</div>
+      <div class="caption-sub">La responsabilità come costruzione dell’atmosfera: il progetto rilegge le rovine senza nostalgia, inserendo un nuovo corpo architettonico che accoglie, filtra, trasforma. Luce, suono, temperatura e materia danno forma a un’esperienza sensoriale intensa. L’architettura diventa silenzio, attesa, ascolto.
+
+      </div>
+    </figcaption>
+</section>
+
+<section class="text-section">
+ <p>
+Il <i>Kolumba Museum</i> di Peter Zumthor rappresenta un caso centrale, perché affronta la responsabilità architettonica non come problema formale, ma come costruzione consapevole dell’atmosfera e del tempo.</p>
+<p>
+Edificato sulle rovine della chiesa di Santa Columba, distrutta durante la Seconda guerra mondiale, il progetto non impone una nuova forma sopra ciò che resta, ma si costruisce con ciò che resta. Zumthor assume un atteggiamento di ascolto: frammenti archeologici, vuoti, tracce materiali e memorie non vengono musealizzati come oggetti, ma integrati in un campo spaziale unitario, capace di sospendere la percezione del tempo lineare.</p>
+<p>
+La responsabilità del progetto si manifesta qui come responsabilità sensoriale. Luce filtrata, murature porose, spessori profondi, suoni ovattati e variazioni di temperatura costruiscono un’esperienza che coinvolge il corpo prima ancora dello sguardo. La prospettiva non guida, ma lascia emergere lo spazio attraverso l’attraversamento lento. Il visitatore non è condotto, ma immerso.</p>
+<p>
+La forma architettonica non è dichiarata in modo evidente. Emerge come sintesi necessaria di materiali, luce e vuoto. I mattoni grigi, sottili e traforati, non definiscono solo un involucro, ma regolano il passaggio dell’aria e della luce, rendendo percepibile il tempo che scorre: le ore del giorno, le stagioni, il mutare delle ombre. L’architettura non rappresenta la memoria, la rende esperibile.</p>
+<p>
+In relazione al tema della lezione, il Kolumba dimostra che la responsabilità del progetto non si esaurisce nella correttezza funzionale o strutturale, ma riguarda il modo in cui lo spazio agisce sulla percezione, sulla memoria e sulla durata dell’esperienza. Costruire diventa un atto di cura: del silenzio, del vuoto, del tempo condiviso.</p>
+<p>
+Zumthor mostra che l’architettura può assumersi la responsabilità di non imporsi, ma di creare le condizioni per un’esperienza profonda, lenta e consapevole dello spazio vissuto.</p>
+
+
+  </section>
+
+<br>
+
+
+<br>
+<p><strong>C.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.1_C_2.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_C_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_C_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_C_5.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_C_8.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_C_6.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.1_C_7.jpg" style="display: none; height: 80%; width: auto;">
+
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Álvaro Siza, <i>Chiesa di Santa Maria, Marco de Canaveses</i> (1996)</div>
+      <div class="caption-sub">La responsabilità come tensione tra luce e gravità: spazi essenziali, superfici bianche, luce naturale come elemento costruttivo. Il progetto non rappresenta la spiritualità: la evoca attraverso ritmo, proporzione e silenzio. L’architettura diventa corpo, soglia, rivelazione.
+
+      </div>
+    </figcaption>
+</section>
+
+</section>
+<section class="text-section">
+ <p>
+Nella <i>Chiesa di Santa Maria a Marco de Canaveses</i>, Álvaro Siza realizza un’architettura che si offre come esperienza interiore prima ancora che come forma. Il progetto rinuncia a ogni simbolismo esplicito e a ogni monumentalità retorica, assumendo invece la responsabilità di costruire uno spazio in cui la spiritualità emerge attraverso la qualità dell’esperienza vissuta.</p>
+<p>
+In relazione al tema di questa scheda, la responsabilità del progetto si manifesta come controllo rigoroso dei mezzi e come adesione a un’etica della forma necessaria. Luce naturale, superfici bianche, proporzioni misurate, peso della materia e silenzio compositivo sono gli strumenti attraverso cui Siza articola uno spazio fatto di tensione, attesa e rivelazione. Nulla è aggiunto, nulla è enfatizzato: ogni elemento è calibrato per agire sulla percezione del corpo nello spazio.</p>
+<p>
+La luce non entra in modo uniforme, ma è costruita come sequenza di eventi: tagli verticali, aperture laterali, lucernari e fenditure che modulano il rapporto tra interno ed esterno, tra gravità e trascendenza. La profondità non è scenografica, ma temporale: lo spazio si chiarisce progressivamente, accompagnando lo sguardo e il movimento con estrema precisione.</p>
+<p>
+La grammatica architettonica — luce, proporzione, soglia, vuoto — è ridotta all’essenziale, ma proprio questa economia genera una sintassi potente. Il percorso, la disposizione delle masse, il rapporto tra pavimento, pareti e copertura costruiscono un campo di forze in cui il corpo è costantemente messo in relazione con la luce e con il silenzio. L’architettura non impone un significato, ma crea le condizioni per un’esperienza.</p>
+<p>
+In questo senso, Siza non rappresenta il sacro: lo evoca. La responsabilità progettuale coincide con la rinuncia all’eccesso e con la cura della misura. La chiesa non è un oggetto da osservare, ma uno spazio da abitare lentamente, in cui luce, materia e corpo entrano in risonanza.</p>
+<p>
+All’interno della lezione, il progetto di Siza mostra come la responsabilità del progetto consista nel costruire spazi capaci di accogliere l’esperienza umana nella sua dimensione più profonda, trasformando l’architettura in atto di precisione percettiva e di ascolto.</p>
+
+
+
+</section>
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+
+
+
+</body>
+</html>

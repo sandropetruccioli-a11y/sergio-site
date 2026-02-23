@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 7.4</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione1">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 7.4</div>
+
+    <h1 class="scheda-title">
+      Le variabili I: <br>dimensione, posizione, profondità
+    </h1>
+  </div>
+
+  <div class="cover-image" style="--img-scale: 60%;">
+    <img src="print7/box_7.4_A_5.jpg" alt="[COVER_IMAGE_ALT]">
+  </div>
+
+  <div class="cover-intro">
+   Le variabili trasformano il campo. Modificare una dimensione non cambia un oggetto: riorganizza i rapporti. Spostare un elemento altera tensioni e gerarchie. La profondità ridefinisce l’equilibrio tra distanza e densità. Ogni piccola variazione genera un effetto sistemico. Il progetto è un organismo sensibile, e le variabili ne sono il motore.
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+    <i>Cortile di Palazzo Pitti, Firenze </i> (XVI sec.)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_A_1.jpg" alt="">
+      <div class="image-index">A.1</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_A_2.jpg" alt="">
+      <div class="image-index">A.2</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_A_4.jpg" alt="">
+      <div class="image-index">A.3</div>
+    </div>
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+La dimensione come forza che ridefinisce pesi, scala e orientamento percettivo.
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>
+Nel cortile di Palazzo Pitti, la dimensione non è una misura, ma una tensione. L’ampiezza del recinto genera un campo percettivo in cui il corpo perde i riferimenti usuali e deve ricostruire la propria posizione nello spazio. La vastità del vuoto centrale non è “spazio disponibile”: è una forza attiva che rende le facciate pesanti o leggere, vicine o lontane, a seconda del punto di vista e dell’incidenza della luce.</p>
+ <p>
+La dimensione modifica il comportamento della geometria: lo stesso ordine architettonico assume pesi diversi a seconda della distanza da cui è percepito. Nel cortile, la grandezza del vuoto centralizza, rallenta, assorbe. Diventa una variabile che organizza lo spazio, costruendo una percezione di monumentalità che nasce non dalla decorazione, ma dall’azione del vuoto come massa percettiva.</p>
+
+
+
+
+   
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+    <i>Teatro di Epidauro, Grecia </i> (IV sec. a.C.)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+ 
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_B_1.jpg" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_B_2.jpg" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_B_3.jpg" alt="">
+      <div class="image-index">B.3</div>
+    </div>
+  
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_B_4.jpg" alt="">
+      <div class="image-index">B.4</div>
+    </div>
+  
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_B_5.jpg" alt="">
+      <div class="image-index">B.5</div>
+    </div>
+
+  
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_B_6.jpg" alt="">
+      <div class="image-index">B.6</div>
+    </div>
+  
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+La posizione come regolatore percettivo tra architettura e paesaggio.
+</div>
+    
+
+  <div class="icono-divider"></div>
+
+
+<section class="text-section">
+<p>
+Nel Teatro di Epidauro, la posizione non è una scelta topografica, ma lo strumento che costruisce l’intero campo percettivo. L’anfiteatro si innesta nel pendio naturale in modo da trasformare la collina in struttura, orientamento, profondità. La posizione determina il rapporto tra corpo e paesaggio: l’occhio scende verso l’orchestra, ma allo stesso tempo si apre verso l’orizzonte delle montagne, costruendo una doppia direzione — centripeta e centrifuga — che dà unità all’esperienza.</p>
+ <p>
+Qui la posizione diventa una variabile trasformativa: modifica la percezione della scala, distribuisce la luce, organizza la relazione tra cielo, gradinate e suolo. L’architettura non sovrappone una forma al paesaggio: ne trae la propria identità, mostrando come la posizione possa essere un principio strutturale prima ancora che una scelta compositiva.</p>
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+  <div class="caption-main">
+     <i>Francesco Borromini, Galleria Prospettica di Palazzo Spada </i> (1652–1677)
+    </div>
+  </div>
+
+ <div class="image-grid">
+
+ 
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_C_1.jpg" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_C_2.jpg" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 80%;">
+      <img src="print7/box_7.4_C_4.jpg" alt="">
+      <div class="image-index">C.3</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_C_5.jpg" alt="">
+      <div class="image-index">C.4</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print7/box_7.4_C_1.jpg" alt="">
+      <div class="image-index">C.6</div>
+    </div>
+ 
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+La profondità come costruzione percettiva, non come distanza fisica.
+
+</div>
+    
+ <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>
+La Galleria di Palazzo Spada è il manifesto più radicale di cosa significhi “profondità” in architettura. Borromini dimostra che la profondità non è la distanza tra due punti, ma un rapporto percettivo che può essere costruito e manipolato. Grazie alla convergenza delle colonne, al rialzo progressivo del pavimento e all’abbassamento della volta, la galleria crea una profondità virtuale che supera di quattro volte quella reale.</p>
+ <p>
+La variabile profondità diventa così una forza che ridefinisce la percezione: lo spazio accelera, si restringe, si allunga. Il corpo è trascinato da un vettore che non coincide con la geometria fisica, ma con la geometria mentale che l’architetto mette in scena. Borromini trasforma la profondità in un dispositivo critico: una costruzione della mente più che dell’occhio.</p>
+
+    
+ </section>
+
+
+</section>
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

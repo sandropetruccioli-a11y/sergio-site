@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 5.1</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+
+<body class="lezione2">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 5.1 - La rappresentazione come verifica esplorativa</h1>
+    <p class="box-intro">All’inizio del progetto, ogni forma è un’ipotesi. Schizzi, diagrammi e modelli operano come strumenti di esplorazione: non mostrano una forma finita, ma costruiscono uno spazio mentale in cui testare tensioni, errori, relazioni. La rappresentazione non è un’esposizione, ma un luogo critico in cui l’idea prende corpo, si chiarisce, si trasforma.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.1_A_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_A_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_A_10.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_A_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_A_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_A_5.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Michelangelo, <i>Studio per il vestibolo della Biblioteca Laurenziana</i>, 1523–24.</div>
+      <div class="caption-sub">Esempi di rappresentazione come strumento di verifica: la forma del muro e della scala nasce attraverso correzioni, varianti e aggiustamenti progressivi.
+      </div>
+    </figcaption>
+</section>
+
+<br>
+ 
+<section class="text-section">
+ <p><strong>Schizzi, varianti e sezioni come strumenti di verifica della forma</strong></p>
+<p>
+Nella progettazione della Biblioteca Laurenziana, Michelangelo utilizza il disegno non come strumento illustrativo, ma come vero laboratorio di verifica della forma. Gli schizzi conservati agli Uffizi (qui riprodotti parzialmente) sono ricchi di ripensamenti, giunzioni corrette, curvature provate e scartate; essi mostrano come il vestibolo e la celebre scala non siano nati da un’intuizione unica, ma da una sequenza di prove che mettono sotto tensione la struttura spaziale. La rappresentazione diventa così il luogo in cui il progetto si costruisce.</p>
+<p>
+Michelangelo esplora il vestibolo attraverso numerose sezioni verticali, veri test della relazione tra corpo, parete e luce: il muro non è sfondo ma massa attiva che spinge e contrae lo spazio. Le continue variazioni nelle proporzioni delle paraste, negli aggetti, negli incassi dei peducci mostrano un processo in cui ogni elemento è corretto in funzione del comportamento complessivo dello spazio. Anche la scala — che nelle versioni preliminari assume forme diverse, più o meno ripide, più o meno articolate — è il risultato di una serie di verifiche grafico-spaziali che cercano un equilibrio tra forza plastica e necessità distributiva.
+Ciò che emerge, attraverso questi disegni, è un metodo: la forma viene trovata nel disegno, non prima del disegno. Gli schizzi funzionano come “prove di stress” della struttura: Michelangelo controlla il rapporto tra masse e vuoti, la coerenza delle curvature, la continuità delle spinte e la qualità della luce. La rappresentazione non serve dunque a mostrare la soluzione finale, ma a scoprire se la soluzione regge, se è coerente, se è necessaria.</p>
+<p>
+La Laurenziana diventa così un caso esemplare della logica della Lezione 5: il progetto non è un insieme di idee, ma una serie di verifiche disciplinate, condotte attraverso piante, sezioni e schizzi che costringono la forma a misurarsi con il proprio campo strutturale</p>
+   
+  </section>
+<br>
+
+
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_17.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_18.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_19.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_20.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_15.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_13.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_16.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_B_11.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Louis Sullivan, <i>Auditorium Building, Chicago</i> (1887–1889). Schizzi strutturali per la sala principale</div>
+      <div class="caption-sub">Sullivan utilizza schizzi e sezioni rapide per testare l’andamento curvilineo della sala, confrontando luce, acustica e struttura. La rappresentazione è uno strumento critico: verifica l’efficacia dello spazio prima della definizione formale.
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+
+Nel lavoro di Louis Sullivan, e in particolare nel progetto dell’<i>Auditorium Building, Chicago</i> (1887–1889), la rappresentazione non ha una funzione decorativa né illustrativa, ma diventa un vero e proprio strumento critico: un luogo in cui la forma viene messa sotto pressione, verificata, adattata e ricorretta alla luce dei problemi strutturali, distributivi e tecnici che emergono durante il processo.</p>
+<p>
+Gli schizzi e i diagrammi prodotti nello studio Adler & Sullivan mostrano una condizione tipica della cultura progettuale americana di fine Ottocento: la necessità di far convivere massa muraria, struttura metallica e un programma funzionale estremamente complesso (hotel, uffici, teatro, sale di prova). Ciò significa che la forma non può essere semplicemente disegnata: deve essere testata, spesso ripetutamente, per verificare se sia in grado di sostenere le esigenze strutturali e funzionali dell’edificio.</p>
+<p>
+In questo senso gli schizzi strutturali dell’Auditorium Building sono esemplari, perché mostrano come:
+<ul>
+<li>la rappresentazione non serva a fissare un’immagine, ma a far emergere la logica interna del progetto;</li>
+<li>la forma non preceda la struttura, ma ne risulti continuamente negoziata, ridefinita nel rapporto tra sala teatrale, trave reticolare, involucri e spazi serventi;</li>
+<li>il disegno non sia l’esito, ma il luogo in cui la decisione architettonica avviene.</li>
+</ul>
+Sullivan — spesso ricordato per il suo motto “form follows function” — appare qui in una luce più sfumata e più interessante: non come colui che formula una regola, ma come chi dimostra che la forma segue la funzione solo nel senso in cui viene messa alla prova da essa. Tutti gli schizzi tecnici, le sezioni di prova, gli studi sulla curvatura della sala e sull’impianto strutturale sono strumenti attraverso i quali il progetto si costruisce come un organismo coerente.
+  </p>
+
+  </section>
+
+<br>
+<p><strong>C.</strong></p>
+
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.1_C_4.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_C_8.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_C_1.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_C_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_C_5.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.1_C_7.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Herman Hertzberger, <i>Centraal Beheer, Apeldoorn</i> (1967–1972). Modelli modulari di studio del sistema a cellule cubiche</div>
+      <div class="caption-sub">I modelli ricombinabili mettono alla prova la logica “a moduli” che genera spazi intermedi, cuore del progetto. La rappresentazione serve a verificare continuità, porosità e relazioni tra le cellule, chiarendo come la forma emerga dalla sperimentazione.
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+
+Il <i>Centraal Beheer</i> (Apeldoorn, 1972) rappresenta uno dei casi più chiari in cui la forma architettonica nasce non da un gesto compositivo, ma da una lunga sequenza di verifiche progettuali, condotte attraverso piante modulari, modelli tridimensionali e studi di aggregazione. Il progetto non mira a definire un volume unitario, bensì a costruire un <strong>campo strutturale estensibile</strong>, capace di generare ordine attraverso l’interazione tra parti ripetute e differenziate.</p>
+<p>
+Alla base dell’edificio vi è un <strong>modulo spaziale di 9×9 metri</strong>, sviluppato, testato e modificato dallo studio attraverso una serie di modelli di studio: non un’unità astratta, ma un elemento empirico, verificato nella sua capacità di accogliere funzioni, percorsi, relazioni visive e variazioni d’uso. La rappresentazione svolge qui un ruolo centrale: ogni disegno o modello serve a interrogare il modulo, a misurare come esso si comporta aggregandosi, deformandosi, accogliendo ponti, vuoti, passerelle e spazi informali.</p>
+<p>
+Il progetto mostra così che la forma non è un risultato imposto dall’alto, ma l’esito di una <strong>pressione interna del sistema modulare</strong>, continuamente controllata attraverso la rappresentazione. Le “strade interne”, i vuoti verticali e i punti di incontro non sono aggiunte successive, ma emergono dal modo in cui i moduli reagiscono quando vengono aggregati: la pianta e il modello rivelano quali variazioni producano relazioni sociali più ricche o maggiore permeabilità spaziale.</p>
+<p>
+Questa dinamica rende il <i>Centraal Beheer</i> un esempio ideale per la la nostra lezione: la rappresentazione non serve a mostrare un edificio, ma a capire se il sistema funziona. Il risultato è un’architettura che non è definita da una forma finita, ma dalla sua capacità di reggere il cambiamento.</p>
+<p>
+Hertzberger dimostra così che progettare non significa definire un’immagine, ma costruire un campo relazionale in cui forma, uso e comportamento degli utenti possano interagire. Il modulo non è un fine, ma uno strumento critico: la sua ripetizione controllata permette di verificare la struttura dell’intero edificio, la sua adattabilità futura e la qualità degli spazi di vita quotidiana.</p>
+<p>
+Il <i>Centraal Beheer</i> mostra in modo esemplare che l’architettura nasce nel disegno che interroga, non nel disegno che rappresenta. È nella verifica continua del modulo e nella sua aggregazione che prende forma un organismo capace di trasformarsi senza perdere identità.
+
+  </p>
+
+  </section>
+
+
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+</body>
+</html>

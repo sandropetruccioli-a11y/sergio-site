@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lezione – Titolo</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/lezione.css" />
+  <script defer src="js/toc-drawer.js"></script>
+  <script defer src="../js/backbar.js" data-target="chapter"></script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
+  <style>
+    .lang-switch {
+      text-align: right;
+      margin: 0.5em 1em;
+    }
+    .lang-switch img {
+      width: 24px;
+      height: auto;
+      cursor: pointer;
+      margin-left: 0.5em;
+    }
+    .text { display: none; }
+    .text.active { display: block; }
+    .lang-switch {
+      display: flex;
+      gap: 0.5em;
+      align-items: center;
+      margin-left: 1em;
+    }
+
+    .lang-switch button {
+      background-color: transparent;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      border-radius: 50%;
+      overflow: hidden;
+      width: 32px;
+      height: 32px;
+      transition: transform 0.2s;
+    }
+
+    .lang-switch button:hover {
+      transform: scale(1.1);
+    }
+
+    .lang-switch img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="service-header">
+    <span class="header-left">Sergio Petruccioli – Dalla composizione al progetto</span>
+  </div>
+
+  <!-- Commutatore lingua con bandiere -->
+<div class="lang-switch">
+  <button id="lang-it" title="Italiano">
+    <img src="./img/italy-flag.png" alt="Italiano">
+  </button>
+  <button id="lang-en" title="English">
+    <img src="./img/uk-flag.png" alt="English">
+  </button>
+</div>
+
+
+    <!<img src="path/to/italy-flag.png" alt="ITA" onclick="switchLanguage('ita')"> 
+    <! <img src="path/to/uk-flag.png" alt="ENG" onclick="switchLanguage('eng')"> 
+  </div>
+ 
+
+
+
+  <!-- TOC bilingue -->
+  <nav class="toc">
+    <h2 class="toc-title ita">Contenuti</h2>
+    <h2 class="toc-title eng" style="display:none;">Contents</h2>
+    <ul>
+      <li><a href="#chapter-start">↑ <span class="ita">Inizio Lezione</span><span class="eng" style="display:none;">Lesson Start</span></a></li>
+      <li><a href="#capitolo-1"><span class="ita">1. Introduzione</span><span class="eng" style="display:none;">1. Introduction</span></a></li>
+      <li><a href="#capitolo-2"><span class="ita">2. Sezione di esempio</span><span class="eng" style="display:none;">2. Example Section</span></a></li>
+      <!-- altri items -->
+      <li><a href="javascript:history.back()">← <span class="ita">Torna alla pagina precedente</span><span class="eng" style="display:none;">Go back</span></a></li>
+    </ul>
+  </nav>
+
+  <main id="content">
+    <header class="frontmatter">
+      <a id="chapter-start"></a>
+      <div class="chapter-number centered">Lezione 1</div>
+      <div class="main-title centered">TITOLO DELLA LEZIONE</div>
+    </header>
+
+    <!-- Testo italiano -->
+    <div class="text ita active">
+      <div class="titolo_paragrafo" id="capitolo-1">1. Introduzione</div>
+      <p>Questo è il testo della lezione in <strong>italiano</strong>.</p>
+
+      <div class="titolo_paragrafo" id="capitolo-2">2. Sezione di esempio</div>
+      <p>Secondo paragrafo in italiano. Si possono inserire <a href="../box/box-1.html" target="_blank">box di approfondimento</a>.</p>
+    </div>
+
+    <!-- English text -->
+    <div class="text eng">
+      <div class="titolo_paragrafo" id="cap_1_eng">1. Introduction</div>
+      <p>This is the lesson text in <strong>English</strong>.</p>
+
+      <div class="titolo_paragrafo" id="cap_2_eng">2. Example Section</div>
+      <p>Second paragraph in English. You can include <a href="../box/box-1.html" target="_blank">reference boxes</a>.</p>
+    </div>
+  </main>
+
+  <script>
+    function switchLanguage(lang) {
+      // mostra/nascondi testi
+      document.querySelectorAll('.text').forEach(el => el.classList.remove('active'));
+      document.querySelector('.text.' + lang).classList.add('active');
+
+      // mostra/nascondi TOC titoli e link
+      document.querySelectorAll('.toc-title, .toc a span').forEach(el => {
+        // reset display
+        el.style.display = 'none';
+      });
+      // mostra la versione giusta
+      document.querySelectorAll('.' + lang).forEach(el => {
+        el.style.display = '';
+      });
+    }
+  </script>
+<!-- AGGIUNGI QUESTO BLOCCO -->
+<script>
+  document.getElementById("lang-it").addEventListener("click", function () {
+    switchLanguage("ita");
+  });
+
+  document.getElementById("lang-en").addEventListener("click", function () {
+    switchLanguage("eng");
+  });
+</script>
+
+
+</body>
+</html>

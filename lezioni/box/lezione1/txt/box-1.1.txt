@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 1.1</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 1.1 - L’identità personale e il gesto originario dell’architetto</h1>
+    <p class="box-intro">Ogni architetto inizia dal proprio sguardo sul mondo: l’osservazione, il disegno e il gesto sono forme originarie di comprensione spaziale, prima ancora dell’apprendimento tecnico. Le immagini proposte mostrano come, nei taccuini e nelle abitudini di lavoro, si manifesti una vocazione progettuale: un modo personale di organizzare la realtà, selezionare ciò che conta, trattenere relazioni.</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img1/box_1.1_A_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img1/box_1.1_A_2.png" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+<br>
+    <figcaption>
+      <div class="caption-main">Le Corbusier, <i>Maison de Salluste à Pompéi</i>, in <i>Voyage d’Orient, Carnet IV</i> (1911), Fondation Le Corbusier, Parigi</div>
+      <div class="caption-sub">È una delle pagine più celebri dei taccuini giovanili di Le Corbusier. Mostra l’atto originario del progettare: guardare, comprendere, sintetizzare. È un’immagine che assume valore emblematico per gli studenti: <i>l’architetto nasce nel momento in cui impara a vedere</i>.
+      </div>
+    </figcaption>
+</section>
+<br>
+  <section class="text-section">
+    <p><strong>L’interesse di Le Corbusier per la Casa di Sallustio a Pompei</strong> è documentato nel suo diario di viaggio, il <i>Carnet IV</i> del suo <i>Viaggio in Oriente</i>, realizzato nel 1911. L’osservazione di questa dimora romana ha alimentato la sua riflessione sull’architettura, in particolare sulla composizione spaziale, il rapporto tra interno ed esterno e i tracciati regolatori.</p>
+
+    <p><strong>La Casa di Sallustio e il Viaggio in Oriente</strong></p>
+    <ul>
+      <li><strong>Viaggio di studio:</strong> Nel 1911, Le Corbusier (allora Charles-Édouard Jeanneret) visita Pompei durante il suo <i>Viaggio in Oriente</i>. Questo viaggio, iniziato nel 1910, è una ricerca di ispirazione presso le fonti dell’arte classica, come quelle della Grecia e dell’Italia.</li>
+      <li><strong>Osservazioni sulla domus:</strong> Nel suo <i>Carnet IV</i>, realizza alcuni schizzi della Casa di Sallustio, risalente al II secolo a.C. Questi disegni non si limitano a una riproduzione fedele, ma sono un’esplorazione della struttura e dello spazio. Studia le relazioni tra i diversi elementi architettonici, in particolare l’atrio, le stanze interne e il giardino.</li>
+      <li><strong>Ricerca della geometria:</strong> A Pompei, Le Corbusier cerca le logiche nascoste della composizione che danno senso alla disposizione degli oggetti architettonici. Si interessa alle linee invisibili che ordinano lo spazio, piuttosto che alle decorazioni superflue.</li>
+    </ul>
+
+    <p><strong>Influenza sull’opera di Le Corbusier</strong></p>
+    <ul>
+      <li><strong>Rapporto interno-esterno:</strong> L’apertura delle case pompeiane, tra cui la Casa di Sallustio, verso l’esterno e il modo in cui le rovine creano aperture e “diaframmi” spaziali, hanno segnato Le Corbusier. Questo rapporto dialettico tra spazio chiuso e spazio aperto si ritrova nel suo concetto di “passeggiata architettonica” e nell’uso di terrazze e giardini pensili.</li>
+      <li><strong>Incompletezza e struttura:</strong> Lo stato di rovina delle dimore di Pompei, dove le pareti e i tetti mancanti rivelano la struttura e la sezione degli edifici, ha affascinato Le Corbusier. Questa esposizione della struttura stessa dell’architettura è un concetto che ha ripreso, in particolare con l’uso del cemento grezzo e l’evidenziazione dei pilastri.</li>
+      <li><strong>Eredità nella sua opera:</strong> L’influenza dell’architettura antica, e più specificamente delle sue osservazioni a Pompei, è percepibile durante tutta la sua carriera. La ritroviamo nelle sue costruzioni emblematiche come la Villa Savoye o l’<i>Unité d’Habitation</i> di Marsiglia, dove le forme antiche sono reinterpretate e astratte in un linguaggio architettonico moderno.</li>
+    </ul>
+  </section>
+<br>
+<p><strong>B.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img1/box_1.1_B_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img1/box_1.1_B_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img1/box_1.1_B_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img1/box_1.1_B_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img1/box_1.1_B_5.png" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+</section>
+<br>
+    <figcaption>
+      <div class="caption-main">Álvaro Siza, <i>Álvaro Siza, schizzo di un “grattacielo immaginario”</i>, dal <i>Caderno 32</i> (1979), e altri disegni dai suoi taccuini.
+        </div>
+      <div class="caption-sub">Gli schizzi di Siza sono un modello didattico essenziale: pochi segni, tutti necessari, che rivelano un modo di pensare prima ancora che di disegnare. Qui parla della <i>scelta dell’architettura</i> come pratica di osservazione - Siza incarna esattamente questo.</div>
+    </figcaption>
+  </section>
+<br>
+  <section class="text-section">
+ <p>
+      Lo schizzo tratto dal <i>Caderno 32</i> dell’architetto Álvaro Siza è un disegno di un
+      “grattacielo immaginario” realizzato nel 1979. Lo schizzo originale fa parte della
+      collezione Drawing Matter, mentre la collezione più ampia degli sketchbook di Siza è
+      conservata presso il Canadian Centre for Architecture (CCA).
+    </p>
+
+    <strong>Dettagli dello schizzo</strong>
+    <ul>
+      <li><strong>Oggetto:</strong> un grattacielo immaginario, un argomento discusso da Siza in relazione al progetto “Mile-High Illinois” di Frank Lloyd Wright.</li>
+      <li><strong>Tecnica:</strong> penna a sfera su carta.</li>
+      <li><strong>Dimensioni:</strong> 297 mm × 210 mm (formato A4).</li>
+      <li><strong>Ubicazione dell’originale:</strong> collezione Drawing Matter (DMC 2529.38).</li>
+      <li><strong>Contesto:</strong> lo schizzo riflette l’interesse di Siza per il potenziale del design verticale e la sua continua esplorazione di idee architettoniche attraverso il disegno.</li>
+    </ul>
+
+    <p>
+      Gli sketchbook sono stati il mezzo principale utilizzato da Siza per esplorare idee
+      architettoniche, prendere appunti e documentare conversazioni con persone e progetti.
+    </p>
+
+  </section>
+<br>
+<p><strong>C.</strong></p>
+<br>
+  <section class="image-section">
+    <figure>
+       <img class="carousel-image zoomable" src="./img1/box_1.1_C_2.png" alt="Vista 1" style="width: 40%; height: auto;">
+      <figcaption>
+        <div class="caption-main"><i>Louis Kahn al tavolo di lavoro</i>, Architectural Archives, University of Pennsylvania (Louis I. Kahn Collection)</div>
+        <div class="caption-sub">Qui non vediamo un edificio, ma il lavoro quotidiano dell’architetto: tavolo pieno di disegni, modelli, prove, riflessioni. Immagine fortissima dal punto di vista formativo: architettura non come <i>risultato</i>, ma come <i>processo</i>.
+</div>
+<br>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+  <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+</body>
+</html>

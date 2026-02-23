@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 4.1</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione1">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 4.1</div>
+
+    <h1 class="scheda-title">
+      Corpo della forma <i>vs.</i> <br>comportamento della forma: <br>la forma che agisce
+    </h1>
+  </div>
+
+  <div class="cover-image" style="--img-scale: 50%;">
+    <img src="print4/box_4.1_A_3.jpg" alt="[COVER_IMAGE_ALT]">
+  </div>
+
+  <div class="cover-intro">
+    <p>
+    La forma architettonica non è un oggetto statico, ma un comportamento spaziale. Agisce sul corpo, orienta la luce, costruisce ritmi e tensioni. La sua efficacia risiede meno nella figura e più nel modo in cui organizza lo spazio e induce un’esperienza. Le immagini selezionate rendono evidente come l’identità di una forma risieda nel suo modo di agire, più che nella sua apparenza.
+    </p>
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+     Louis Kahn, <i>Salk Institute</i> (1959-1965), cortile e asse d’acqua
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_A_2.jpg" alt="">
+      <div class="image-index">A.1</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_A_1.jpg" alt="">
+      <div class="image-index">A.2</div>
+    </div>
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_A_4.jpg" alt="">
+      <div class="image-index">A.3</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_A_5.jpg" alt="">
+      <div class="image-index">A.4</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_A_6.jpg" alt="">
+      <div class="image-index">A.5</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_A_8.jpg" alt="">
+      <div class="image-index">A.6</div>
+    </div>
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Il Salk non è un “edificio”: è un comportamento dello spazio.
+<ul>
+<li>Il vuoto centrale attira lo sguardo,</li>
+<li>l’asse d’acqua orienta il corpo verso l’orizzonte,</li>
+<li>i volumi simmetrici comprimono e dirigono,</li>
+<li>la luce costruisce una profondità assoluta.</li>
+</ul>
+È una delle manifestazioni più chiare di ciò che abbiamo descritto come comportamento della forma.
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>Nel Salk Institute, il grande <strong>cortile centrale</strong> non è semplicemente uno spazio di distribuzione: è il vero “cuore disciplinare” del complesso, un luogo di sospensione percettiva in cui architettura, luce e paesaggio si integrano in una forma di conoscenza silenziosa. La sua forza risiede nel fatto che Kahn rinuncia volontariamente a ogni decorazione e riduce lo spazio a poche decisioni fondamentali: due ali simmetriche, un piano orizzontale di travertino, la linea sottile dell’acqua, il vuoto dell’orizzonte.</p>
+<p>
+L’<strong>asse d’acqua</strong>, che scorre al centro del cortile, agisce come una tensione direzionale che orienta il corpo e lo sguardo verso l’oceano. Non è un elemento ornamentale: è la traduzione fisica dell’idea di “ordine” che attraversa l’intero progetto. La lama d’acqua rende percepibile il rapporto tra gravità e luce, tra movimento e immobilità, tra il gesto misurato dell’uomo e l’indeterminazione del paesaggio. Essa diventa così uno strumento conoscitivo, un dispositivo che permette di leggere la profondità dello spazio attraverso un’azione minima e continua: lo scorrere.</p>
+<p>
+Il cortile assume un carattere quasi sacro: è uno spazio che invita alla contemplazione, ma anche al lavoro intellettuale. Jonas Salk aveva chiesto a Kahn un edificio “che ispirasse grandi idee”: la risposta è un luogo che non mostra nulla di superfluo, ma fa emergere la presenza del tempo attraverso il mutare delle ombre, la variazione della luce e la vibrazione dell’acqua. L’architettura non compete con il paesaggio: lo incornicia, lo misura e lo rende esperienza.</p>
+<p>
+In questo modo Kahn riesce a creare una proporzione tra l’uomo e l’infinito: il cortile è uno spazio disciplinare, ma l’orizzonte aperto introduce una dimensione che supera la funzione dell’edificio. La sua grandezza sta nel far convivere ordine e vastità, rigore costruttivo e apertura poetica.</p>
+<p>
+Il Salk Institute non propone una forma da abitare, ma una <strong>condizione da percepire</strong>: la consapevolezza che l’architettura può essere essenziale e al tempo stesso intensa, materica e metafisica. In questo equilibrio, l’asse d’acqua diventa il segno più puro della poetica di Kahn: un gesto minimo che contiene l’immensità.</p>
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+    Carlo Scarpa, <i>Museo Canova</i>, Possagno (1957)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_B_5.jpg" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_B_3.jpg" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 80%;">
+      <img src="print4/box_4.1_B_7.jpg" alt="">
+      <div class="image-index">B.3</div>
+    </div>
+
+  
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_B_1.jpg" alt="">
+      <div class="image-index">B.4</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_B_4.jpg" alt="">
+      <div class="image-index">B.5</div>
+    </div>
+
+  
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_B_6.jpg" alt="">
+      <div class="image-index">B.6</div>
+    </div>
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+ Nel Museo Canova:
+<ul>
+<li>i tagli di luce disegnano piani invisibili,</li>
+<li>i dettagli orientano il movimento,</li>
+<li>la soglia crea un ritmo interno,</li>
+<li>le superfici non “ornano”: agiscono.</li>
+</ul>
+
+</div>
+    
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+
+<section class="text-section">
+ <p>
+  L’intervento di Carlo Scarpa per l’ampliamento della <i>Gypsotheca Canoviana</i> (1955-1957) rappresenta un caso esemplare di come l’architettura possa nascere da un ascolto percettivo del luogo e dell’opera. L’ampliamento non è un semplice contenitore museale, ma un dispositivo spaziale in cui luce, materia, soglia e percorso diventano strumenti per ricostruire il senso delle sculture di Canova.
+
+Scarpa lavora su tre principi fondamentali — tutti centrali nella nostra lezione:
+<ul>
+<li><strong> La luce come struttura dello spazio</strong> La luce naturale entra da tagli, vetrate angolari, aperture calibrate: non illumina genericamente, ma costruisce gerarchie, ritmi, campi percettivi. Le sculture non sono viste “in vetrina”, ma emergono da quadri d’ombra e riflessi che mutano durante il giorno: lo spazio diventa evento, non cornice.</li>
+
+<li><strong>La relazione con l’esistente e il paesaggio</strong> L’ala di Scarpa non contrappone nuovo e antico: li mette in relazione. Il nuovo volume dialoga con la gipsoteca ottocentesca e con il paesaggio di Possagno attraverso proporzioni misurate, continuità materiche e un rapporto calibrato con la luce. La sua architettura introduce una nuova lettura dell’edificio originario, senza alterarne l'identità.</li>
+
+<li><strong>Il museo come esperienza, non come contenitore</strong> Il percorso è costruito come una sequenza di soglie, variazioni di luce, compressioni e aperture: chi attraversa lo spazio non “guarda” soltanto, ma vive lo spazio. L’architettura guida il corpo, organizza i tempi della percezione, crea una relazione dinamica con le sculture — rese ancora più vive dallo specchio d’acqua che ne moltiplica le forme e introduce una dimensione atmosferica.</li>
+</ul>
+
+L’Ala Scarpa è un caso paradigmatico per comprendere che:
+<ul>
+<li>lo spazio architettonico nasce dalla luce, non dalla forma;</li>
+<li>la percezione è il vero materiale del progetto;</li>
+<li>la soglia è un dispositivo che trasforma il comportamento dello spazio;</li>
+<li>la relazione con l’esistente non è imitazione, ma interpretazione;</li>
+<li>il progetto costruisce un’esperienza, non un contenitore funzionale.</li>
+</ul>
+Scarpa dimostra che la forma architettonica non è un gesto ma una struttura percettiva, un campo di relazioni tra luce, materia, vuoto e corpo.   
+
+    </p>
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+  <div class="caption-main">
+     João Luís Carrilho da Graça, <i>Padiglione del Fiume Tago</i>, Expo ’98 (Lisbona)
+    </div>
+  </div>
+
+ <div class="image-grid">
+
+ 
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_C_3.jpg" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_C_2.jpg" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_C_5.jpg" alt="">
+      <div class="image-index">C.3</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print4/box_4.1_C_1.jpg" alt="">
+      <div class="image-index">C.4</div>
+    </div>
+
+
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+    La grande lastra sospesa del Padiglione del Fiume Tago non “rappresenta” nulla: 
+<ul>
+<li>agisce,</li>
+<li>pesa,</li>
+<li>sporge,</li>
+<li>comprime il vuoto sottostante,</li>
+<li>orienta il movimento,</li>
+<li>modifica la luce.</li>
+</ul>
+È un esempio magistrale di forma-comportamento: lo spazio prende vita non attraverso una figura riconoscibile, ma tramite un gesto materico che costruisce tensione, profondità e relazione percettiva con il corpo del visitatore.
+</div>
+    
+ <div class="icono-divider"></div>
+
+  <section class="text-section">
+ <p>
+ <strong>Una massa sospesa come dispositivo percettivo</strong></p>
+<p>
+Il <i>Tagus Pavilion</i> di João Luís Carrilho da Graça è uno degli esempi più radicali dell’architettura portoghese contemporanea, non per un gesto formale evidente, ma per la riduzione estrema dei mezzi con cui costruisce una condizione spaziale di forte intensità percettiva.</p>
+<p>
+L’elemento più iconico, la grande lastra di cemento sospesa, non funziona come un tetto né come una pensilina nel senso tradizionale: è un <strong>campo di forze</strong> che definisce lo spazio sottostante attraverso il suo peso visivo, la sua ombra, il suo rapporto con il vuoto. La forma non rappresenta nulla, non allude a modelli noti; agisce, semplicemente. È un dispositivo che attiva lo spazio e costringe il corpo del visitatore a percepire la relazione tra massa e vuoto, tra gravità e leggerezza.</p>
+<p>
+Carrilho da Graça costruisce così una <strong>soglia atmosferica</strong>, uno spazio intermedio che non appartiene né all’interno né all’esterno. La pensilina sospesa produce una tensione costante: sembra gravare sul terreno ma allo stesso tempo galleggiare grazie alla luce che scorre lungo i suoi margini. Questa ambiguità è intenzionale e decisiva: il padiglione non cerca equilibrio statico, ma una condizione percettiva in bilico, che il visitatore deve leggere con il proprio corpo.</p>
+<p>
+L’essenzialità materica — superfici bianche, geometrie elementari, assenza di segni superflui — rende lo spazio una sorta di evento fenomenologico: ciò che conta non è l’oggetto costruito, ma ciò che accade tra il costruito e chi lo attraversa. È un’architettura che mira a produrre esperienza, non immagine; intensità, non decorazione.</p>
+<p>
+Nel contesto dell’Expo ’98, dove molti padiglioni puntavano sulla spettacolarità, il <i>Tagus Pavilion</i> afferma una posizione opposta: l’architettura come concentrazione, come sottrazione, come misura del rapporto tra forma e comportamento. In questo senso, l’opera di Carrilho da Graça è una lezione di rigore, equilibrio e attenzione al carattere atmosferico dello spazio.</p>
+<p>
+La sua forza critica sta proprio qui: nel dimostrare che la monumentalità non nasce dalla dimensione, ma dalla precisione con cui lo spazio viene messo in tensione.
+
+    </p>
+
+    
+ </section>
+
+
+</section>
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

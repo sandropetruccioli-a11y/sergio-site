@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Architettura – Sergio Petruccioli</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Helvetica, Arial, sans-serif;
+      background: #f5f5f5;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      text-align: center;
+      padding: 40px 20px;
+      background: white;
+      margin-top: 50px;
+      border-radius: 8px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+      color: #8B4513;
+      letter-spacing: 3px;
+      font-weight: 600;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      font-weight: 300;
+      color: #666;
+      letter-spacing: 1px;
+      margin-top: 0;
+      margin-bottom: 30px;
+    }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.55;
+      color: #333;
+    }
+
+    .notice {
+      display: inline-block;
+      margin: 6px 0 20px;
+      padding: 8px 14px;
+      border: 1px solid #d4c7b8;
+      background: #f9f3ec;
+      color: #6f4a2e;
+      border-radius: 999px;
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+
+    /* griglia progetti */
+    .projects {
+      margin-top: 40px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      grid-gap: 25px;
+    }
+
+    .project {
+      background: #fafafa;
+      padding: 15px;
+      border-radius: 6px;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.08);
+      text-align: center;
+    }
+
+    .project img {
+      width: 100%;
+      border-radius: 4px;
+      margin-bottom: 8px;
+    }
+
+    .project-title {
+      font-weight: 600;
+      margin-bottom: 5px;
+      font-size: 1rem;
+    }
+
+    a.back {
+      display: inline-block;
+      margin-top: 40px;
+      padding: 12px 24px;
+      background: #333;
+      color: white;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+
+  </style>
+</head>
+<body>
+  <main>
+    <h1>ARCHITETTURA</h1>
+    <h2>Progetti e lavori realizzati</h2>
+    <p class="notice">Sezione in aggiornamento</p>
+
+    <p>
+      Una selezione di progetti di architettura sviluppati da Sergio Petruccioli,
+      con fotografie, schizzi, materiali e note progettuali.
+      La pagina sarà progressivamente arricchita con schede dettagliate.
+    </p>
+
+    <div class="projects">
+      <div class="project">
+        <img src="img/progetto1.jpg" alt="">
+        <div class="project-title">Progetto 1</div>
+        <div>Descrizione sintetica.</div>
+      </div>
+
+      <div class="project">
+        <img src="img/progetto2.jpg" alt="">
+        <div class="project-title">Progetto 2</div>
+        <div>Descrizione sintetica.</div>
+      </div>
+    </div>
+
+    <a class="back" href="index.html">← Torna alla Home</a>
+  </main>
+</body>
+</html>

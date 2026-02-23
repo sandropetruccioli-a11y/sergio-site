@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 3.4</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<body class="lezione3">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 3.4 - Verificare la coerenza: la composizione messa alla prova</h1>
+    <p class="box-intro">La composizione non è una somma di parti, ma un sistema di relazioni in cerca di coerenza. Rappresentarla con strumenti diversi – pianta, sezione, modello – significa interrogarla criticamente. Ogni cambio di scala o di mezzo svela fragilità, conferme o nuove tensioni. La forma non si dichiara, si costruisce nel confronto con i suoi strumenti: è un processo di verifica più che di affermazione.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img3/box_3.5_A_6.jpg" style="display: block; height: 70%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_A_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_A_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_A_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_A_5.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_A_8.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_A_9.jpg" style="display: none; height: 80%; width: auto;">
+   
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+<br>
+        <div class="caption-main">Peter Zumthor – <i>Studi per le Terme di Vals</i> (1990-1996)</div>
+        <div class="caption-sub">Per le Terme di Vals, Zumthor usa:
+<ul>
+<li>piante modulari,</li>
+<li>schizzi atmosferici,</li>
+<li>modelli massivi in legno e pietra.</li>
+</ul>
+Ogni rappresentazione corregge l’altra. La configurazione emerge solo attraverso una lunga verifica incrociata
+
+</div>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+ 
+<section class="text-section">
+ <p>
+Il progetto di Peter Zumthor per le Therme Vals è stato guidato dall’idea di creare una struttura simile a una grotta o a una cava incastonata nel fianco della collina, utilizzando la pietra quarzite di Vals locale come fonte di ispirazione e materiale principale. Il suo processo di progettazione iniziale si è basato in gran parte su modelli fisici e schizzi disegnati a mano per esplorare l’atmosfera spaziale e l’integrazione con il paesaggio.</p>
+<p>
+<strong>Schizzi concettuali e progetti</strong></p>
+<p>
+Le idee iniziali di Zumthor enfatizzavano un’architettura che non si imponesse sul paesaggio, ma che piuttosto emergesse da esso come un evento naturale. I primi schizzi si concentravano sul rapporto tra la forma costruita e la topografia naturale, spesso riducendo la sezione trasversale della struttura a elementi chiave come l’ingresso del tunnel buio, la galleria rialzata “a sporgenza di pietra” (Felsband) e l’apertura alla luce.
+<ul>
+<li><strong>Schizzi</strong> I suoi schizzi hanno spesso un carattere grezzo ed espressivo, utilizzando carboncino o matita per esplorare la luce, l’ombra e la consistenza dei materiali, nonché il modo in cui i visitatori interagirebbero con le varie strutture.</li>
+<li><strong>Piani</strong> Le planimetrie citano spesso i dipinti di Mondrian nella loro composizione a griglia, basata su un sistema di blocchi e vuoti. Questi piani evidenziano la composizione non sequenziale e labirintica dei santuari interni e il modo in cui le diverse aree rispondono al calore o alla calma.</li>
+</ul>
+<strong>Modelli fisici</strong>
+I modelli fisici erano essenziali per il processo di progettazione di Zumthor, consentendogli di comprendere e testare l’esperienza spaziale e le qualità dei materiali su scala reale.
+<ul>
+<li><strong>Materialità</strong> I modelli sono stati utilizzati per esplorare come le 60.000 lastre di quarzite locale sarebbero state disposte in modo stratificato e intrecciato, creando un aspetto monolitico ma strutturato.</li>
+<li><strong>Forma e massa</strong> I modelli rappresentavano spesso l’edificio come una serie di 15 unità distinte (ciascuna alta circa 5 metri) con soffitti in cemento a sbalzo, seminterrate nel fianco della collina con un tetto in erba. Questo concetto di “campo di blocchi” è stato uno strumento organizzativo fondamentale.</li>
+<li><strong>Luce e acqua</strong> I modelli hanno anche aiutato a studiare come la luce naturale sarebbe entrata nei vari spazi interni attraverso stretti tagli nel soffitto e nella facciata e come gli elementi acquatici avrebbero interagito con la pietra e il cemento.</li>
+</ul>
+Questo processo meticoloso e specifico per il sito, che ha coinvolto profondamente il paesaggio e i materiali locali, ha portato alla creazione di un capolavoro ampiamente acclamato che ha influenzato il design e il pensiero architettonico.
+
+    </p>
+  </section>
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img3/box_3.5_B_6.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_B_11.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_B_8.jpg" style="display: none; height: 60%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_B_9.jpg" style="display: none; height: 60%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_B_1.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_B_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_B_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_B_5.jpg" style="display: none; height: 80%; width: auto;">
+ 
+
+   
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Gio Ponti, <i>Disegni per la Cattedrale di Taranto</i> (1964-1970)</div>
+      <div class="caption-sub">Ponti lavora per:
+<ul>
+<li>piante schematiche,
+<li>sezioni che estremizzano la luce,
+<li>silhouettes volumetriche,
+<li>modelli di verifica.
+</ul>
+La forma finale della facciata nasce da un dialogo continuo tra rappresentazioni.
+
+      </div>
+    </figcaption>
+</section>
+
+<section class="text-section">
+ <p>
+Il progetto di Gio Ponti per la Concattedrale Gran Madre di Dio di Taranto si è evoluto attraverso un processo complesso che ha coinvolto tre distinti progetti primari: “il Tempio”, “la Navata” e il progetto finale, “la Vela”. Questa evoluzione è stata guidata dalla sua visione di uno spazio sacro moderno, leggero e arioso, che fosse una testimonianza concreta delle riforme del Concilio Vaticano II.</p>
+<p>
+<strong>L’evoluzione del progetto</strong></p>
+<p>
+Nel 1964 Ponti fu incaricato dall’arcivescovo Guglielmo Motolese di progettare una nuova cattedrale per la città di Taranto, in espansione. Il processo di progettazione ha coinvolto numerose idee e soluzioni intermedie prima che fosse definita la forma finale e iconica.
+<ul>
+<li><strong>Progetto 1:</strong> Il Tempio Il concetto iniziale si ispirava alle chiese tradizionali milanesi e presentava una pianta ottagonale con una facciata bipartita. Questo progetto rifletteva un’architettura ecclesiastica più convenzionale, ma non soddisfaceva pienamente il desiderio di Ponti di un’espressione innovativa e moderna della fede e della nuova direzione della Chiesa.</li>
+<li><strong>Progetto 2:</strong> La navata La fase successiva di sviluppo ha visto la cattedrale ripensata come una “navata” (nave) con una grande “camera di luce” rettangolare. Questo progetto incorporava la caratteristica attenzione di Ponti per la luce e la smaterializzazione delle facciate. La “camera di luce” aveva lo scopo di catturare e filtrare la luce, rendendo la struttura leggera ed eterea.</li>
+<li><strong>Progetto 3:</strong> La Vela Il progetto finale realizzato si è evoluto dal concetto di ‘Nave’, sostituendo la “camera di luce” con l’iconica e suggestiva “vela” perforata. Questa struttura alta 40 metri, simile a una vela, composta da due pareti di cemento con intagli geometrici, collega il cielo e la terra e funge da campanile senza campane.</li>
+<ul>
+<li>Il design della vela era un chiaro riferimento alla posizione marittima di Taranto sul Mar Mediterraneo.</li>
+<li>Ponti immaginava la struttura riflessa nei tre specchi d’acqua davanti all’edificio, rafforzando la metafora della “nave”.</li>
+<li>L’uso di fori geometrici ha permesso alla luce di filtrare all’interno, creando un dinamico gioco di luci e ombre.</li>
+</ul>
+</ul>
+L’ampia collezione di disegni di Ponti e la corrispondenza con l’arcivescovo, che costituiscono una parte fondamentale delle mostre sulla storia della cattedrale, documentano questo percorso da un progetto convenzionale alla sua espressione architettonica più originale.
+
+
+
+    </p>
+  </section>
+
+<br>
+<p><strong>C.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img3/box_3.5_C_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_C_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_C_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_C_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img3/box_3.5_C_5.jpg" style="display: none; height: 80%; width: auto;">
+      
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Kazuyo Sejima & Ryue Nishizawa, SANAA, <i>Processo di verifica del Kanazawa 21st Century Museum</i> (1999-2004)</div>
+      <div class="caption-sub">Il progetto del Museo di Kanazawa è costruito tramite:
+<ul>
+<li>diagrammi circolari,</li>
+<li>piante fluidissime,</li>
+<li>modelli bianchi di controllo,</li>
+<li>assonometrie concettuali.</li>
+</ul>
+La coerenza del progetto emerge solo quando tutte le rappresentazioni mostrano la stessa logica interna.
+
+      </div>
+    </figcaption>
+</section>
+
+<section class="text-section">
+ <p>
+Il Museo d’Arte Contemporanea del XXI Secolo di Kanazawa, progettato da SANAA, è concepito come un “parco” pubblico circolare che integra il museo nella città piuttosto che ergersi come un’istituzione imponente. Il suo design si concentra sulla trasparenza, sul flusso orizzontale e su una disposizione non gerarchica, ottenuta attraverso una disposizione unica di forme e spazi.</p>
+ <p>
+<strong>Concetto architettonico e progetti</strong></p>
+ <p>
+L’idea architettonica centrale si basa su un grande cerchio di vetro a basso profilo (112,5 metri di diametro) all’interno del quale sono disposti vari spazi espositivi a forma di scatola e cilindrici.
+<ul>
+<li><strong>Circolazione come spazio urbano:</strong> lo spazio tra le “scatole” interne della galleria e la parete esterna in vetro forma un’area di circolazione fluida, progettata per dare la sensazione di una strada cittadina o di un’estensione del parco circostante. Quest’area è accessibile al pubblico senza biglietto, sfumando il confine tra zone pubbliche e private.</li>
+<li><strong>Ingressi multipli:</strong> la forma circolare e la facciata in vetro, senza un unico ingresso principale, incoraggiano l’accesso da tutte le direzioni, simboleggiando un museo aperto a tutti.</li>
+<li><strong>Diversità delle gallerie:</strong> le sale espositive variano per forma, dimensioni (altezze da 4 m a 12 m) e condizioni di illuminazione (da luce naturale intensa a spazi bui), offrendo esperienze diverse per l’arte.</li>
+<li><strong>Trasparenza e luce:</strong> l’ampio uso di pareti in vetro, sia sul perimetro che per le partizioni interne, fornisce luminosità e collegamenti visivi, consentendo ai visitatori di essere consapevoli della presenza degli altri all’interno e all’esterno dell’edificio. Quattro cortili interni portano inoltre la luce naturale in profondità all’interno.</li>
+</ul>
+<strong>Diagrammi e modelli architettonici</strong></p>
+ <p>
+I diagrammi architettonici del museo illustrano il quadro concettuale, spesso utilizzando forme geometriche semplici per mostrare la relazione tra gli elementi dell’edificio:
+<ul>
+<li><strong>Diagrammi a bolle/funzionali:</strong> questi diagrammi mostrano spesso un grande cerchio trasparente che racchiude varie forme solide più piccole che rappresentano funzioni specifiche come gallerie, una biblioteca, una sala conferenze e un laboratorio per bambini.</li>
+<li><strong>Piani di circolazione:</strong> questi evidenziano i percorsi non lineari e flessibili che i visitatori possono seguire, in contrasto con la tradizionale esperienza museale lineare.</li>
+<li><strong>Diagrammi in sezione trasversale:</strong> illustrano le diverse altezze dei soffitti e la relazione tra il piano terra e i livelli seminterrati, mostrando in particolare come l’installazione “Leandro’s Swimming Pool” possa essere vissuta su due livelli diversi.</li>
+</ul>
+Esistono modelli fisici e digitali (come i modelli Revit) per studiare le relazioni spaziali e le condizioni di illuminazione all’interno della struttura. Questi modelli spesso enfatizzano il contrasto tra il perimetro effimero e trasparente e i volumi solidi e opachi delle gallerie bianche all’interno.
+
+
+    </p>
+  </section>
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+
+
+
+</body>
+</html>

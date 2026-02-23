@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 5.3</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+
+<body class="lezione2">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 5.2 - La pianta come primo banco di prova</h1>
+    <p class="box-intro">La pianta è il primo dispositivo critico della composizione. Non registra una disposizione, ma verifica relazioni: proporzioni, simmetrie, gerarchie, vuoti dominanti. Funziona come strumento logico e spaziale insieme: se la pianta regge, il progetto può cominciare a esistere come sistema.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.2_A_3.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_A_8.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_A_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_A_6.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_A_7.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_A_9.jpg" style="display: none; height: 80%; width: auto;">
+   
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Andrea Palladio, <i>Villa Rotonda, Vicenza</i> (1566–1570)</div>
+      <div class="caption-sub">Pianta centrale e studi proporzionali: il progetto come sistema di rapporti.<br>Nella Villa Rotonda la pianta non descrive l’edificio, ma ne costruisce l’identità: quadrato, cerchio, assi e proporzioni definiscono un campo di equilibrio in cui ogni parte pesa sulle altre. La forma nasce dalla verifica grafica dei rapporti, non da un’immagine ideale.
+      </div>
+    </figcaption>
+</section>
+
+<br>
+ 
+<section class="text-section">
+ <p>
+La <i>Villa Rotonda</i> è uno dei casi più esemplari, nella storia dell’architettura occidentale, di come la pianta sia il luogo in cui l’edificio prende forma in senso critico, prima ancora che volumetrico o figurativo. Palladio non usa la pianta come semplice rappresentazione dell’oggetto, ma come <strong>strumento matematico</strong>, come campo in cui verificare rapporti, simmetrie, pesi e proporzioni che devono garantire la stabilità concettuale dell’opera.</p>
+<p>
+La pianta della <i>Villa Rotonda</i> nasce dall’intersezione tra due sistemi:
+<ul>
+<li>un <strong>ordine geometrico</strong> basato su quadrato, cerchio e assi ortogonali che definiscono la logica del centro;</li>
+<li>una <strong>distribuzione gerarchica delle parti</strong>, misurata in termini di equilibrio, distanza e proporzione tra i volumi serviti e quelli serventi.</li>
+</ul>
+Tutto è verificabile, misurabile, costruito attraverso relazioni: l’ingresso non è un semplice portico, ma un “peso” che deve equivalere a quello degli altri tre; il salone centrale non è un vuoto scenografico, ma il fulcro che garantisce la coerenza dell’intero sistema. Le proporzioni dei bracci, delle camere, delle logge e del vano cupolato derivano da un processo continuo di <strong>aggiustamento grafico</strong>, in cui la pianta serve a controllare che il centro non prevalga sulle periferie, e che la rotazione simmetrica produca equilibrio e non rigidità.</p>
+<p>
+Per questo la pianta della Rotonda è didatticamente preziosa: mostra come la forma non possa essere immaginata senza essere prima verificata. Il prestigio volumetrico dell’edificio — i quattro portici, la cupola, la perfetta centralità — è in realtà l’esito di un lavoro invisibile, fatto di prove proporzionali, pesi, moduli e allineamenti che emergono solo nella pianta.</p>
+<p>
+Palladio ci mostra che la coerenza architettonica è un fatto di rapporti, non di immagine: la pianta non “illustra” la Rotonda, la costruisce.</p>
+
+  </section>
+<br>
+
+
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.2_B_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_B_6.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_B_7.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_B_8.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_B_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_B_9.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_B_5.jpg" style="display: none; height: 80%; width: auto;">
+ 
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Le Corbusier, <i>Villa Stein, Garches</i> (1926–1928)</div>
+      <div class="caption-sub">Piante e studi proporzionali: il campo moderno come sistema regolato di rapporti.<br> Nella <i>Villa Stein</i> la pianta verifica la coerenza del campo: proporzioni, spessori, assi e percorsi sono calibrati per tenere insieme un organismo estremamente allungato. La modernità nasce qui come equilibrio misurato, non come libertà formale. 
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p><strong>La pianta come campo regolato</strong></p>
+<p>
+Nella <i>Villa Stein</i> la pianta diventa il vero luogo di costruzione dell’architettura: non uno schema distributivo, ma un dispositivo critico che permette di verificare l’equilibrio di un organismo estremamente allungato. Le Corbusier utilizza la pianta per misurare rapporti, pesi, proporzioni e allineamenti, assicurandosi che il campo moderno — apparentemente libero — mantenga una coerenza interna rigorosa.</p>
+<p>
+La pianta rivela un sistema proporzionale preciso, basato su rapporti numerici e geometrici che anticipano il Modulor: sequenze, allineamenti, variazioni calibrate di profondità. La struttura non è un dato tecnico aggiunto, ma un elemento che la pianta deve continuamente testare: i setti portanti, le fasce strutturali e i pieni laterali bilanciano il corpo edilizio per evitare che la lunghezza lo renda instabile sul piano spaziale.</p>
+<p>
+Allo stesso tempo, la pianta organizza il percorso come parte integrante della logica del campo: la rampa centrale, le soglie e le aperture non sono elementi funzionali, ma fattori di equilibrio che distribuiscono pesi e gerarchie. È nella pianta che si vede come il movimento concorra alla tenuta dell’intero sistema.</p>
+<p>
+<i>Villa Stein</i> mostra in modo esemplare che la modernità non nasce da una libertà formale, ma dalla <strong>verifica dei rapporti interni</strong>: proporzioni, spessori, assi e movimenti devono reggere insieme, altrimenti la forma non funziona. La pianta, qui, non rappresenta l’edificio: lo mette alla prova.</p>
+
+
+  </section>
+
+<br>
+<p><strong>C.</strong></p>
+
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.2_C_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_C_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_C_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_C_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_C_5.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_C_6.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_C_7.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.2_C_8.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Sigurd Lewerentz, <i>Cappella della Resurrezione, Stoccolma</i> (1921–1925)</div>
+      <div class="caption-sub">I disegni di Lewerentz — piante, sezioni e studi grafici — mostrano come la coerenza spaziale della cappella emerga da continue verifiche proporzionali: la pianta non descrive l’edificio, ma ne misura il campo, definendo un’architettura di rigore e silenzio.
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p><strong>La pianta come misura del silenzio e dell’equilibrio</strong></p>
+<p>
+Nella <i>Cappella della Resurrezione</i> la pianta non è uno schema distributivo, ma un dispositivo di verifica attraverso cui Lewerentz costruisce l’equilibrio interno dell’architettura. Sebbene il corpus grafico conservato mostri soprattutto studi di dettagli, la <strong>pianta unica</strong> è già sufficiente per capire come l’autore misuri con precisione pesi, rapporti e proporzioni che definiscono il carattere dell’edificio.</p>
+<p>
+Lewerentz non cerca simmetrie apparenti né composizioni scenografiche: ciò che interessa è la <strong>tensione controllata</strong> tra navata, percorsi, cappelle laterali e abside. Ogni spessore murario, ogni scarto di allineamento, ogni variazione nella profondità degli ingressi partecipa alla costruzione di un campo spaziale intensamente calibrato. La pianta diventa così il luogo in cui l’architetto verifica che l’architettura regga non per effetto formale, ma per equilibrio interno.</p>
+<p>
+Questo lavoro di misura si ritrova anche negli altri disegni — sezioni, prospetti, dettagli — dove il silenzio materico della cappella è messo alla prova attraverso micro‐aggiustamenti, variazioni della luce, definizione delle soglie. Lewerentz progetta come se ogni relazione dovesse essere verificata una per una: non un linguaggio, ma un edificio che “trova” la sua forma attraverso la precisione del disegno.</p>
+<p>
+Per questo la <i>Cappella della Resurrezione</i> è esemplare nella Lezione 5: mostra che l’architettura non nasce da un’immagine complessiva, ma da una pianta che mette alla prova l’idea, pesandone le proporzioni e individuando la distanza esatta tra le parti. La pianta di Lewerentz non rappresenta l’edificio: lo rende possibile.</p>
+
+
+  </section>
+
+
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,120 @@
+@media print {
+
+  /* ===== GENERALE ===== */
+  body {
+    background: white !important;
+    margin: 0;
+    padding: 0;
+    font-family: "Merriweather", serif;
+  }
+
+  /* ===== TESTO UNIFORME ===== */
+  .box-intro,
+  .text-section p,
+  figcaption,
+  .caption-main,
+  .caption-sub {
+    font-size: 11.5pt;
+    line-height: 1.45;
+    color: #111;
+  }
+
+  .caption-main {
+    font-weight: 700;
+    margin-bottom: 0.3em;
+  }
+
+  .caption-sub {
+    font-weight: 400;
+  }
+
+  /* ===== CONTAINER ===== */
+  .box-container {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 0;
+    background: white !important;
+    box-shadow: none !important;
+  }
+
+  /* ===== NASCONDI ELEMENTI NON STAMPABILI ===== */
+  .carousel-button,
+  #lightbox,
+  .box-footer {
+    display: none !important;
+  }
+
+  /* ===== CAROUSEL → SEQUENZA STATICA ===== */
+  .gallery {
+    display: block !important;
+  }
+
+  .carousel-container {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+    position: static !important;
+    background: none !important;
+  }
+
+  /* ===== IMMAGINI ===== */
+  .carousel-image {
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0.4cm auto;
+    border: 0.3pt solid #bbb;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  /* ===== IMMAGINI + DIDASCALIE ===== */
+  .image-section {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.2em;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  figcaption {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* ===== TESTO ===== */
+  .text-section {
+    margin-top: 0;
+  }
+
+  .text-section p {
+    margin-top: 0;
+    margin-bottom: 0.8em;
+  }
+
+  /* ===== ELIMINA SPAZI ARTIFICIALI ===== */
+  br {
+    display: none;
+  }
+
+  /* ===== PAGINAZIONE ===== */
+  @page {
+    margin: 2.5cm 2.5cm 3cm 2.5cm;
+
+    @bottom-center {
+      content: "8.4." counter(page);
+      font-family: "Merriweather", serif;
+      font-size: 9pt;
+      color: #444;
+    }
+  }
+
+}

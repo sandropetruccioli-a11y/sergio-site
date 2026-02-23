@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 2.4</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<body class="lezione2">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 2.4 - Le figure della profondità: piani, superfici, sequenze, intervalli</h1>
+    <p class="box-intro">La profondità non è distanza fisica, ma costruzione mentale fatta di rapporti tra piani, intervalli, soglie, compressioni. È una logica stratificata che organizza lo spazio e guida la percezione. Le immagini selezionate rivelano la potenza strutturante della profondità, come principio fondante dell’organizzazione architettonica.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+<section class="image-section">
+    <figure>
+       <img class="carousel-image zoomable" src="./img2/box_2.4_A_1.jpg" alt="Vista 1" style="width: 50%; height: auto;">
+<br>
+      <figcaption>
+        <div class="caption-main">Edward Hopper, <i>Rooms by the Sea</i> (1951), Yale University Art Gallery</div>
+        <div class="caption-sub">In questo dipinto, la profondità è una tensione tra piani:
+<ul>
+<li>un piano interno,</li>
+<li>una soglia abbagliante,</li>
+<li>un piano esterno marino,</li>
+<li>nessuna figura, solo percezione pura.</li>
+</ul>
+È un’immagine che spiega agli studenti come la profondità sia creata da superfici e luce, non da oggetti.
+</div>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+ 
+<section class="text-section">
+ <p>
+Il dipinto di Edward Hopper Rooms by the Sea (1951) è ospitato nella collezione permanente della Yale University Art Gallery a New Haven, nel Connecticut. Hopper ha completato il dipinto a olio su tela nel suo studio a South Truro, nel Massachusetts, e la composizione ricorda la vista dalla porta sul retro del suo studio. L’immagine austera raffigura una stanza vuota con una porta aperta che conduce direttamente al mare. La luce solare che entra nella stanza crea un senso di solitudine e introspezione, un tema ricorrente nell’opera di Hopper.
+    </p>
+  </section>
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img2/box_2.4_B_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.4_B_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.4_B_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.4_B_4.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Luis Barragán, <i>Casa Gilardi</i> (1975), corridoio rosa + luce, Città del Messico</div>
+      <div class="caption-sub">La profondità in Barragán è sempre una questione di:
+<ul>
+<li>campiture cromatiche,</li>
+<li>luce laterale,</li>
+<li>piani opachi e luminosi,</li>
+<li>pause e soglie.</li>
+</ul>
+La <i>Casa Gilardi</i> contiene uno dei corridoi più emblematici della storia dell’architettura moderna per capire la profondità come sequenza percettiva, non geometrica.
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+Il corridoio e la zona piscina di Casa Gilardi offrono esperienze spaziali nettamente contrastanti, che illustrano la maestria di Luis Barragán nel manipolare la luce, il colore e l’atmosfera per suscitare emozioni diverse.</p>
+ <p>
+Il corridoio funge da elemento di transizione, una progressione attentamente orchestrata verso lo spazio culminante della piscina. È caratterizzato da una luce calda e dorata ottenuta grazie a una fila di piccole finestre verticali con vetri dipinti di giallo lungo un lato. Lo spazio è intenzionalmente stretto e lungo, creando un senso di anticipazione e movimento. La luce gialla inonda le pareti bianche, creando un’atmosfera quasi eterea, simile al bagliore di un tramonto, che guida l’occhio e il corpo verso la destinazione finale. Oltre a collegare la parte anteriore della casa con la zona posteriore, il corridoio incornicia il patio adiacente con l’albero di jacaranda, sebbene l’accesso diretto avvenga solo dalla sala da pranzo. </p>
+ <p>
+La zona piscina è l’apice del design, un’area pensata per la socializzazione, la riflessione e la fusione tra architettura e acqua. A differenza del giallo caldo e unidirezionale del corridoio, la piscina è dominata da un’interazione dinamica di colori vivaci (blu cobalto, rosso e, in origine, un muro rosa) e luce naturale zenitale proveniente da lucernari nascosti. La luce cambia durante il giorno, proiettando forme e riflessi simmetrici sull’acqua e sulle pareti, creando un ambiente in continua evoluzione. Lo spazio è più ampio, concepito come un’oasi di tranquillità e contemplazione. L’acqua riflettente e le pareti colorate creano un’atmosfera surreale e quasi spirituale, isolata dal trambusto urbano. La piscina è integrata con la sala da pranzo, sfumando i confini tra le attività quotidiane e un’esperienza sensoriale unica. Un muro rosso funge da elemento strutturale e compositivo nell’acqua, accentuando ulteriormente il gioco di colori.</p>
+ <p> 
+Mentre il corridoio è un’esperienza sensoriale lineare e calda che guida il movimento, la zona piscina è uno spazio statico, un’esperienza immersiva e dinamica dove luce, acqua e colori vibranti convergono in un’armonia che favorisce la serenità e la socializzazione.
+
+</p>
+
+  </section>
+
+<br>
+<p><strong>C.</strong></p>
+
+
+<section class="image-section gallery">
+ <div class="carousel-container" style="height: 350px;">
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+  <img class="carousel-image zoomable" src="img2/box_2.4_C_1.jpg" style="display: block; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.4_C_2.jpg" style="display: none; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.4_C_3.jpg" style="display: none; height: 80%; width: auto;">
+ 
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+</div>
+
+<br>
+    <figcaption>
+      <div class="caption-main">Gerrit Thomas Rietveld, <i>Casa Schröder</i> (1924), facciata e piani sovrapposti, Utrecht, Olanda</div>
+      <div class="caption-sub">La <i>Casa Schröder</i> è una lezione visiva su:
+<ul>
+<li>piani sospesi,</li>
+<li> elementi che si intersecano,</li>
+<li> profondità non come “prospettiva”, ma come articolazione.</li>
+</ul>
+Perfetta per mostrare come la profondità possa essere costruita anche in superfici, mediante:
+<ul>
+<li>colore,</li>
+<li>stacco,</li>
+<li>posizione relativa.</li>
+</ul>
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+La facciata della Casa Rietveld Schröder del 1924 è una composizione asimmetrica e dinamica di piani e linee orizzontali e verticali scollegati, che riflette i principi del movimento artistico De Stijl. I componenti sembrano scivolare l’uno accanto all’altro, creando un effetto collage che frammenta il volume dell’edificio e sfida le idee tradizionali di massa solida. </p>
+ <p>
+<strong>Composizione ed effetti visivi</strong>
+<ul>
+<li>Il volume esterno della casa è suddiviso in parti costitutive, con pareti, lastre, pilastri e travi trattati come singoli elementi lineari e piatti. Questo approccio conferisce un nuovo significato spaziale ai componenti strutturali.</li>
+<li>Gli elementi sporgenti e arretrati creano una composizione dinamica e tridimensionale che sfuma i confini tra spazio interno ed esterno. Anche le grandi finestre con telai sottili sottolineano l’apertura.</li>
+<li>Il colore è usato deliberatamente per definire e separare i diversi piani e linee. Le superfici sono dipinte in bianco e varie tonalità di grigio. Gli elementi lineari (ad esempio, i bordi dei balconi, le sporgenze del tetto, i pali di sostegno sottili) sono accentuati con colori primari come il rosso, il blu e il giallo. I telai delle finestre e delle porte sono dipinti di nero per enfatizzare ulteriormente le linee grafiche.</li>
+<li>Illusioni ottiche: tonalità più chiare di grigio e bianco sono state collocate in primo piano rispetto alle superfici più scure per sottolinearne la separazione, poiché l’osservatore percepisce i colori più chiari come più vicini.</li>
+</ul>
+<strong>Innovazione architettonica</strong>
+<ul>
+<li><strong>Spazio flessibile:</strong> il progetto è frutto della collaborazione tra l’architetto Gerrit Rietveld e il cliente Truus Schröder, che desiderava una casa senza pareti convenzionali e statiche. Il piano superiore, in particolare, è dotato di un sistema di pannelli scorrevoli e girevoli che consentono di trasformare lo spazio da un’unica zona aperta durante il giorno a diverse stanze più piccole durante la notte.
+<li><strong>Integrazione di arte e architettura: </strong>la facciata è considerata una rappresentazione tridimensionale di un dipinto di Piet Mondrian De Stijl, con ogni superficie che contribuisce a una composizione precisa di forma, spazio e colore.
+<li><strong>Continuità:</strong> la composizione si estende dall’esterno all’interno, con linee, piani e colori che scorrono continuamente attraverso lo spazio. Le finestre sono incernierate in modo da aprirsi solo a 90 gradi rispetto alla parete, mantenendo la rigorosa disciplina geometrica.
+</ul>
+La Casa Rietveld Schröder, situata a Utrecht, nei Paesi Bassi, è un sito patrimonio mondiale dell’UNESCO ed è aperta al pubblico, gestita dal Centraal Museum.
+
+
+</p>
+
+  </section>
+
+
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+
+
+
+</body>
+</html>

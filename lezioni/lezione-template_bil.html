@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lezione – Titolo</title>
+
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Stili -->
+  <link rel="stylesheet" href="./css/lezione.css" />
+  <script defer src="js/toc-drawer.js"></script>
+
+  <!-- Script -->
+  <script defer src="../js/backbar.js" data-target="chapter"></script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
+  <style>
+    .language-switch {
+      text-align: right;
+      margin-top: 0.5em;
+      margin-right: 1em;
+    }
+
+    .language-switch button {
+      margin-left: 0.5em;
+      padding: 0.3em 0.6em;
+      background-color: #bc3f4b;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.9em;
+    }
+
+    .language-switch button:hover {
+      background-color: #9e323f;
+    }
+
+    .text {
+      display: none;
+    }
+
+    .text.active {
+      display: block;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Intestazione fissa -->
+  <div class="service-header">
+    <span class="header-left">Sergio Petruccioli – Dalla composizione al progetto</span>
+  </div>
+
+  <!-- Cambio lingua -->
+  <div class="language-switch">
+    <span>Lingua:</span>
+    <button onclick="switchLanguage('ita')">IT</button>
+    <button onclick="switchLanguage('eng')">EN</button>
+  </div>
+
+  <!-- TOC -->
+  <nav class="toc">
+    <h2>Contenuti</h2>
+    <ul>
+      <li><a href="#chapter-start">↑ Inizio Lezione</a></li>
+      <li><a href="#capitolo-1">1. Introduzione</a></li>
+      <li><a href="#capitolo-2">2. Sezione di esempio</a></li>
+      <br><br><br><br><br><br><br><br><br>
+      <li><a href="javascript:history.back()">← Torna alla pagina precedente</a></li>
+    </ul>
+  </nav>
+
+  <!-- Contenuto principale -->
+  <main id="content">
+    <header class="frontmatter">
+      <a id="chapter-start"></a>
+      <div class="chapter-number centered">Lezione 1</div>
+      <div class="main-title centered">TITOLO DELLA LEZIONE</div>
+    </header>
+
+    <!-- Versione italiana -->
+    <div class="text ita active">
+      <div class="titolo_paragrafo" id="capitolo-1">1. Introduzione</div>
+      <p>Questo è il paragrafo introduttivo in italiano.</p>
+
+      <div class="titolo_paragrafo" id="capitolo-2">2. Sezione di esempio</div>
+      <p>Secondo paragrafo in italiano. Si possono inserire <a href="../box/box-1.html" target="_blank">box di approfondimento</a>.</p>
+    </div>
+
+    <!-- English version -->
+    <div class="text eng">
+      <div class="titolo_paragrafo" id="capitolo-1-eng">1. Introduction</div>
+      <p>This is the introductory paragraph in English.</p>
+
+      <div class="titolo_paragrafo" id="capitolo-2-eng">2. Sample Section</div>
+      <p>Second paragraph in English. You can include <a href="../box/box-1.html" target="_blank">reference boxes</a>.</p>
+    </div>
+  </main>
+
+  <script>
+    function switchLanguage(lang) {
+      document.querySelectorAll('.text').forEach(el => {
+        el.classList.remove('active');
+      });
+      document.querySelector(`.text.${lang}`).classList.add('active');
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+
+body {
+  background-color: #e5e5e0; /* grigio perla */
+  color: #8b3a3a; /* rosso pompeiano */
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  padding: 0;
+}
+
+body.lezione2 {
+  color: #2f4f4f;
+}
+
+body.lezione2 p,
+body.lezione2 li,
+body.lezione2 h1,
+body.lezione2 h2,
+body.lezione2 h3,
+body.lezione2 figcaption,
+body.lezione2 .caption-main,
+body.lezione2 .caption-sub,
+body.lezione2 .box-intro,
+body.lezione2 header,
+body.lezione2 footer {
+  color: inherit;
+}
+
+body.lezione3 {
+  color: #3b587a;
+}
+
+body.lezione3 p,
+body.lezione3 li,
+body.lezione3 h1,
+body.lezione3 h2,
+body.lezione3 h3,
+body.lezione3 figcaption,
+body.lezione3 .caption-main,
+body.lezione3 .caption-sub,
+body.lezione3 .box-intro,
+body.lezione3 header,
+body.lezione3 footer {
+  color: inherit;
+}
+
+
+.box-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 3em 4em;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  background-color: #f0f0eb;   /* grigio perla */
+  border-radius: 6px;
+}
+
+.text-section {
+  line-height: 1.6; /* valore consigliato per lettura fluida */
+}
+
+
+.box-header h1 {
+  font-size: 1.8em;
+  color: inherit;
+  margin-bottom: 0.5em;
+}
+
+.box-intro {
+  font-size: 1.1em;
+  color: inherit;
+}
+
+.image-section {
+  margin-top: 2em;
+}
+
+.image-section figure {
+  text-align: center;
+  margin: 2em auto;
+  max-width: 90%;
+}
+
+.image-section img {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  cursor: zoom-in;
+  border: 1px solid #999;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+figcaption {
+  margin: 0.5em auto;
+  max-width: 85%;
+  text-align: left;
+  font-size: 0.9em;
+  color: inherit;
+}
+
+.caption-main {
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+
+.caption-sub {
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: inherit;
+}
+
+/* GALLERIA */
+
+.carousel-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  height: 400px; /* o gestito da HTML */
+  max-width: 850px;
+  margin: 0 auto;
+  overflow: hidden;
+  background-color: #999; /* grigio scuro */
+  border-radius: 4px;
+}
+
+.carousel-image {
+  object-fit: contain; /* Preserva le proporzioni dell'immagine */
+  transition: opacity 0.3s ease-in-out;
+
+}
+
+
+
+.carousel-button {
+  background-color: transparent;
+  border: none;
+  color: #FFD700; /* giallo acceso */
+  font-size: 2em;
+  cursor: pointer;
+  padding: 0 0.5em;
+  z-index: 10;
+  transition: color 0.2s ease;
+}
+
+.carousel-button:hover {
+  color: #FFFACD; /* giallo più chiaro al passaggio */
+}
+
+.carousel-button.disabled {
+  opacity: 0.3;
+  cursor: default;
+  pointer-events: none;
+}
+
+
+/*.carousel {
+  display: flex;
+  overflow-x: auto;
+  gap: 1em;
+  scroll-snap-type: x mandatory;
+  padding: 1em 0;
+}
+
+.carousel-old img {
+  scroll-snap-align: center;
+  flex: 0 0 auto;
+  max-height: 350px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  cursor: zoom-in;
+}*/
+
+/* LIGHTBOX */
+#lightbox {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+#lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+  border-radius: 6px;
+}
+#lightbox .close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+
+
+/* FOOTER */
+.box-footer {
+  margin-top: 3em;
+  text-align: center;
+}
+
+.box-footer a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}

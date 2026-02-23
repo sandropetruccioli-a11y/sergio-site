@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 2.6</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<body class="lezione2">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 2.6 - Il ritmo dello spazio: ripetizione, variazione, intervallo</h1>
+    <p class="box-intro">Lo spazio non si presenta mai come sequenza neutra: è modulato da ritmi, pause, accenti. Ripetizione e variazione strutturano la percezione, danno senso all’estensione, rendono leggibile la forma. Il ritmo costruisce relazioni e orienta il corpo. Le immagini rendono visibile questa sintassi invisibile che precede la composizione.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img2/box_2.6_A_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.6_A_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.6_A_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.6_A_4.jpg" style="display: none; height: 80%; width: auto;">
+ 
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+        <div class="caption-main">Le Corbusier, <i>Facciata de L’Unité d’Habitation di Marsiglia</i> (1952)</div>
+        <div class="caption-sub">La facciata dell’Unità è una orchestrazione ritmica:
+<ul>
+<li>moduli ricorrenti,</li>
+<li>intervalli variati,</li>
+<li>pieni/vuoti alternati,</li>
+<li>sistema cromatico calibrato.</li>
+</ul>
+Essa mostra come la ripetizione non sia monotonia, ma costruzione percettiva.
+</div>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+ 
+<section class="text-section">
+ <p>
+La facciata dell’<i>Unité d’Habitation</i> di Marsiglia, progettata da Le Corbusier e completata nel 1952, presenta caratteristici balconi protetti da frangisole in cemento, spesso colorati all’interno. Questi elementi emblematici sono parte integrante dell’architettura brutalista e modernista dell’edificio.</p>
+<p>
+<strong>Caratteristiche architettoniche</strong>
+<ul>
+<li><strong>Frangisole:</strong> i balconi sono incorniciati da robuste strutture in cemento, chiamate frangisole. La loro funzione principale è quella di regolare la luce naturale e il calore negli appartamenti bloccando i raggi diretti del sole, adatti al clima mediterraneo di Marsiglia.</li>
+<li><strong>Tavolozza dei colori:</strong> Le Corbusier ha utilizzato colori primari vivaci (rosso, giallo, blu) per dipingere le pareti interne delle logge (balconi), in contrasto con il cemento grezzo della facciata, una caratteristica spesso visibile nelle foto a colori.</li>
+<li><strong>Facciata modulare: </strong>la ripetizione e la disposizione dei balconi creano un motivo geometrico ritmico che conferisce alla facciata la sua identità visiva, riflettendo il sistema di misura “Modulor” sviluppato da Le Corbusier.</li>
+<li><strong>Funzionalità:</strong> ogni balcone fa parte di un’unità abitativa e consente una ventilazione trasversale essenziale negli appartamenti, sottolineando l’attenzione dell’architetto per il benessere dei residenti.</li>
+</ul>
+L’Unité d’Habitation è classificata come patrimonio mondiale dell’UNESCO ed è un esempio fondatore del movimento brutalista.
+
+
+    </p>
+  </section>
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img2/box_2.6_B_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.6_B_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.6_B_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.6_B_4.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Louis I. Kahn, <i>Biblioteca dell’Exeter Academy</i> (1965-72), sala centrale</div>
+      <div class="caption-sub">La grande sala della Exeter Library è un modello di ritmo:
+<ul>
+<li>alternanza dei vuoti centrali e delle nicchie,</li>
+<li>ripetizione dei moduli in legno,</li>
+<li>luce naturale che scandisce le superfici,</li>
+<li>una sequenza che è allo stesso tempo <i>spaziale</i> e <i>luminosa</i>.</li>
+</ul>
+È l’esempio ideale del ritmo come struttura portante della percezione.
+
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+La sala centrale della biblioteca della Phillips Exeter Academy progettata da Louis Kahn è uno spazio cerimoniale alto 24 metri che costituisce il cuore dell’edificio. L’interno è un vuoto quadrato simile a una cattedrale, circondato da enormi aperture circolari in cemento che offrono una vista sugli scaffali dei libri ai piani circostanti. Questo progetto è un celebre gioco di materiali, geometria e luce naturale.</p>
+<p>
+<strong>Architettura e design</strong>
+<ul>
+<li><strong>Disposizione concentrica. </strong>La sala centrale è la più interna di tre anelli quadrati concentrici, un concetto che Kahn definiva “scatola nella scatola” o “ciambelle”. L’anello esterno contiene singole cabine di lettura lungo le pareti esterne, mentre l’anello centrale ospita le scaffalature in cemento.</li>
+<li><strong>Giustapposizione di materiali.</strong> Il caldo rovere color miele delle ringhiere e del pavimento contrasta con il cemento monumentale e spoglio delle pareti circostanti. Questo crea un senso di calore rispetto agli elementi strutturali più imponenti.</li>
+<li><strong>Diffusione della luce.</strong> La luce naturale entra da un grande lucernario circolare nella parte superiore dell’atrio. Due massicce travi trasversali in cemento attraversano il soffitto, diffondendo la luce e distribuendola uniformemente in tutto lo spazio e fino ai piani sottostanti.</li>
+<li><strong>Forma simbolica. </strong>Le enormi aperture circolari ricavate nelle pareti di cemento creano un gioco di quadrati e cerchi, un tema ricorrente nell’opera di Kahn. Il design rivela i libri nell’anello interno, invitando i lettori a scoprire la collezione.</li>
+</ul>
+<strong>Atmosfera ed esperienza</strong>
+<ul>
+<li><strong>Umile senso di arrivo.</strong> I visitatori che entrano nella sala centrale sono destinati a sentirsi umiliati dalle dimensioni dello spazio. I paragoni architettonici con una cattedrale sottolineano il ruolo della biblioteca come “tempio dell’apprendimento”.</li>
+<li><strong>Spazio sociale tranquillo.</strong> Sebbene la sala sia uno spazio comune, il suo design favorisce un’atmosfera riflessiva e tranquilla. Gli studenti possono provare un senso di coscienza collettiva senza essere disturbati nel loro studio individuale.</li>
+<li><strong>Orientamento visivo.</strong> Il vuoto centrale permette ai visitatori di comprendere a colpo d’occhio la disposizione della biblioteca. Vedendo gli scaffali dei libri dall’ingresso, gli utenti possono intuire intuitivamente l’organizzazione della collezione.</li>
+</ul>
+
+
+</p>
+
+  </section>
+
+<br>
+<p><strong>C.</strong></p>
+
+
+<section class="image-section gallery">
+ <div class="carousel-container" style="height: 350px;">
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+  <img class="carousel-image zoomable" src="img2/box_2.6_C_1.jpg" style="display: block; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.6_C_2.jpg" style="display: none; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.6_C_3.jpg" style="display: none; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.6_C_4.jpg" style="display: none; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.6_C_5.jpg" style="display: none; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.6_C_6.jpg" style="display: none; height: 80%; width: auto;">
+  
+  
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+</div>
+
+<br>
+    <figcaption>
+      <div class="caption-main">Peter Zumthor, <i>Terme di Vals</i> (1996), corridoio delle vasche</div>
+      <div class="caption-sub">In questo celebre passaggio:
+<ul>
+<li>i blocchi di pietra,</li>
+<li>le altezze variabili,</li>
+<li>le aperture calibrate,</li>
+<li>le pozze di luce,</li>
+</lu>
+creano un ritmo quasi musicale.
+È un esempio sublime di come il ritmo possa essere un’esperienza atmosferica, non solo una sequenza geometrica.
+
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+I corridoi interni delle Terme di Vals di Peter Zumthor sono caratterizzati da una sequenza di spazi interconnessi simili a grotte, costruiti con 60.000 lastre orizzontali di quarzite gneiss di Vals, estratta localmente. Questo design crea un’esperienza profondamente sensoriale e monolitica, che evoca la sensazione di trovarsi all’interno di una montagna o di un’antica sottostruttura.</p>
+<p>
+<strong>Caratteristiche architettoniche dei corridoi</strong>
+<ul>
+<li><strong>Materialità e consistenza:</strong> Il materiale principale è la quarzite locale, nota come gneiss di Vals. La pietra è tagliata in strisce lunghe un metro e posata orizzontalmente, creando un motivo lineare e deciso. Questa disposizione a strati, con variazioni di colore, conferisce alle pareti una qualità unica, quasi tessile, che contrasta con la superficie liscia dell’acqua e della luce.</li>
+<li><strong>Esperienza spaziale:</strong> i corridoi sono stati intenzionalmente progettati come un percorso “labirintico”, che controlla la prospettiva dei bagnanti e li conduce attraverso un percorso di circolazione accuratamente modellato. Il gioco di luci e ombre e i suoni mutevoli dell’acqua intensificano l’esperienza sensoriale. I soffitti alti nelle aree principali aiutano a prevenire qualsiasi sensazione di claustrofobia, nonostante la costruzione solida e senza finestre di molti santuari interni.</li>
+<li><strong>Luce:</strong> La luce è un elemento fondamentale, utilizzato per ottenere un effetto drammatico. Le strette fessure nel soffitto e i piani verticali di luce provenienti dalle piscine adiacenti creano linee nette e un’illuminazione suggestiva in spazi sotterranei altrimenti poco illuminati. Questa manipolazione della luce, dell’acqua e della pietra è fondamentale per il design suggestivo di Zumthor.</li>
+<li><strong>Blocchi monolitici:</strong> L’edificio è concepito come una serie di blocchi di pietra massicci e compatti e di vuoti. I corridoi sono essenzialmente gli spazi “scavati” tra questi elementi strutturali. Questo metodo di costruzione conferisce agli interni un aspetto solido e senza tempo, come se fossero stati scolpiti direttamente nella roccia anziché costruiti.</li>
+<li><strong>Collegamento con la natura:</strong> Il principio di progettazione era quello di costruire “nella montagna” e “con la pietra”, creando un’architettura profondamente integrata con l’ambiente alpino circostante. La natura sotterranea dei bagni, collegati all’hotel solo da un passaggio sotterraneo, enfatizza la separazione dal mondo esterno per un’esperienza rituale.</li>
+</lu>
+</p>
+
+  </section>
+
+
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+
+
+
+</body>
+</html>

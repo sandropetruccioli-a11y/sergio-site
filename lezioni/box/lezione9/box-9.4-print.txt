@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 9.4</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione3">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 9.4</div>
+
+    <h1 class="scheda-title">
+     La forma che cresce nel processo: <br>il progetto come costruzione progressiva
+    </h1>
+  </div>
+
+  <div class="cover-image" style="--img-scale: 50%;">
+   <img src="print9/box_9.4_B_10.jpg">
+  </div>
+
+  <div class="cover-intro">
+    Non tutte le forme nascono da un’idea immediata. In molti casi, il progetto si sviluppa come conoscenza in divenire: un processo aperto di esplorazioni, verifiche, fallimenti e scoperte. La forma cresce per aggiustamenti successivi, come un organismo che cerca la propria coerenza nel tempo. Schizzi, modelli, prove di luce e materia non illustrano: costruiscono. Questa scheda mostra esempi in cui l’architettura si configura nel fare, non nel sapere già dato.
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+   Cedric Price, <i>Potteries Thinkbelt</i> (1961)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_A_1.jpg">
+      <div class="image-index">A.1</div>
+    </div>
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_A_2.jpg">
+      <div class="image-index">A.2</div>
+    </div>
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_A_3.jpg">
+      <div class="image-index">A.3</div>
+    </div>
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_A_4.jpg">
+      <div class="image-index">A.4</div>
+    </div>
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_A_6.jpg">
+      <div class="image-index">A.5</div>
+    </div>
+    <div class="image-box" style="--img-scale: 80%;">
+      <img src="print9/box_9.4_A_7.jpg">
+      <div class="image-index">A.6</div>
+    </div>
+  <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_A_8.jpg">
+      <div class="image-index">A.7</div>
+    </div>
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_A_9.jpg">
+      <div class="image-index">A.8</div>
+    </div>
+
+
+
+   <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Un progetto visionario che evolve per frammenti, scenari e ipotesi. Più che una forma chiusa, è un dispositivo progettuale aperto: non un edificio, ma una strategia mobile di apprendimento. Mappe, schemi e prototipi raccontano un processo progettuale che non cerca l’oggetto, ma l’azione.
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>
+Il <i>Potteries Thinkbelt</i> di Cedric Price rappresenta uno dei casi più radicali di progetto inteso come processo in divenire, in cui la forma non precede l’azione ma nasce dall’uso, dal tempo e dalla trasformazione continua. Non si tratta di un edificio né di un piano urbanistico tradizionale, ma di una infrastruttura culturale mobile, concepita come sistema di apprendimento capace di adattarsi alle condizioni sociali, tecnologiche ed economiche.</p>
+<p>
+Il progetto non parte da una figura architettonica da realizzare, ma da una domanda fondamentale: come può il sapere muoversi, crescere, trasformarsi? La risposta di Price è un paesaggio progettuale fatto di dispositivi temporanei, moduli intercambiabili, padiglioni su rotaie, stazioni attivate e disattivate secondo necessità. Ogni elemento è pensato come provvisorio, reversibile, aggiornabile. La forma non è un obiettivo, ma una conseguenza contingente del processo.</p>
+<p>
+Il <i>Thinkbelt</i> si sviluppa attraverso mappe, schemi operativi, diagrammi e scenari d’uso. Ogni disegno è una ipotesi, non una soluzione definitiva. Il progetto avanza per tentativi, verifiche e possibilità alternative, rifiutando l’idea di un assetto finale stabile. Proprio per questo, il sistema risulta coerente: la sua grammatica non è la permanenza, ma la variazione controllata; la sua sintassi è il cambiamento come regola.</p>
+<p>
+Nel contesto della Scheda 9.4, il <i>Potteries Thinkbelt</i> mostra come la forma possa crescere nel fare, non nel sapere già dato. La coerenza non deriva da una figura riconoscibile, ma dalla capacità del progetto di reggere trasformazioni continue senza perdere senso. La stabilità non è affidata alla durata materiale, ma alla chiarezza del processo che governa il cambiamento.</p>
+<p>
+La lezione che ne deriva è decisiva: il progetto può essere una piattaforma di evoluzione, più che un oggetto compiuto. In questa prospettiva, l’architettura non si definisce come forma finita, ma come costruzione progressiva di possibilità.</p>
+
+
+
+   
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+   Peter Zumthor, <i>Allmannajuvet Zinc Mine Museum, Norvegia</i> (2002–2016)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+ 
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_2.jpg" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 80%;">
+      <img src="print9/box_9.4_B_11.jpg" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_12.jpg" alt="">
+      <div class="image-index">B.3</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_13.jpg" alt="">
+      <div class="image-index">B.4</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_3.jpg" alt="">
+      <div class="image-index">B.5</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_14.jpg" alt="">
+      <div class="image-index">B.6</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_15.jpg" alt="">
+      <div class="image-index">B.7</div>
+    </div>
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_4.jpg" alt="">
+      <div class="image-index">B.8</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_5.jpg" alt="">
+      <div class="image-index">B.9</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_6.jpg" alt="">
+      <div class="image-index">B.10</div>
+    </div> 
+ 
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_7.jpg" alt="">
+      <div class="image-index">B.11</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_B_8.jpg" alt="">
+      <div class="image-index">B.12</div>
+    </div> 
+  
+  
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Un progetto costruito per aggiustamenti successivi, in un contesto fragile e remoto. Schizzi, modelli e simulazioni di luce guidano un processo di lenta chiarificazione, dove ogni elemento è ridefinito nel confronto con il luogo. La forma finale è l’esito di un ascolto: del tempo, del paesaggio, della materia.
+
+</div>
+    
+
+  <div class="icono-divider"></div>
+
+
+<section class="text-section">
+ <p>
+Nel progetto per l’<i>Allmannajuvet Zinc Mine Museum</i>, Peter Zumthor mette in atto un processo di progettazione fondato su aggiustamenti successivi e su una forma che cresce lentamente nel confronto con il luogo. Sviluppato nell’arco di oltre un decennio, il complesso non nasce da un’idea immediata da applicare al sito, ma da una ricerca progressiva in cui la chiarezza progettuale emerge nel tempo, attraverso verifiche, correzioni e riformulazioni.</p>
+<p>
+Il contesto — una gola ripida e remota nella regione di Sauda, segnata dalla memoria industriale delle miniere — non è uno sfondo da rispettare, ma una materia attiva che orienta il progetto. Topografia estrema, clima rigido, vegetazione, tracce estrattive e vuoti residui diventano parametri generativi. Zumthor lavora per sottrazione e misura: ogni scelta nasce da una relazione sensibile con il paesaggio, cercando un equilibrio tra presenza e fragilità. I padiglioni, le passerelle e i punti di accesso sembrano posarsi sul terreno con prudenza, quasi sospesi, come presenze necessarie e al tempo stesso reversibili.</p>
+<p>
+La costruzione della forma è inseparabile dagli strumenti di esplorazione. Schizzi, modelli fisici e prove di luce non illustrano un’idea già definita: la producono. I modelli servono a testare rapporti di scala, distanze e appoggi; le simulazioni luminose verificano come la luce nordica attraversi e trasformi gli spazi; i materiali — legno scuro, metallo brunito — vengono scelti e calibrati per reagire alle condizioni variabili del luogo. Ogni elemento viene ridefinito più volte in un lento percorso di chiarificazione.</p>
+<p>
+Il risultato non è un insieme di edifici-oggetto, ma un sistema di situazioni percettive che costruisce un’esperienza: un percorso di rivelazione che accompagna il visitatore tra silenzio, materia e luce, fino alla soglia della montagna e alla memoria del lavoro minerario. La robustezza tecnica convive con una percezione di provvisorietà: un paradosso controllato che restituisce la dimensione temporale del sito senza retorica.</p>
+<p>
+Nel quadro della Scheda 9.4, l'<i>Allmannajuvet Zinc Mine Museum</i> mostra come la forma possa nascere nel processo, come conoscenza in divenire. Il progetto non applica una figura: la cerca. E dimostra che, in certi casi, costruire coincide con pensare — e la coerenza emerge non dalla decisione immediata, ma dalla durata del confronto con il luogo.</p>
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+  <div class="caption-main">
+     Kazuyo Sejima / SANAA, <i>Casa a Chiasso</i> (1994–1996)
+    </div>
+  </div>
+
+ <div class="image-grid">
+
+ 
+    
+
+ 
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_C_13.jpg" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_C_1.jpg" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 80%;">
+      <img src="print9/box_9.4_C_2.jpg" alt="">
+      <div class="image-index">C.3</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 80%;">
+      <img src="print9/box_9.4_C_7.jpg" alt="">
+      <div class="image-index">C.4</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_C_11.jpg" alt="">
+      <div class="image-index">C.5</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_C_12.jpg" alt="">
+      <div class="image-index">C.6</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_C_4.jpg" alt="">
+      <div class="image-index">C.7</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_C_5.jpg" alt="">
+      <div class="image-index">C.8</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_C_6.jpg" alt="">
+      <div class="image-index">C.9</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print9/box_9.4_C_8.jpg" alt="">
+      <div class="image-index">C.10</div>
+    </div>
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Un micro-progetto che evolve come un disegno a mano libera: leggero, iterativo, sperimentale. La forma non è dichiarata, ma si precisa attraverso schizzi e studi volumetrici successivi, fino a trovare una dimensione di equilibrio. È l’esempio di un processo in cui l’instabilità iniziale diventa coerenza finale.
+
+</div>
+    
+ <div class="icono-divider"></div>
+
+  <section class="text-section">
+ <p>
+La <i>Casa a Chiasso</i>, una delle prime opere europee di Kazuyo Sejima, rappresenta un esempio paradigmatico di forma che cresce nel processo, attraverso un fare progettuale leggero, esplorativo e non lineare. Il progetto non nasce da un’idea formale definita, ma da una sequenza di tentativi, slittamenti e aggiustamenti minimi, come un disegno tracciato e corretto più volte sul foglio.</p>
+<p>
+La forma architettonica emerge gradualmente. Schizzi rapidi, diagrammi e plastici elementari non servono a rappresentare una soluzione già pensata, ma a scoprirla nel tempo. La pianta si costruisce per spostamenti impercettibili, i pieni e i vuoti si calibrano come frammenti di un insieme instabile, che trova coerenza non attraverso la simmetria o la chiusura tipologica, ma grazie a un equilibrio sottile tra parti.</p>
+<p>
+L’instabilità iniziale non viene corretta o mascherata: diventa la condizione generativa del progetto. Pareti curve, margini indefiniti, variazioni di altezza e continuità spaziali producono un’architettura che non si impone come oggetto concluso, ma resta aperta, porosa, in dialogo costante tra interno ed esterno. Gli spazi si susseguono in sequenze fluide, come se fossero ancora in fase di tracciamento.</p>
+<p>
+Il bianco dominante, la riduzione estrema dei dettagli, la leggerezza dei materiali rafforzano l’impressione di una costruzione appena emersa dal processo ideativo. Nulla è superfluo, ma nulla è dichiarato in modo definitivo. La casa sembra sospesa tra provvisorietà e precisione, tra fragilità e controllo.</p>
+<p>
+Nel contesto della Scheda 9.4, la <i>Casa a Chiasso</i> costituisce una lezione di metodo: mostra come l’architettura possa nascere da un fare esplorativo, in cui la forma non precede il processo ma ne è il risultato. L’indeterminatezza iniziale non è un limite, ma una risorsa. La coerenza finale non cancella l’instabilità, ma la trattiene come parte integrante dell’opera.</p>
+ </section>
+
+
+</section>
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

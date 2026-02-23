@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 1.3</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione1">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 1.3</div>
+
+    <h1 class="scheda-title">
+      La percezione prima della tecnica
+    </h1>
+  </div>
+
+  <div class="cover-image" style="--img-scale: 60%;">
+    <img src="print1/box_1.3_A_4.jpg" alt="[COVER_IMAGE_ALT]">
+  </div>
+
+  <div class="cover-intro">
+    <p>
+      La tecnica viene dopo. Il primo strumento dell’architetto è lo sguardo. Questa scheda invita a considerare lo spazio come fenomeno percettivo: fatto di assi, profondità, soglie, proporzioni. Le immagini selezionate non mostrano “oggetti”, ma modalità di vedere: come l’architetto seleziona e organizza la realtà, già prima di tracciarne una linea.
+    </p>
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+      Henri Cartier-Bresson, <i>Aquila, Abruzzo</i> (1951), Magnum Photos Archive 
+    </div>
+  </div>
+
+   <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 90%;">
+      <img src="print1/box_1.3_A_1.jpg" alt="">
+      <div class="image-index">A.1</div>
+    </div>
+
+
+  </div>
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+   Cartier-Bresson è uno dei più grandi “lettori dello spazio” del Novecento. Questa fotografia è un capolavoro percettivo:
+<ul>
+<li>asse prospettico chiarissimo</li>
+<li>relazione tra pieni e vuoti</li>
+<li>profondità determinata dalla luce</li>
+<li>ritmo scandito dalle persone</li>
+<li>spazio come evento, non come sfondo</li>
+</ul>
+È un’immagine che insegna come guardare prima ancora di parlare di architettura.
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+
+<p>
+Henri Cartier-Bresson si recò a L’Aquila, in Abruzzo, Italia, nel 1951 e realizzò una serie di fotografie significative che documentavano la vita e le tradizioni locali. Il suo lavoro in questa regione è noto per aver catturato l'essenza di un'Italia del dopoguerra in transizione, prima del picco dell'influenza industriale.</p>
+<p>Durante il suo viaggio in Italia nel 1951, Cartier-Bresson fu incaricato di documentare varie regioni, con particolare attenzione al Sud e alla vita rurale. In Abruzzo visitò sia la città di L'Aquila che il vicino villaggio di Scanno, realizzando alcune delle sue immagini più famose e iconiche.
+</p>
+<p>Gli aspetti chiave del suo lavoro in questa regione includono:
+
+<ul>
+      <li><strong>Il momento decisivo:</strong> le sue fotografie dell'Abruzzo sono eccellenti esempi del suo concetto di “momento decisivo”, in cui ha catturato scene nell'istante esatto in cui tutti gli elementi si sono allineati armoniosamente per raccontare una storia.</li>
+      <li><strong>Foto iconica di Scanno:</strong> una delle sue immagini più celebri, spesso citata come “Scanno, Abruzzi, Italia”, raffigura una donna che cammina per strada, con altre figure sullo sfondo. Questa foto è stata scattata da un punto di vista specifico, ora noto come “scala dei fotografi”.</li>
+      <li><strong>Intimità documentaria:</strong> le immagini mettono in mostra la sua capacità di catturare immagini spontanee e intime in bianco e nero che evidenziano l'identità locale unica della regione e il contrasto tra tradizione e modernità emergente.</li>
+      <li><strong>Magnum Photos:</strong>queste fotografie sono state realizzate nell'ambito del suo lavoro come membro fondatore di Magnum Photos, la prestigiosa agenzia cooperativa che ha fondato nel 1947 con Robert Capa, George Rodger e David Seymour.</li>
+    </ul>
+Le immagini di questa serie fanno parte delle principali collezioni museali di tutto il mondo, tra cui il Minneapolis Institute of Art. Continuano ad essere esposte in mostre, come la retrospettiva 2024-2025 “Henri Cartier-Bresson e l'Italia” a Palazzo Roverella a Rovigo.
+    </p>
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+      Luigi Ghirri, <i>Modena</i> (1973), Archivio Luigi Ghirri (Parma)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print1/box_1.3_B_1.jpg" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print1/box_1.3_B_2.jpg" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print1/box_1.3_B_3.jpg" alt="">
+      <div class="image-index">B.3</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print1/box_1.3_B_4.jpg" alt="">
+      <div class="image-index">B.4</div>
+    </div>
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+    Ghirri offre un altro registro percettivo: lo spazio non come profondità monumentale, ma come soglia, frammento, attesa:
+<ul>
+<li>cornici entro cornici</li>
+<li>piani sovrapposti</li>
+<li>relazione tra oggetti e vuoto</li>
+<li>spazio quotidiano come territorio mentale</li>
+</ul>
+</div>
+    
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+
+<p>
+Le fotografie di Luigi Ghirri intitolata "Modena, 1973" fanno parte della celebre serie e del libro fotografico <i>Kodachrome</i>. L'opera è conservata presso l'Archivio Luigi Ghirri. Il libro raccoglie 92 fotografie a colori scattate tra il 1970 e il 1978. Ghirri utilizzò il suo archivio come un "serbatoio di immagini", creando una sequenza che, pur apparendo disgiunta, costituisce una riflessione profonda sull'atto di guardare e sulla rappresentazione della realtà. La foto, come gran parte del lavoro di Ghirri, si concentra sul paesaggio e sulla percezione del quotidiano, trasformando scene ordinarie, a volte banali, in poesia visiva.</p>
+<p><i>Kodachrome</i> è considerata un'opera fondamentale nella storia della fotografia italiana, segnando l'abbandono delle pose documentaristiche tradizionali in favore di un approccio più concettuale e poetico. 
+    </p>
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+  <div class="caption-main">
+      Le Corbusier, <i>Schizzo dell’Eretteo visto dall’Acropoli e altri disegni</i> (1911), Fondation Le Corbusier
+    </div>
+  </div>
+
+ <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print1/box_1.3_C_5.jpg" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print1/box_1.3_C_4.jpg" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print1/box_1.3_C_2.jpg" alt="">
+      <div class="image-index">C.3</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print1/box_1.3_C_1.jpg" alt="">
+      <div class="image-index">C.4</div>
+    </div>
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+    Questi schizzi non rappresentano un edificio, ma un modo di guardare l’architettura. Le Corbusier riduce il mondo a:
+<ul>
+<li>rapporti</li>
+<li> masse </li>
+<li>linee di forza</li>
+<li>intensità luminose</li>
+</ul>
+lo sguardo dell’architetto trasforma il reale in struttura percettiva.
+</div>
+    
+
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>
+I taccuini di schizzi del “Viaggio in Oriente” di Le Corbusier, compresi i suoi disegni dell'Eretteo e di altri edifici dell'Acropoli, sono conservati dalla Fondazione Le Corbusier a Parigi.</p>
+<p>
+<string>Dettagli sugli schizzi e sulla loro ubicazione</strong>
+
+<ul>
+      <li><strong>Viaggio in Oriente (1911):</strong> Le Corbusier (allora Charles-Édouard Jeanneret) intraprese un lungo viaggio di studio attraverso l'Europa orientale e il Mediterraneo nel 1911. Durante questo viaggio realizzò numerosi schizzi e appunti, riportando le sue impressioni e analisi in sei taccuini di viaggio.</li>
+      <li><strong>Atene e l’Acropoli:</strong> un momento chiave del viaggio fu il suo soggiorno di 21 giorni in Grecia, dove disegnò intensamente i templi antichi, in particolare il Partenone e l'Eretteo, vedendovi l'essenza dell'architettura classica. Questi schizzi influenzarono profondamente la sua futura filosofia architettonica.</li>
+      <li><strong>Fondo archivistico:</strong> gli schizzi originali dell'Eretteo fanno parte di questi taccuini. L'insieme di questi documenti è gestito e conservato dalla Fondazione Le Corbusier, che detiene i diritti d'autore e gli archivi dell'architetto.</li>
+      <li><strong>Pubblicazione:</strong> i taccuini sono stati pubblicati postumi con il titolo <i>Le Voyage d'Orient</i> nel 1966. Mostre e pubblicazioni specializzate, spesso in collaborazione con la Fondazione, presentano regolarmente questi disegni al pubblico.</li>
+    </ul>
+
+    </p>
+
+
+
+</section>
+
+</section>
+
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

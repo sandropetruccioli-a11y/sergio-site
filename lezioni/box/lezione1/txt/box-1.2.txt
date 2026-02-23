@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 1.2</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 1.2 - Il lavoro dell’architetto come processo, non come gesto estetico</h1>
+    <p class="box-intro">Il lavoro dell’architetto non si esaurisce nell’estetica della forma, ma è un processo complesso di analisi, selezione, confronto e costruzione. Attraverso immagini di lavoro in studio e schizzi progettuali, viene restituita la dimensione artigianale e riflessiva del mestiere: un’attività che si fonda sulla pazienza, sulla revisione continua, sulla capacità di modellare relazioni più che oggetti.</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img1/box_1.2_A_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img1/box_1.2_A_2.png" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+<br>
+    <figcaption>
+      <div class="caption-main"><i>Peter Zumthor in studio, Haldenstein</i> (anni ’90), Archivio Peter Zumthor </div>
+      <div class="caption-sub">Zumthor lavora circondato da modelli materici, prove di luce, schizzi tridimensionali, campioni reali: è il simbolo dell’architetto che <i>pensa con le mani</i>, che testa, verifica, ascolta la forma. Questa immagine mostra il mestiere come processo lento, fisico, fenomenologico.
+      </div>
+    </figcaption>
+</section>
+
+<br>
+<p><strong>B.</strong></p>
+<br>
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img1/box_1.2_B_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img1/box_1.2_B_2.png" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+ 
+</section>
+<br>
+    <figcaption>
+      <div class="caption-main">Lina Bo Bardi, <i>Schizzi progettuali per il SESC Pompeia</i>, Instituto Lina Bo e P. M. Bardi (São Paulo)</div>
+      <div class="caption-sub">Gli schizzi di Lina Bo Bardi mostrano: la relazione tra forma e comunità, il modo in cui le persone usano lo spazio, il ruolo del corpo nella progettazione, una progettualità sociale e umanistica. È un’immagine ideale per farci comprendere che l’architettura non è solo <i>tecnica</i>, ma <i>interpretazione</i> della vita reale.</div>
+    </figcaption>
+  </section>
+<br>
+  <section class="text-section">
+ <p>
+Gli schizzi di Lina Bo Bardi per il complesso SESC Pompeia erano parte integrante del suo processo di progettazione e riflettevano l'attenzione rivolta all'attività umana, all'interazione sociale e al riutilizzo dello spazio industriale esistente. I disegni sono noti per la loro estetica essenziale, “povera” e spoglia, che cattura l'energia e il flusso delle persone all'interno dello spazio piuttosto che concentrarsi esclusivamente sui dettagli tecnici.</p>
+<strong>Caratteristiche degli schizzi</strong>
+<ul>
+      <li><strong>Attenzione all'umanità:</strong> i suoi schizzi includevano spesso figure e forme, catturando la “realtà dell'ambiente umano brasiliano” e la vita spontanea della comunità locale che aveva già iniziato a utilizzare lo spazio della fabbrica abbandonata.</li>
+      <li><strong>Estetica essenziale e grezza:</strong> i disegni utilizzano spesso linee semplici e materiali grezzi, mostrando una propensione per un aspetto incompiuto che si traduceva nell'uso di cemento a vista e di elementi originali della fabbrica nel progetto.</li>
+      <li><strong>Riflessione concettuale e sociale:</strong> per Bo Bardi il disegno era una “riflessione sociale ed esistenziale” e un mezzo di “ricerca antropologica”, non solo una fase tecnica della progettazione.</li>
+      <li><strong>Movimento e flusso:</strong> gli schizzi illustrano un “senso caotico ma vivace di flusso permanente” in tutto il progetto, un concetto chiaramente evidente nella disposizione finale dell'edificio, comprese le passerelle aeree che collegano le torri sportive.</li>
+      <li><strong>Elementi dettagliati:</strong> Esistono schizzi specifici per vari elementi, come il design dello sgabello SESC (che mostra variazioni nella costruzione) e l'interno del teatro (con dettagli sulle tribune in cemento e sulle piastre acustiche in ferro).</li>
+    </ul>
+    </p>
+
+  </section>
+<br>
+<p><strong>C.</strong></p>
+<br>
+
+  <section class="image-section">
+    <figure>
+       <img class="carousel-image zoomable" src="./img1/box_1.2_C_1.png" alt="Vista 1" style="width: 40%; height: auto;">
+      <figcaption>
+        <div class="caption-main"><i>Le Corbusier nel suo atelier, anni ’30</i>, Fondation Le Corbusier, Parigi</div>
+        <div class="caption-sub">Questa immagine è una delle più celebri del “dietro le quinte” del lavoro architettonico: fogli, piante, prospetti, schizzi, modelli, l’architetto immerso nel proprio processo, nessuna forma “iconica”, solo lavoro quotidiano. Perfetta per comunicare agli studenti: non si nasce architetti: si lavora per diventarlo.
+</div>
+<br>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+ 
+<section class="text-section">
+ <p>
+Esistono fotografie del tavolo da disegno e dell’atelier di Le Corbusier al 35 di rue de Sèvres a Parigi risalenti agli anni '30 circa, che offrono una visione del suo ambiente di lavoro. Queste immagini ritraggono spesso il suo tavolo da disegno e talvolta mostrano i suoi assistenti, come Charlotte Perriand e Pierre Jeanneret, al lavoro nello studio.</p>
+<strong>Descrizione delle fotografie dell’atelier</strong>
+<ul>
+      <li><strong> Ambiente:</strong> le fotografie ritraggono generalmente uno spazio di lavoro funzionale, non un ambiente immacolato e allestito ad hoc. Possono includere materiali da costruzione, strumenti da disegno e modelli architettonici.</li>
+      <li><strong>Il tavolo da disegno:</strong> il tavolo stesso è un modello specifico di tavolo da architetto, una versione identica di quello utilizzato oggi nell'appartamento-studio ristrutturato in cui Le Corbusier visse dal 1934 al 1965.</li>
+      <li><strong>Atmosfera:</strong> Queste immagini catturano la dimensione umana dell'architettura moderna e la comunità internazionale collaborativa di persone che hanno lavorato con Le Corbusier.</li>
+      <li><strong>Stile fotografico:</strong> Le Corbusier era attivamente coinvolto nella fotografia e utilizzava ampiamente le immagini per la documentazione e la propaganda nelle sue pubblicazioni.</li>
+    </ul>
+    </p>
+
+  </section>
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,203 @@
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 1.7cm 1.5cm 1.4cm 1.5cm;
+  }
+
+  :root { --accent: #2f4f4f; }
+  body.lezione1, body.lezione4, body.lezione7 { --accent: #8b3a3a; }
+  body.lezione2, body.lezione5, body.lezione8 { --accent: #2f4f4f; }
+  body.lezione3, body.lezione6, body.lezione9 { --accent: #3b587a; }
+
+  html, body { background: #fff !important; }
+
+  body {
+    color: #111 !important;
+    margin: 0;
+    padding: 0;
+    font-family: "Merriweather", Georgia, "Times New Roman", serif;
+    font-size: 10.4pt;
+    line-height: 1.36;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    orphans: 3;
+    widows: 3;
+  }
+
+  .box-container {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+  }
+
+  .carousel-button,
+  #lightbox,
+  .box-footer,
+  .print-links-panel,
+  .back-top-link {
+    display: none !important;
+  }
+
+  .scheda {
+    break-after: page;
+    page-break-after: always;
+  }
+
+  .page-break {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  .scheda-cover {
+    break-after: auto !important;
+    page-break-after: auto !important;
+    text-align: center;
+    margin-top: 0.2cm;
+    margin-bottom: 0.25cm;
+  }
+
+  .cover-header { margin-bottom: 0.62cm; }
+
+  .scheda-id,
+  .proposta-id {
+    color: var(--accent) !important;
+    font-weight: 700;
+  }
+
+  .scheda-id {
+    font-size: 11.1pt;
+    margin-bottom: 0.16cm;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+
+  .scheda-title {
+    color: #111 !important;
+    font-size: 16.4pt;
+    line-height: 1.2;
+    margin: 0 auto;
+    max-width: 14cm;
+  }
+
+  .cover-image { margin: 0.7cm auto 0.58cm; }
+
+  .cover-image img {
+    width: var(--img-scale, 66%);
+    max-height: 11.2cm;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .cover-intro {
+    margin: 0 0.8cm;
+    font-size: 9.9pt;
+    line-height: 1.34;
+    text-align: justify;
+  }
+
+  .proposta { margin-top: 0.18cm; }
+
+  .proposta-header {
+    break-before: auto !important;
+    page-break-before: auto !important;
+    break-after: auto;
+    page-break-after: auto;
+    margin-top: 0.16cm;
+    margin-bottom: 0.2cm;
+  }
+
+  .proposta-id {
+    display: block;
+    font-size: 12.2pt;
+    margin-bottom: 0.06cm;
+  }
+
+  .caption-main {
+    font-size: 10.7pt;
+    line-height: 1.31;
+    margin: 0 0.8cm;
+    break-after: auto;
+    page-break-after: auto;
+  }
+
+  .image-grid {
+    --img-max-h: 4.3cm;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 3.2%;
+    row-gap: 0.22cm;
+    margin: 0.22cm 0 0.22cm;
+  }
+
+  .image-grid.single {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
+  .image-grid.single .image-box { width: 50%; }
+
+  .image-box {
+    border: 0.35pt solid color-mix(in srgb, var(--accent) 45%, #ffffff 55%);
+    padding: 0;
+    margin: 0;
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .image-box img {
+    width: var(--img-scale, 100%);
+    max-height: var(--img-max-h);
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .image-index {
+    display: none !important;
+  }
+
+  .caption-sub {
+    margin: 0.2cm 0.8cm 0;
+    font-size: 9.75pt;
+    line-height: 1.32;
+  }
+
+  .icono-divider {
+    margin: 0.24cm 0.8cm 0.26cm;
+    border-top: 0.38pt solid var(--accent);
+    width: 56%;
+  }
+
+  .text-section {
+    margin: 0 0.8cm 0.26cm;
+    font-size: 9.55pt;
+    line-height: 1.29;
+    text-align: justify;
+  }
+
+  p, ul, ol, li, figure, figcaption, .caption-main, .caption-sub, .text-section {
+    color: #111 !important;
+  }
+
+  a, a:visited {
+    color: inherit !important;
+    text-decoration: none;
+  }
+
+  .print-source {
+    margin: 0.65cm 0.8cm 0;
+    padding-top: 0.22cm;
+    border-top: 0.35pt solid color-mix(in srgb, var(--accent) 35%, #ffffff 65%);
+    font-size: 8.9pt;
+    line-height: 1.26;
+    color: #222 !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+}

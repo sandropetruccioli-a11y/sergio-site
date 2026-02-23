@@ -1,0 +1,128 @@
+/* ===== BOX PAGE STYLES ===== */
+body {
+  font-family: 'Merriweather', 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 1.75;
+  margin: 0;
+  background: #fdfdfd;
+  color: #222;
+  padding: 2em;
+}
+
+.box-container {
+  background-color: #3b3b3b; /* o un grigio ancora più chiaro */
+  color: #f0f0f0;
+  padding: 2em;
+  border-radius: 8px;
+  margin: 0 auto;
+  max-width: 1300px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.box-header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.box-header h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #f2f2f2;
+  margin-bottom: 0.6em;
+}
+
+.box-intro {
+  font-size: 1.1em;
+  color: #ccc;
+}
+
+.image-section {
+  margin-bottom: 3em;
+}
+
+.image-section figure {
+  text-align: center;
+}
+
+.image-section img {
+  cursor: zoom-in;
+}
+
+
+.caption-main {
+  text-align: center;
+  font-size: 1.1em;
+  margin-top: 0.6em;
+  font-weight: bold;
+  color: #fdfdfd;
+}
+
+.caption-sub {
+  text-align: justify;
+  font-size: 0.95em;
+  color: #ccc;
+  max-width: 900px;
+  margin: 0.5em auto;
+  line-height: 1.6;
+}
+
+.box-footer {
+  text-align: center;
+  margin-top: 3em;
+}
+
+.box-footer a {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 1em;
+}
+
+.box-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Lightbox */
+#lightbox {
+  display: none;
+  position: fixed;
+  z-index: 2000;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.95);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.4);
+}
+
+#lightbox .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 28px;
+  color: white;
+  cursor: pointer;
+}
+
+/* Carousel */
+.carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1em;
+  padding: 1em 0;
+}
+.carousel img {
+  flex: 0 0 auto;
+  width: auto;
+  max-height: 400px;
+  scroll-snap-align: center;
+  cursor: zoom-in;
+}

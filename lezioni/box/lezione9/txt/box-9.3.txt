@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 9.3</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<body class="lezione3">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 9.3 – La forma come sistema trasformabile: varianti che non rompono il campo</h1>
+    <p class="box-intro">La prova più radicale di un progetto è la sua capacità di trasformarsi senza perdere identità. Le varianti non sono decorazioni: sono test di coerenza. Una forma è forte quando può adattarsi, mutare, espandersi mantenendo intatta la propria logica interna. Le opere selezionate mostrano come la trasformazione – lungi dall’indebolire – possa rivelare la struttura profonda del progetto, rendendo visibile il campo come sistema aperto ma stabile.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.3_A_8.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_A_1.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_A_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_A_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_A_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_A_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_A_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_A_9.png" style="display: none; height: 80%; width: auto;">
+  
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Louis Kahn, <i>Progetto per la Sinagoga Hurva, Gerusalemme</i> (1960–1965)</div>
+      <div class="caption-sub">Le varianti progettuali non modificano il nucleo sintattico: pianta centrale, corti simmetriche, luce zenitale. Cambiano i volumi, le proporzioni, i sistemi di accesso, ma la logica del campo resta intatta. Ogni trasformazione verifica la forza dell’impianto iniziale: la forma si adatta, ma non si dissolve.
+      </div>
+    </figcaption>
+</section>
+
+ 
+<section class="text-section">
+ <p>
+Il progetto di Louis Kahn per la <i>Sinagoga Hurva</i>, sviluppato tra il 1960 e il 1965 attraverso una lunga sequenza di varianti, costituisce uno dei casi più profondi di forma trasformabile che non perde identità, ma anzi la rafforza nel processo di trasformazione. Pur non essendo mai stato costruito, il progetto vive come sistema coerente di versioni, ciascuna delle quali mette alla prova la stabilità del campo architettonico.</p>
+<p>
+Ogni variante interviene su volumetrie, proporzioni, gradi di apertura o chiusura dell’involucro, ma non intacca mai la grammatica fondamentale del progetto. La pianta centrale, la disposizione simmetrica degli spazi di soglia, la struttura di piloni possenti, il rapporto netto tra interno raccolto ed esterno massivo, la luce zenitale come elemento ordinatore restano costanti. La trasformazione agisce sul linguaggio, non sulla sintassi.</p>
+<p>
+In questo senso, la serie di varianti non rappresenta un processo di aggiustamento funzionale, ma un dispositivo critico. Kahn utilizza la trasformazione come strumento di verifica: ogni mutazione serve a interrogare la tenuta dell’impianto originario, a misurarne la capacità di assorbire cambiamenti senza perdere coerenza. La forma non si indebolisce, ma si intensifica, diventando progressivamente più essenziale, più concentrata, più necessaria.</p>
+<p>
+La nozione di rovina, implicita nel nome stesso della <i>Hurva</i>, diventa qui una chiave progettuale. Kahn lavora come se l’architettura dovesse già contenere in sé il tempo, l’assenza, la memoria. Le varianti non cercano una versione “definitiva”, ma rendono visibile un campo architettonico che regge anche nella sua incompiutezza.</p>
+<p>
+Nel contesto della Scheda 9.3, il progetto per la <i>Sinagoga Hurva</i> dimostra che la vera prova di coerenza non è la fissità, ma la capacità di trasformarsi senza perdere identità. La forma è forte perché può mutare rimanendo se stessa. Le varianti non rompono il campo: lo rivelano come sistema aperto e stabile al tempo stesso.</p>
+
+
+  </section>
+
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_3.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_1.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_14.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_8.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_12.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_9.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_10.png" style="display: none; height: 80%; width: auto;">  
+    <img class="carousel-image zoomable" src="img9/box_9.3_B_11.png" style="display: none; height: 80%; width: auto;">  
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Le Corbusier, <i>Varianti per il Museo di Arte Occidentale, Tokyo</i> (1957–1959)</div>
+      <div class="caption-sub">Il museo di Tokyo nasce come modulo replicabile: una macchina spaziale aperta a varianti volumetriche, distributive e tipologiche. Le mutazioni non alterano l’impianto strutturale, basato su pilotis, rampa, corte e griglia. Il progetto dimostra che la trasformazione è contenuta nella grammatica stessa della forma.
+
+      </div>
+    </figcaption>
+</section>
+
+<section class="text-section">
+ <p>
+Nel <i>Museo Nazionale di Arte Occidentale</i> di Tokyo, Le Corbusier realizza molto più di un edificio concluso: costruisce una matrice generativa, un sistema architettonico concepito fin dall’origine per accogliere trasformazioni senza perdere coerenza. Il progetto giapponese, unica opera dell’architetto in Estremo Oriente, va letto non come episodio isolato, ma come applicazione esemplare di una logica progettuale trasferibile e verificabile.</p>
+<p>
+Alla base del museo vi è una grammatica rigorosa: una griglia strutturale modulare, il volume sollevato su pilotis, la promenade architecturale organizzata attorno a una rampa continua, la luce zenitale come principio ordinatore, il rapporto dialettico tra massa costruita e vuoto centrale. Questi elementi non definiscono una forma chiusa, ma un campo strutturale aperto, capace di generare varianti coerenti.</p>
+<p>
+Le diverse ipotesi sviluppate durante la progettazione – così come le possibilità di crescita insite nel concetto di museo a sviluppo illimitato – non mettono mai in discussione l’impianto originario. Le variazioni volumetriche, le rotazioni, gli adattamenti distributivi agiscono all’interno della stessa sintassi, dimostrando che l’identità del progetto non risiede nell’aspetto finale, ma nella struttura relazionale che lo sostiene.</p>
+<p>
+In questo senso, la trasformazione non è un compromesso, ma una prova di coerenza. Il progetto “regge” perché è costruito come sistema: ogni parte può essere modificata, estesa o reinterpretata senza che il campo architettonico perda stabilità. È la grammatica a garantire l’unità, non la fissità della figura.</p>
+<p>
+Nel contesto della Scheda 9.3, il museo di Tokyo mostra come la forma possa essere intesa come struttura generativa, capace di produrre spazio attraverso regole chiare e ripetibili. La molteplicità delle varianti non indebolisce il progetto, ma rende visibile la sua logica profonda: una forma che resta se stessa proprio perché è in grado di trasformarsi.</p>
+
+  </section>
+
+<br>
+
+
+<br>
+<p><strong>C.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_5.png" style="display: none; height: 50%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_8.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_9.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img9/box_9.3_C_10.png" style="display: none; height: 80%; width: auto;">
+
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Renzo Piano & Richard Rogers, <i>Centre Pompidou, Parigi</i> (1971–1977)</div>
+      <div class="caption-sub">La forma non è un oggetto ma un sistema flessibile: una struttura che consente infiniti adattamenti funzionali senza alterare la sintassi spaziale. Tubi, passerelle e impianti non sono decorazione, ma parte di una grammatica trasformabile. Ogni variante rafforza la coerenza del modello originario: la flessibilità è la regola, non l’eccezione.
+
+      </div>
+    </figcaption>
+</section>
+
+</section>
+<section class="text-section">
+ <p>
+Il <i>Centre Pompidou</i> rappresenta una svolta radicale nella concezione della forma architettonica come sistema trasformabile. Piano e Rogers non progettano un edificio come oggetto concluso, ma una infrastruttura culturale aperta, capace di assorbire nel tempo mutazioni funzionali, tecniche e programmatiche senza perdere identità.</p>
+<p>
+Alla base del progetto vi è una grammatica estremamente chiara: una struttura modulare in acciaio, grandi piani liberi sovrapposti, impianti e circolazioni espulsi all’esterno, una distinzione netta tra supporto permanente e contenuti variabili. Questa scelta non è un gesto espressivo, ma un atto strutturale: separare ciò che può cambiare da ciò che deve restare stabile.</p>
+<p>
+La trasformabilità del Pompidou non è un effetto collaterale, ma il principio generativo stesso del progetto. Nel corso del tempo, l’edificio ha accolto funzioni diverse – museo, biblioteca, spazi performativi, installazioni temporanee, sperimentazioni digitali – senza che il campo architettonico si indebolisse. Le varianti riguardano l’uso, la distribuzione interna, i dispositivi tecnici, persino la percezione urbana dell’edificio, ma non intaccano la sintassi di base.</p>
+<p>
+La coerenza del sistema risiede nella relazione tra gli elementi, non nella loro forma individuale. Ogni componente è pensato per essere sostituibile, aggiornabile, riconfigurabile. È proprio questa disponibilità al cambiamento a garantire la stabilità del campo: il progetto regge perché è strutturalmente predisposto alla trasformazione.</p>
+<p>
+Nel contesto della Scheda 9.3, il <i>Centre Pompidou</i> dimostra che la forma può essere concepita come sistema aperto senza perdere coerenza. La trasformazione non rompe il campo, ma lo conferma. La flessibilità, qui, non è una qualità estetica né una strategia funzionale contingente: è la grammatica profonda del progetto, la condizione stessa della sua durata nel tempo.</p>
+
+
+</section>
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+
+
+
+</body>
+</html>

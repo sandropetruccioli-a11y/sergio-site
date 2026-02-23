@@ -1,0 +1,503 @@
+:root {
+  --bg: #f7f5f1;
+  --surface: #ffffff;
+  --text: #1f1f1f;
+  --muted: #5f5a53;
+  --primary: #8b3f2f;
+  --secondary: #2f4f4f;
+  --border: #ddd6cc;
+  --toc-width: 320px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Source Serif 4", "Merriweather", "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.75;
+  color: var(--text);
+  background: var(--bg);
+}
+
+.service-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  background: #f2ebe1;
+  border-bottom: 1px solid var(--border);
+  padding: 10px 18px;
+}
+
+.header-left {
+  color: var(--secondary);
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.toolbar {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.toolbar button {
+  appearance: none;
+  border: 1px solid transparent;
+  background: var(--secondary);
+  color: #fff;
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 7px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+[id] {
+  scroll-margin-top: 86px;
+}
+
+.toc {
+  position: fixed;
+  top: 58px;
+  left: 0;
+  width: var(--toc-width);
+  height: calc(100dvh - 58px);
+  overflow-y: auto;
+  background: #faf8f4;
+  border-right: 1px solid var(--border);
+  padding: 16px;
+  z-index: 900;
+}
+
+.toc h2 {
+  margin: 0 0 10px;
+  font-family: "Merriweather", Georgia, serif;
+  font-size: 1.1rem;
+  color: var(--secondary);
+}
+
+.toc ul,
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc li {
+  margin: 0 0 3px;
+}
+
+.toc a {
+  display: block;
+  text-decoration: none;
+  color: #2a2a2a;
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.8rem;
+  line-height: 1.35;
+  padding: 3px 4px;
+  border-radius: 6px;
+}
+
+.toc a:hover,
+.toc a.active {
+  background: #ece7df;
+  color: var(--primary);
+}
+
+.toc .toc-section {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--muted);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.toc-boxes a {
+  font-size: 0.74rem;
+}
+
+.toc > br {
+  display: none;
+}
+
+.toc-back-item {
+  position: static;
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--border);
+}
+
+.toc-back-link {
+  font-weight: 700;
+  border: 1px solid var(--border);
+  background: #f0ebe2;
+}
+
+.toc-toggle {
+  display: none;
+  appearance: none;
+  border: 1px solid color-mix(in srgb, var(--secondary) 44%, #fff 56%);
+  background: #fff;
+  color: var(--secondary);
+  border-radius: 9px;
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.toc-overlay {
+  display: none;
+}
+
+
+#content {
+  max-width: 880px;
+  margin-left: calc(var(--toc-width) + 36px);
+  margin-right: 28px;
+  padding: 34px 32px 46px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  margin-top: 24px;
+  margin-bottom: 30px;
+}
+
+.frontmatter {
+  margin-bottom: 2rem;
+}
+
+.chapter-number {
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.86rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.centered {
+  text-align: center;
+}
+
+.main-title {
+  margin: 0.1em 0 0.35em;
+  font-family: "Merriweather", Georgia, serif;
+  color: var(--primary);
+  font-size: clamp(1.8rem, 3vw, 2.45rem);
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+}
+
+.subtitle {
+  margin: 0;
+  font-size: clamp(1rem, 1.7vw, 1.2rem);
+  color: var(--muted);
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.titolo_paragrafo {
+  margin-top: 1.9em;
+  margin-bottom: 0.6em;
+  font-family: "Merriweather", Georgia, serif;
+  font-size: 1.23rem;
+  line-height: 1.3;
+  color: var(--secondary);
+}
+
+p {
+  margin: 0 0 1.15em;
+  max-width: 72ch;
+}
+
+ul,
+ol {
+  margin: 0.4em 0 1.15em 1.15em;
+  max-width: 72ch;
+}
+
+li {
+  margin: 0.2em 0;
+}
+
+p a,
+li a {
+  color: var(--primary);
+  text-underline-offset: 2px;
+}
+
+body.dark {
+  --bg: #161819;
+  --surface: #1f2325;
+  --text: #ececec;
+  --muted: #b9b9b9;
+  --primary: #d08a74;
+  --secondary: #8ab6b6;
+  --border: #3a3f42;
+}
+
+body.dark .service-header {
+  background: #1f2325;
+}
+
+body.dark .toc {
+  background: #1b1f21;
+}
+
+body.dark .toc a {
+  color: #e6e6e6;
+}
+
+body.dark .toc a:hover,
+body.dark .toc a.active {
+  background: #2a3033;
+}
+
+@media (max-width: 1120px) {
+  :root {
+    --toc-width: 270px;
+  }
+
+  body {
+    font-size: 18px;
+  }
+
+  #content {
+    margin-left: calc(var(--toc-width) + 20px);
+    margin-right: 16px;
+    padding: 26px 22px 32px;
+  }
+}
+
+@media (max-width: 900px) {
+  .service-header {
+    padding: 10px 12px;
+  }
+
+  .header-left {
+    font-size: 0.78rem;
+  }
+
+  .toolbar button {
+    font-size: 0.74rem;
+    padding: 5px 8px;
+  }
+
+  p,
+  ul,
+  ol {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 1024px) and (orientation: portrait), (max-width: 760px) {
+  .toc-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .toc {
+    top: 58px;
+    left: 0;
+    width: min(82vw, 360px);
+    height: calc(100dvh - 58px);
+    border-right: 1px solid var(--border);
+    border-radius: 0 12px 12px 0;
+    margin: 0;
+    transform: translateX(-104%);
+    transition: transform 0.22s ease;
+    z-index: 1250;
+    box-shadow: 10px 0 24px rgba(0, 0, 0, 0.15);
+  }
+
+  #content {
+    margin: 12px 10px 20px;
+    max-width: none;
+  }
+
+  .toc-overlay {
+    display: block;
+    position: fixed;
+    top: 58px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    pointer-events: none;
+    border: 0;
+    background: rgba(0, 0, 0, 0.28);
+    transition: opacity 0.2s ease;
+    z-index: 1200;
+  }
+
+  body.toc-open .toc {
+    transform: translateX(0);
+  }
+
+  body.toc-open .toc-overlay {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
+@media (max-width: 560px) {
+  body {
+    font-size: 17px;
+  }
+
+  .service-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .toolbar {
+    width: 100%;
+  }
+
+  .toolbar button {
+    flex: 1 0 auto;
+  }
+
+  #content {
+    padding: 18px 14px 24px;
+  }
+
+  .main-title {
+    font-size: 1.62rem;
+  }
+
+  .titolo_paragrafo {
+    font-size: 1.12rem;
+  }
+}
+
+
+.lesson-print-source {
+  display: none;
+  margin-top: 2.2rem;
+  color: #444;
+  font-size: 0.85rem;
+  line-height: 1.35;
+  border-top: 1px solid #d9d2c6;
+  padding-top: 0.7rem;
+}
+
+.lesson-print-panel {
+  margin-top: 8px;
+}
+
+.lesson-print-link {
+  font-weight: 700;
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 1.8cm 1.6cm 1.8cm 1.6cm;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    color: #111 !important;
+  }
+
+  body {
+    font-family: "Source Serif 4", "Merriweather", "Times New Roman", serif;
+    font-size: 11pt;
+    line-height: 1.45;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    orphans: 3;
+    widows: 3;
+  }
+
+  .service-header,
+  .toc,
+  .toolbar {
+    display: none !important;
+  }
+
+  #content {
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+  }
+
+  .main-title {
+    font-size: 18pt;
+    line-height: 1.2;
+    color: #111 !important;
+  }
+
+  .subtitle {
+    font-size: 12pt;
+    line-height: 1.35;
+    color: #333 !important;
+  }
+
+  .chapter-number {
+    color: #333 !important;
+    font-size: 10pt;
+  }
+
+  .titolo_paragrafo {
+    font-size: 13pt;
+    line-height: 1.3;
+    color: #111 !important;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  p,
+  ul,
+  ol {
+    max-width: none !important;
+    margin-bottom: 0.75em;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  a {
+    color: #111 !important;
+    text-decoration: none;
+  }
+
+  .lesson-print-source {
+    display: block !important;
+    margin-top: 1.3cm;
+    padding-top: 0.28cm;
+    border-top: 0.35pt solid #999;
+    font-size: 9pt;
+    line-height: 1.28;
+    color: #222 !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}

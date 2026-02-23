@@ -1,0 +1,144 @@
+@media print {
+
+  /* =========================
+     GENERALE
+     ========================= */
+  body {
+    background: white;
+    margin: 0;
+    padding: 0;
+    font-family: "Merriweather", serif;
+  }
+
+  .box-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+  }
+
+  .carousel-button,
+  #lightbox,
+  .box-footer {
+    display: none !important;
+  }
+
+  br {
+    display: none;
+  }
+
+  /* =========================
+     COVER SCHEDA
+     ========================= */
+  .scheda-cover {
+    page-break-after: always;
+  }
+
+  .scheda-cover img {
+    display: block;
+    width: 60%;
+    margin: 1cm auto 0 auto;
+  }
+
+  /* ===== PROPOSTA ===== */
+  .proposta {
+    page-break-before: always;
+  }
+
+  .proposta-header {
+    margin-bottom: 0.6cm;
+  }
+
+  .proposta-id {
+    font-weight: 700;
+    font-size: 11.5pt;
+    display: block;
+    margin-bottom: 0.1cm;
+  }
+
+  .caption-main {
+    font-size: 11.5pt;
+    line-height: 1.4;
+  }
+
+  /* =========================
+     BLOCCO ICONOGRAFICO
+     (DIDA + IMMAGINI + SOTTODIDA)
+     ========================= */
+  .blocco-iconografico {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .caption-main {
+    margin-bottom: 0.4cm;
+    font-size: 11.5pt;
+  }
+
+  .caption-sub {
+    margin-top: 0.3cm;
+    font-size: 10.5pt;
+  }
+
+  /* ===== GRIGLIA IMMAGINI ===== */
+  .image-grid {
+    margin-top: 0.6cm; /* respiro tra dida e immagini */
+    font-size: 0; /* elimina spazi inline */
+  }
+
+  .image-box {
+    display: inline-block;
+    width: 48%;
+    margin-right: 4%;
+    margin-bottom: 0.4cm;
+    vertical-align: top;
+    border: 0.35pt solid currentColor;
+    box-sizing: border-box;
+  }
+
+  .image-box:nth-child(2n) {
+    margin-right: 0;
+  }
+
+  .image-box img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .image-index {
+    font-size: 9pt;
+    text-align: right;
+    padding: 0.15cm 0.2cm 0.1cm 0;
+  }
+
+ /* ===== SOTTODIDASCALIA ===== */
+  .caption-sub {
+    margin-top: 0.4cm;
+    font-size: 11pt;
+    line-height: 1.45;
+    page-break-inside: avoid;
+  }
+
+  /* =========================
+     TESTO CRITICO
+     ========================= */
+  .testo-critico {
+    margin-top: 0.5cm;
+    font-size: 11.5pt;
+    line-height: 1.45;
+  }
+
+  /* =========================
+     PAGINAZIONE
+     ========================= */
+  @page {
+    margin: 2.5cm 2.5cm 3cm 2.5cm;
+
+    @bottom-center {
+      content: counter(page);
+      font-size: 9pt;
+      color: #444;
+    }
+  }
+}

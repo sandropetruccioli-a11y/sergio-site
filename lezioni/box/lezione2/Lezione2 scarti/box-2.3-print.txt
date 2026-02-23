@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 2.3</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<body class="lezione2">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 2.3 - La percezione come costruzione dello spazio: profondità, ritmo, luce, direzione</h1>
+    <p class="box-intro">Lo spazio si configura attraverso relazioni percettive. Profondità, scansioni, pieni e vuoti, direzioni e intensità luminose compongono una struttura dinamica che la mente riconosce prima ancora che esista un progetto. L’immagine non rappresenta una forma, ma rivela una logica nascosta dello spazio che predispone l’atto compositivo.
+
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img2/box_2.3_A_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.3_A_2.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+<br>
+      <figcaption>
+        <div class="caption-main">James Turrell, <i>A Frontal Passage</i> (1994), Collezione Guggenheim / installazioni permanenti</div>
+        <div class="caption-sub">Turrell costruisce lo spazio usando solo la luce. In questa installazione:
+<ul>
+<li>la profondità è un fenomeno percettivo,</li>
+<li>l’occhio organizza lo spazio come campo di energia,</li>
+<li>la direzione è data dall’intensità luminosa,</li>
+<li>la soglia tra reale e virtuale è il vero contenuto.</li>
+</ul>
+</div>
+<br>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+ 
+<section class="text-section">
+ <p>
+<i>A Frontal Passage</i> è un’installazione luminosa immersiva di James Turrell che utilizza luci fluorescenti per manipolare la percezione dello spazio, del colore e della profondità da parte dello spettatore. L’opera fa parte della serie <i>Wedgeworks</i> dell’artista ed è attualmente conservata nella collezione del Museum of Modern Art (MoMA) di New York.</p>
+<p>
+Per sperimentare <i>A Frontal Passage</i>, il visitatore entra in una camera buia. All’interno, una “parete” radiosa ma nitidamente definita di luce rossa pura e saturata sembra dividere la stanza in diagonale. La luce sembra avere una densità fisica e una superficie piatta, come se fosse un oggetto solido o un rettangolo dipinto su una parete.</p>
+<p>
+Gli elementi chiave dell’esperienza includono:
+<ul>
+<li><strong>Manipolazione della percezione.</strong> Gli spettatori sono incoraggiati a camminare verso la parete di luce. Mentre lo fanno, si rendono conto che la “parete” non ha massa; si può attraversare il confine percepito ed essere avvolti dalla luce stessa. Questo crea un effetto disorientante in cui la distinzione tra l’interno e l’esterno del campo luminoso si confonde.
+<li><strong>Colore e forma.</strong> Il colore della luce cambia sottilmente nel tempo, passando da diverse tonalità di rosso al viola e al blu, rendendo i contorni della forma meno rigidi. La superficie della luce appare completamente piatta e infinitamente profonda.
+<li><strong>Focus sull’atto del vedere.</strong> L’opera di Turrell non riguarda un oggetto, ma l’atto percettivo dello spettatore. Rimuovendo un oggetto fisico tradizionale, costringe lo spettatore a diventare consapevole di come i propri occhi e la propria mente interpretano la luce e lo spazio. L’artista mira a rendere la sua arte essa stessa luce, non una sua rappresentazione.
+
+    </p>
+  </section>
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img2/box_2.3_B_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.3_B_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img2/box_2.3_B_3.jpg" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Tadao Ando, <i>Church of the Light</i> (1989), interno, Ibaraki, Osaka</div>
+      <div class="caption-sub">Nel celebre interno della <i>Church of the Light</i>:
+<ul>
+<li>la profondità nasce dal contrasto pieno/vuoto,</li>
+<li>la luce “taglia” lo spazio,</li>
+<li>la direzione è inscritta nella croce luminosa,</li>
+<li>il ritmo è dato dai piani ortogonali,</li>
+<li>la percezione costruisce lo spazio molto più della materia.</li>
+</ul>
+Immagine didatticamente potentissima: gli studenti comprendono subito come <i>percezione = organizzazione spaziale</i>.
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+L‘interno della Chiesa della Luce di Tadao Ando è uno spazio semplice e minimalista in cemento, caratterizzato da un uso sorprendente della luce naturale. La caratteristica più evidente è il taglio a forma di croce nella parete dietro l’altare, attraverso il quale la luce penetra nell’interno altrimenti buio, creando una croce luminosa che cambia con il passare delle ore del giorno.</p>
+<p>
+Il design enfatizza la bellezza grezza dei materiali (cemento e luce) e crea un’atmosfera contemplativa e spirituale attraverso il forte contrasto tra luce e ombra. Il pavimento digrada verso l’altare, dirigendo l’attenzione verso la croce di luce. Lo spazio è un ottimo esempio dello stile caratteristico di Ando, che combina l’estetica giapponese con l’architettura minimalista e l’enfasi sul rapporto tra natura e architettura.
+</p>
+
+  </section>
+
+<br>
+<p><strong>C.</strong></p>
+
+
+<section class="image-section gallery">
+ <div class="carousel-container" style="height: 350px;">
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+  <img class="carousel-image zoomable" src="img2/box_2.3_C_1.jpg" style="display: block; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.3_C_4.jpg" style="display: none; height: 80%; width: auto;">
+  <img class="carousel-image zoomable" src="img2/box_2.3_C_3.jpg" style="display: none; height: 80%; width: auto;">
+ 
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+</div>
+
+<br>
+    <figcaption>
+      <div class="caption-main">Eduardo Chillida, <i>Elogio del Horizonte</i> (1990), Gijón, Spagna</div>
+      <div class="caption-sub">Chillida lavora sul bordo del mondo: un oggetto minimo che organizza la percezione del paesaggio.
+<ul>
+<li>profondità data dall’orizzonte,</li>
+<li>spazio costruito dallo sguardo,</li>
+<li>direzione implicita,</li>
+<li>relazione tra pieno (scultura) e vuoto (mare/cielo),</li>
+<li>“campo” percepito come immagine mentale.</li>
+</ul>
+È un esempio ideale di come percezione e spazio si co-determinano.
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+L’opera di Eduardo Chillida, intitolata <i>Elogio del Horizonte</i>, è una scultura monumentale in cemento inaugurata nel 1990 a Gijón, in Spagna. 
+L’opera, che si affaccia sull’Oceano Atlantico, è pensata per incorniciare l’orizzonte e amplificare il suono del mare attraverso le sue forme. Nonostante le sue dimensioni imponenti, l’intento dell’artista non era quello di dominare lo spazio, ma di interagire con esso.
+
+</p>
+
+  </section>
+
+
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+
+
+
+</body>
+</html>

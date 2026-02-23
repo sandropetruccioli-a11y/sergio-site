@@ -1,0 +1,94 @@
+@media print {
+
+  /* ===== GENERALE ===== */
+  body {
+    background: white;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* ===== CONTAINER ===== */
+  .box-container {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: white;
+    box-shadow: none;
+  }
+
+  /* ===== NASCONDI ELEMENTI INTERATTIVI ===== */
+  .carousel-button,
+  #lightbox,
+  .box-footer {
+    display: none;
+  }
+
+  /* ======================================================
+     GALLERY COME MASCHERA A RIQUADRI
+     ====================================================== */
+
+  /* ===== MASCHERA A RIQUADRI (RAFFINATA) ===== */
+
+.image-section.gallery .carousel-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 0.15cm;   /* filo bianco centrale */
+  row-gap: 0.4cm;
+  margin-bottom: 0.4cm;
+}
+
+
+.image-section.gallery .carousel-image {
+  width: 85%;                 /* immagine più stretta del box */
+  height: auto;
+  max-height: 7cm;            /* box più basso, pagina più leggera */
+  object-fit: contain;
+  background: #f2f2f0;        /* grigio perla */
+  padding: 0.25cm;
+  border: 0.3pt solid #bbb;
+  margin: 0 auto;
+}
+
+  /* ===== DIDASCALIA COME BLOCCO NEUTRO ===== */
+
+  .image-section {
+    display: block;
+  }
+
+  figcaption {
+    margin-bottom: 0.4cm;
+  }
+
+  /* ===== TESTO ===== */
+  .text-section p:first-child {
+    margin-top: 0;
+  }
+
+  /* ===== ELIMINA <br> ===== */
+  br {
+    display: none;
+  }
+
+  /* ===== PAGINAZIONE ===== */
+  @page {
+    margin: 2.5cm 2.5cm 3cm 2.5cm;
+
+    @bottom-center {
+      content: "8.4." counter(page);
+      font-family: "Merriweather", serif;
+      font-size: 9pt;
+      color: #444;
+    }
+ }
+ /* ===== CASO SINGOLO (UNA SOLA IMMAGINE) ===== */
+
+  .image-section:not(.gallery) .carousel-image {
+    display: block;
+    width: 60%;
+    margin: 0 auto 0.4cm auto;
+    background: #f2f2f0; /* stesso grigio perla */
+    padding: 0.3cm;
+    border: 0.3pt solid #bbb;
+    object-fit: contain;
+  }
+}

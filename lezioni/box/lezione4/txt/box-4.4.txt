@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 4.4</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 4.4 - La trasformazione del campo: modificare senza perdere identità</h1>
+    <p class="box-intro">Quando il campo è strutturalmente solido, la forma può cambiare pur conservando la propria identità. Espandersi, piegarsi, articolarsi non significa perdere coerenza, ma esprimere la flessibilità interna del sistema. Le architetture selezionate mostrano come l’invarianza compositiva possa sopravvivere alla trasformazione formale.
+
+
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img4/box_4.4_A_12.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_A_1.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_A_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_A_8.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_A_9.png" style="display: none; height: 80%; width: auto;">   
+    <img class="carousel-image zoomable" src="img4/box_4.4_A_10.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_A_11.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_A_13.png" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+<br>
+    <figcaption>
+      <div class="caption-main">Alvar Aalto, <i>Complesso universitario di Otaniemi</i> (1949-1975)</div>
+      <div class="caption-sub">Il campus di Aalto è un caso magistrale di campo estensibile:
+<ul>
+<li>nasce da pochi orientamenti e curve iniziali,</li>
+<li>ma negli anni cresce, si amplia, ruota,</li>
+<li>mantenendo sempre la sua identità organica.</li>
+</ul>
+La trasformabilità non indebolisce il campo: lo rafforza.
+
+      </div>
+    </figcaption>
+</section>
+<br>
+  <section class="text-section">
+
+
+
+<p><strong>Un campo aperto che cresce senza perdere identità</strong></p>
+<p>
+
+Il campus di Otaniemi rappresenta uno dei casi più raffinati di progetto “a campo” del Novecento: un sistema insediativo capace di trasformarsi nel tempo mantenendo una coerenza interna riconoscibile. Aalto non definisce una forma-matrice rigida, ma un insieme di <strong>direttrici morbide</strong>, curvature topografiche e assialità interrotte che operano come <strong>struttura generativa</strong>, non come griglia prescrittiva. Sin dall’inizio, il progetto si fonda sull’idea che la forma del campus non debba essere fissata, ma resa estensibile, capace di accogliere variazioni e ampliamenti senza perdere la propria identità.</p>
+<p>
+
+La visione originaria — sviluppata da Alvar e Aino Aalto nel 1949 — nasce in stretta continuità con il paesaggio naturale: la disposizione degli edifici risponde ai boschi esistenti, alle pieghe del terreno, ai viali storici della tenuta. Gli edifici principali, come l’iconico auditorium a ventaglio (1964–1974), non impongono un ordine, ma contribuiscono a un <strong>campo relazionale</strong> fatto di complementarità e differenze, dove ogni nuovo intervento trova una posizione non per allineamento geometrico, ma per affinità di comportamento con il sistema complessivo.</p>
+<p>
+
+Il progetto originale riflette inoltre la cultura urbanistica del dopoguerra, privilegiando ampie distanze tra gli edifici e una mobilità fortemente centrata sull’automobile. Tuttavia, questa impostazione non compromette la struttura profonda del campus: la sua logica non è tipologica, ma <strong>direzionale</strong>. Proprio questa natura “aperta” ha reso possibile, decenni dopo, la trasformazione di Otaniemi in un campus urbano più denso, pedonale, interdisciplinare e sostenibile, senza smarrire il carattere organico del disegno iniziale.</p>
+<p>
+
+La forza critica dell’opera sta nella capacità di coniugare <strong>continuità</strong> e <strong>trasformazione</strong>. Le direttrici stabilite da Aalto non prescrivono la forma, ma definiscono un <strong>campo di possibilità</strong> entro cui costruire. Gli interventi successivi non imitano la lingua di Aalto: ne riconoscono il sistema di relazioni e lo reinterpretano, rendendo il campus un ecosistema dinamico, capace di evolvere mantenendo intatta la sua identità.
+Otaniemi dimostra così come un progetto possa essere pensato non come un oggetto concluso, ma come un organismo aperto, un campo evolutivo che armonizza stabilità e mutamento.</p>
+
+
+  </section>
+<br>
+<p><strong>B.</strong></p>
+<br>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img4/box_4.4_B_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_B_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_B_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_B_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_B_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_B_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_B_6.png" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+</section>
+<br>
+    <figcaption>
+      <div class="caption-main">SANAA, <i>Grace Farms</i>, <i>River Building</i> (2010-2015) 
+        </div>
+      <div class="caption-sub">Il <i>River Building</i> è un esempio paradigmatico di <strong>campo continuo modificabile</strong>: un’unica figura che può piegarsi, allungarsi, contrarsi, incorporare nuove funzioni, senza mai perdere il proprio principio identitario. È una dimostrazione esemplare di come l’architettura possa trasformarsi senza contraddire le forze originarie che la generano.
+
+</div>
+    </figcaption>
+  </section>
+<br>
+
+
+  <section class="text-section">
+ <p><strong>La continuità come struttura: un campo che si deforma senza perdere unità</strong></p>
+<p>
+
+Il <i>River Building</i> di SANAA è uno dei casi più chiari in cui l’idea di campo spaziale continuo diventa principio generatore dell’architettura. L’edificio non si presenta come un insieme di volumi distinti, ma come una <strong>singola superficie ondulata</strong> che si distende sul terreno di Grace Farms seguendone le pendenze, rallentando, piegandosi e riemergendo come un nastro leggerissimo. Questa copertura — più paesaggio che tetto — è l’elemento strutturante del progetto: definisce direzioni, quote, relazioni, molto più dei padiglioni chiusi che ospitano le funzioni.</p>
+<p>
+
+L’architettura nasce dalla volontà di <strong>integrare il costruito nel paesaggio senza produrre un oggetto autonomo</strong>. La lunga linea serpentina scivola tra prati, boschi e stagni, trasformandosi in un sistema di spazi trasparenti collegati da un’unica figura. Le facciate sono composte da pannelli di vetro curvo a tutta altezza, che eliminano ogni gerarchia tra interno ed esterno: la luce, le stagioni e la topografia diventano parte attiva dell’esperienza. Il tetto, sostenuto da sottili elementi in legno lamellare e rivestito in alluminio, sembra fluttuare a pochi metri dal suolo, accentuando la leggerezza del campo.</p>
+<p>
+
+Il progetto funziona come una sequenza continua di “<strong>stagni programmatici</strong>” — anfiteatro, biblioteca, sala comune, palestra, padiglioni minori — inseriti sotto la stessa linea di copertura. Le funzioni non sono separate da volumi indipendenti, ma immerse in un flusso spaziale che le mette in relazione reciproca. Il movimento del visitatore non è mai puramente distributivo: è una esperienza atmosferica, un attraversamento che rende percepibile il legame tra corpo, luce e terreno.</p>
+<p>
+
+Dal punto di vista disciplinare, il <i>River Building</i> mostra come un campo possa essere deformabile e tuttavia coerente. Le curvature della copertura non generano un’immagine frammentata: al contrario, rendono leggibile l’unità complessiva. SANAA dimostra che la continuità non è un fatto estetico, ma un <strong>dispositivo relazionale</strong> che permette all’architettura di assorbire differenze — variazioni programmatiche, topografiche e percettive — senza perdere identità.</p>
+<p>
+
+In questo senso il progetto anticipa un modo di progettare non centrato sulla tipologia, ma su logiche ecologiche e adattive: l’edificio non si sovrappone al paesaggio, ma lo interpreta; non chiude funzioni in contenitori, ma costruisce una rete di relazioni che le tiene insieme; non impone una forma, ma propone un <strong>campo evolutivo</strong>, un organismo che può crescere e mutare mantenendo la propria coerenza interna.</p>
+
+
+
+  </section>
+<br>
+<p><strong>C.</strong></p>
+<br>
+  <section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img4/box_4.4_C_4.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_C_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_C_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_C_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_C_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_C_8.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_C_9.png" style="display: none; height: 80%; width: auto;">
+
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+</section>
+<br>
+      <figcaption>
+        <div class="caption-main">OMA / Rem Koolhaas, <i>Educatorium</i>, Utrecht (1997)</div>
+        <div class="caption-sub">L’<i>Educatorium</i> è un campo di piani piegati:
+<ul>
+<li>i piani scorrono, si piegano, salgono, scendono,</li>
+<li>il campo è dinamico ma sempre unitario,</li>
+<li>nonostante le trasformazioni di quota e inclinazione,</li>
+<li>l’identità del sistema rimane riconoscibile e coerente.</li>
+</ul>
+L’<i>Educatorium</i> mostra in modo esemplare come la trasformazione del campo non implichi perdita di identità. Pur modificandosi continuamente — salite, rotazioni, pieghe, scorrimenti — l’edificio rimane un’unica entità coerente. È un caso emblematico per comprendere come un sistema possa evolvere, integrare differenze, adattarsi a nuove esigenze, mantenendo intatta la propria logica strutturale interna.
+
+</div>
+<br>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+<section class="text-section">
+ <p>
+ <strong>La piega come principio di continuità del campo</strong> </p>
+<p>
+L’<i>Educatorium</i> dell’Università di Utrecht rappresenta uno dei momenti più avanzati della ricerca di OMA sulla costruzione dello spazio come paesaggio artificiale, dove la forma non deriva dalla somma di volumi, ma dalla deformazione controllata di superfici continue. L’edificio nasce dall’intersezione di due grandi piani — uno più rigido, l’altro più fluido — che si piegano, scorrono e si sovrappongono generando un campo spaziale unitario. La piega non è un gesto plastico: è il dispositivo che permette alla forma di incorporare percorsi, funzioni e relazioni senza frammentarsi.</p>
+<p>
+
+I due piani costruiscono un’unica traiettoria che assorbe la totalità dell’esperienza universitaria: dall’ingresso alla socializzazione, dalle aule alla caffetteria, fino alle sale d’esame. Nei punti in cui la superficie sale o si inclina, gli spazi cambiano carattere: un piano diventa parete, una copertura diventa pavimento, un auditorium nasce dalla deformazione del soffitto della caffetteria. La distinzione tradizionale tra elementi architettonici si indebolisce e lascia spazio a una logica di continuità geometrica.</p>
+<p>
+
+La materialità — cemento, acciaio, vetro — non è utilizzata per definire volumi, ma per dare consistenza alle superfici piegate. L’auditorium principale, ad esempio, è formato da una colata di cemento che riveste una struttura d’acciaio, mantenendo la percezione di un’unica superficie continua. La sala d’esame, con il soffitto a griglia di travi a I, enfatizza invece la precisione e la densità strutturale tipica del linguaggio di OMA. Anche la sostenibilità passiva (raffrescamento notturno, tetti verdi) è integrata nella logica del campo e non aggiunta come tecnologia esterna.</p>
+<p>
+
+Il valore critico dell’Educatorium risiede nella capacità di mostrare che la complessità programmatica non richiede la moltiplicazione degli oggetti, ma può essere assorbita da un campo deformato, in cui le superfici generano spazi attraverso il loro movimento. Koolhaas non organizza le funzioni per compartimenti, ma le lascia emergere come episodi di una stessa continuità. L’edificio diventa così una figura non tipologica: un’infrastruttura esperienziale in cui muoversi significa attraversare una serie di transizioni spaziali che rivelano la logica interna del progetto.</p>
+<p>
+
+In questo senso, l’<i>Educatorium</i> è uno dei paradigmi della progettazione “a campo” degli anni Novanta, anticipatore dello smooth space: uno spazio non gerarchico, non suddiviso, nel quale differenze funzionali e percezioni si stratificano senza interrompere l’unità generale. Le pieghe non dividono: articolano. Le inclinazioni non separano: orientano. La continuità non elimina la complessità: la rende leggibile.</p>
+  </section>
+
+
+<br>
+<p><strong>D.</strong></p>
+<br>
+  <section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img4/box_4.4_D_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_D_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_D_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_D_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_D_8.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_D_9.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img4/box_4.4_D_10.png" style="display: none; height: 80%; width: auto;">
+
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+
+</section>
+<br>
+      <figcaption>
+        <div class="caption-main">FOA, <i>Yokohama International Port Terminal</i> (1995-2002)</div>
+        <div class="caption-sub"><i>Yokohama</i> è un caso magistrale di trasformazione del campo:
+<ul>
+<li>la superficie si deforma, ma la sua identità rimane riconoscibile;</li>
+<li>le funzioni si integrano senza creare oggetti separati;</li>
+<li>la continuità non elimina la complessità, la organizza;</li>
+il progetto mostra come l’architettura possa essere un paesaggio operativo, non un volume chiuso.
+<ul>
+
+
+</div>
+<br>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+<section class="text-section">
+ <p>
+ <strong>La superficie topologica come campo continuo e trasformabile</strong> </p>
+<p>
+Il terminal passeggeri di Yokohama, progettato da FOA, è uno dei casi più emblematici dell’architettura topologica contemporanea: un edificio che non nasce dall’aggregazione di volumi, ma dalla deformazione di un’unica grande superficie continua. Tetto, pavimento e percorso pubblico diventano parti inseparabili di un campo spaziale che si piega, sale, scende e si torce seguendo una logica coerente e leggibile.</p>
+<p>
+
+L’idea centrale del progetto consiste nel concepire il terminal non come un oggetto architettonico, ma come un  <strong>paesaggio operativo</strong>: un’estensione del molo urbano che si fonde con il porto, il cielo e il movimento dei passeggeri. La copertura praticabile — in legno di Ipe, acciaio e ampie superfici vetrate — si configura come una piazza pubblica ondulata, accessibile 24 ore su 24, da cui osservare la baia e lo skyline di Minato Mirai. La promenade non è un’aggiunta funzionale: è la struttura stessa dell’edificio, e organizza i flussi attraverso curvature dolci, rampe e biforcazioni che eliminano la rigidità lineare tipica dei terminal.</p>
+<p>
+
+La struttura piegata in acciaio, ispirata all’origami e alle tecniche navali, permette di liberare completamente lo spazio interno da colonne e setti portanti. Questa continuità visiva e funzionale genera un ambiente estremamente flessibile, capace di ospitare attività portuali e, allo stesso tempo, eventi civici e culturali. Lì dove la superficie si deforma, si definiscono zone di attesa, transito o sosta, senza ricorrere a compartimentazioni tradizionali: è la geometria stessa a produrre gerarchie locali.</p>
+<p>
+
+Le pieghe non hanno un ruolo decorativo, ma  <strong>comportamentale</strong>: orientano i movimenti, regolano i flussi, modulano la luce naturale. Le grandi superfici vetrate e i tagli nella struttura filtrano la luce secondo la curvatura dei piani, generando condizioni atmosferiche mutevoli. Il sistema di circolazione a “anelli intrecciati” evita percorsi obbligati e rende possibile un’esperienza multi-direzionale dello spazio — il celebre “<strong>molo senza ritorno</strong>”.</p>
+<p>
+
+Il terminal di Yokohama rappresenta uno dei passaggi fondamentali dal paradigma dell’edificio come composizione di parti a quello dell’ <strong>architettura come campo continuo</strong>. La superficie topologica sostituisce l’idea di forma chiusa con quella di sistema aperto e trasformabile: un organismo in cui le variazioni locali non rompono la coerenza generale, ma la rendono percepibile. FOA mostra come un’unica struttura possa integrare <strong>funzioni complesse</strong>, <strong>logiche di movimento</strong>, <strong>qualità atmosferiche</strong> e <strong>dimensione civica</strong> senza frammentare lo spazio.</p>
+
+
+  </section>
+
+<br>
+  <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+</body>
+</html>

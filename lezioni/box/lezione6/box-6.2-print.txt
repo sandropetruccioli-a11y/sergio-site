@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 6.2</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione3">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 6.2</div>
+
+    <h1 class="scheda-title">
+      La sequenza: <br>lo spazio come esperienza temporale
+    </h1>
+  </div>
+
+  <div class="cover-image" style="--img-scale: 70%;">
+    <img src="print6/box_6.2_B_9.jpg" alt="[COVER_IMAGE_ALT]">
+  </div>
+
+  <div class="cover-intro">
+   Lo spazio architettonico si svela nel tempo. Non è un’immagine istantanea, ma un montaggio di passaggi, pause, deviazioni, soglie. La sequenza costruisce una narrazione spaziale che guida il corpo e la percezione. Più che comporre volumi, progettare significa costruire una partitura temporale, fatta di ritmo, cadenze e tensioni.
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+    Francesco Borromini, <i>San Carlo alle Quattro Fontane, Roma</i> (1638–1641)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_A_3.jpg" alt="">
+      <div class="image-index">A.1</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_A_9.jpg" alt="">
+      <div class="image-index">A.2</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_A_4.jpg" alt="">
+      <div class="image-index">A.3</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_A_5.jpg" alt="">
+      <div class="image-index">A.4</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_A_8.jpg" alt="">
+      <div class="image-index">A.5</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_A_2.jpg" alt="">
+      <div class="image-index">A.6</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_A_1.jpg" alt="">
+      <div class="image-index">A.7</div>
+    </div>
+ 
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_A_6.jpg" alt="">
+      <div class="image-index">A.7</div>
+    </div>
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Compressioni e dilatazioni successive: dall’angolo urbano alla lanterna, una partitura di soglie e curvature che trasformano il tempo in spazio.
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+ <p>
+A <i>San Carlo alle Quattro Fontane</i> la sequenza non è una semplice somma di ambienti, ma un dispositivo di trasformazioni progressive. L’angolo dell’incrocio, irrequieto e rumoroso, stringe il passante; la facciata concava lo attira e lo trattiene, come un’inspirazione. La soglia introduce a un interno in cui pareti ondulate, colonne e nicchie non definiscono un perimetro stabile, ma un flusso: il campo viene modulato da un’oscillazione continua che fa percepire la pianta ovale come un corpo vivo. La geometria, rigorosissima, lavora per variazioni: ellissi, croci, cerchi si sovrappongono generando molteplici centri di attenzione.</p>
+<p>
+Il tempo dell’attraversamento è scandito da una serie di micro-eventi: la luce che scivola sui rilievi, l’alternanza di pieni e cassettonati, la progressione delle altezze. L’energia della navata si concentra verso la cupola; la lanterna, luminosa e leggera, è il culmine di una scalata percettiva: dopo la spinta dal basso, l’apertura sospesa restituisce aria e misura. Borromini orchestra pause e accelerazioni come un compositore: ogni curva rallenta, ogni innesto spinge in avanti.</p>
+<p>
+La sequenza afferma una logica più ampia: lo spazio è un processo che guida il corpo e, insieme, lo riorienta. La vicinanza tra massa muraria e leggerezza della volta produce una dinamica intensa tra peso e sospensione. Non esiste un punto privilegiato; esiste un cammino che costruisce lo sguardo. In questo modo la chiesa diventa un’esperienza temporale esatta: un racconto in cui l’ordine geometrico è messo al servizio dell’emozione misurata dell’attraversamento.</p>
+
+
+   
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+    Louis I. Kahn, <i>Kimbell Art Museum, Fort Worth</i> (1966–1972)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+ 
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_B_10.jpg" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_B_2.jpg" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_B_3.jpg" alt="">
+      <div class="image-index">B.3</div>
+    </div>
+
+  
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_B_5.jpg" alt="">
+      <div class="image-index">B.4</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_B_6.jpg" alt="">
+      <div class="image-index">B.5</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_B_7.jpg" alt="">
+      <div class="image-index">B.6</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_B_8.jpg" alt="">
+      <div class="image-index">B.7</div>
+    </div>
+
+
+
+ 
+ 
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Dal vestibolo compresso alla serie ritmica delle gallerie voltate, il <i>Kimbell</i> costruisce un’esperienza temporale in cui luce, proporzioni e movimento definiscono una sequenza calibrata come un montaggio cinematografico. La percezione dell’architettura avviene nello scorrere, non in un singolo punto di vista.
+
+</div>
+    
+
+  <div class="icono-divider"></div>
+
+
+<section class="text-section">
+ <p>
+Il <i>Kimbell Art Museum</i> è uno dei più chiari esempi della modernità in cui l’architettura si manifesta come <i>sequenza</i>, non come forma statica. In Kahn lo spazio non si rivela immediatamente: procede per tappe, soglie, variazioni di luce, creando un’esperienza temporale in cui la conoscenza dell’edificio avviene camminando.</p>
+<p>
+L’ingresso introduce subito il tema della compressione: un portico basso, una soglia raccolta, una penombra che costringe lo sguardo verso il punto luminoso successivo. Superato l’accesso, la sequenza si apre nella grande volta, dove la luce zenitale — filtrata attraverso i famosi schermi riflettenti in alluminio — trasforma il soffitto in un campo luminoso, dinamico e mutevole. Ogni volta non è solo un modulo strutturale, ma una “camera di luce” che definisce un episodio dello spazio, un ritmo percettivo.</p>
+<p>
+Il percorso non è lineare: il visitatore è guidato da espansioni e contrazioni, da aperture diagonali, da scorci laterali che introducono pause e deviazioni. La sequenza, infatti, non è un semplice corridoio, ma una struttura narrativa: il museo si rivela per differenze, alternando ambienti introspettivi e spazi che si aprono verso il giardino.</p>
+<p>
+Ne emerge un’architettura che non si lascia comprendere in un’unica immagine. Come avviene nel montaggio cinematografico, il senso si costruisce nel tempo: nella continuità tra luce e materia, nella successione delle volte, nelle soglie che modulano l’intensità percettiva.</p>
+<p>
+Per questo il <i>Kimbell Art Museum</i> è un caso esemplare della presente scheda: dimostra che progettare sequenze significa progettare <i>esperienze</i>, non piante; <i>tempi</i>, non forme isolate.
+</p>
+
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+  <div class="caption-main">
+     Kazuyo Sejima, <i>House in a Plum Grove, Tokyo</i> (2003)
+    </div>
+  </div>
+
+ <div class="image-grid">
+
+ 
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_C_1.jpg" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_C_2.jpg" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_C_7.jpg" alt="">
+      <div class="image-index">C.3</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_C_3.jpg" alt="">
+      <div class="image-index">C.4</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_C_4.jpg" alt="">
+      <div class="image-index">C.5</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_C_6.jpg" alt="">
+      <div class="image-index">C.6</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print6/box_6.2_C_5.jpg" alt="">
+      <div class="image-index">C.7</div>
+    </div>
+
+
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+ La casa è costruita come una serie di micro-sequenze: piccoli scarti, cambi di luce, soglie sottili che sfumano il confine tra interno ed esterno. Le trasparenze leggere e le variazioni di densità creano un’esperienza temporale delicata e continua.
+</div>
+    
+ <div class="icono-divider"></div>
+
+  <section class="text-section">
+ <p>
+La <i>House in a Plum Grove</i> di Kazuyo Sejima rappresenta una delle interpretazioni più radicali e raffinate del tema della sequenza spaziale nella contemporaneità. Qui la sequenza non nasce da grandi gesti compositivi, ma da una serie di micro-eventi: variazioni di trasparenza, spessori minimi, soglie impercettibili, cambi di densità tra un ambiente e l’altro. Lo spazio diventa un fluire continuo, costruito più attraverso atmosfere che attraverso volumi.</p>
+<p>
+La casa è definita da pareti sottilissime — in vetro, in policarbonato, in pannelli leggeri — che modulano costantemente la percezione. Camminare nell’abitazione significa attraversare un campo di trasparenze che si addensano o si rarefanno, facendo sì che l’interno e il giardino si confondano. Le stanze non sono unità discrete, ma episodi di una sequenza: piccole differenze di luce, leggere variazioni di quota, spostamenti di pannelli che costruiscono un percorso non lineare e sempre mutevole.</p>
+<p>
+L’architettura di Sejima mostra che la sequenza può essere minima, quasi impercettibile, e tuttavia potentissima. Non c’è monumentalità, non c’è teatralità barocca: c’è una sensibilità rarefatta in cui lo spazio si conosce attraverso un continuo aggiustamento dello sguardo. L’esperienza temporale non deriva dalla profondità o dalla massa, ma dalla delicatezza con cui il corpo percepisce piccoli cambiamenti.</p>
+<p>
+Per questo la <i>House in a Plum Grove</i> è un caso di estremo interesse in questo contesto: dimostra che lo spazio non è fissato, ma si scopre camminando — e che anche poche pareti leggere possono costruire un’architettura intensamente sequenziale.
+</p>
+
+
+
+    
+ </section>
+
+
+</section>
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

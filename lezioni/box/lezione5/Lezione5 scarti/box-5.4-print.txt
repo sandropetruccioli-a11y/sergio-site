@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 5.4</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+
+<body class="lezione2">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 5.4 - L’assonometria come simulazione spaziale</h1>
+    <p class="box-intro">L’assonometria raccoglie in un unico campo ciò che la pianta e la sezione separano. Serve a simulare un sistema spaziale coerente, ancora aperto alla trasformazione. Costruisce un’immagine che non chiude, ma prefigura: restituisce la forma come comportamento, non come oggetto.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.4_A_3.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_A_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_A_6.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_A_9.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_A_7.jpg" style="display: none; height: 80%; width: auto;">
+   
+      
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Angelo Mangiarotti, <i>Strutture a elementi continui</i> (1959–1964), assonometria strutturale</div>
+      <div class="caption-sub">L’assonometria rivela il funzionamento del sistema a incastro gravitazionale di Mangiarotti: un campo strutturale continuo in cui ogni elemento si sostiene per forma e non per connessione meccanica. Il disegno non rappresenta l’oggetto, ma ne verifica la logica: mostra come la struttura funzioni come un organismo unitario, capace di estendersi e adattarsi senza perdere coerenza.
+    </figcaption>
+</section>
+
+<br>
+ 
+<section class="text-section">
+ <p>
+Le strutture a elementi continui di Angelo Mangiarotti rappresentano uno dei momenti più radicali della ricerca italiana sul rapporto tra forma e costruzione. In questo sistema — basato su elementi prefabbricati che si sorreggono per pura azione gravitazionale — la forma non nasce da un’intenzione compositiva, ma da un principio strutturale: gli elementi funzionano solo se la loro geometria è esatta, se il peso si distribuisce correttamente, se le connessioni si verificano nello spazio.</p>
+<p>
+Per questo l’assonometria è lo strumento decisivo. Non un modo per illustrare la struttura, ma il luogo in cui il sistema viene messo alla prova: la continuità del campo, la direzionalità dei carichi, la reciprocità degli incastri devono apparire evidenti, comprensibili, verificabili. L’assonometria mostra ciò che la pianta o la sezione non rivelano: la logica tridimensionale del sistema, la sua capacità di estendersi indefinitamente senza perdere coerenza, la natura “senza gerarchie” della griglia che nasce dalla sola relazionalità tra elementi.</p>
+<p>
+La forza del lavoro di Mangiarotti sta proprio in questa coincidenza totale tra rappresentazione e invenzione: il disegno è già costruzione, perché permette di capire se l’idea regge. La struttura esiste solo nella misura in cui l’assonometria dimostra la fattibilità geometrica del sistema. In questo senso Mangiarotti anticipa una visione dell’architettura come campo strutturale più che come forma compositiva — un sistema in cui l’ordine emerge dalla verifica, non dalla decisione autoriale.</p>
+
+
+  </section>
+<br>
+
+
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.4_B_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_B_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_B_6.jpg" style="display: none; height: 50%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_B_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_B_4.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_B_5.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_B_7.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_B_8.jpg" style="display: none; height: 80%; width: auto;"> 
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">RCR Arquitectes, <i>Bell-Lloc Winery</i> (2007)</div>
+      <div class="caption-sub">Assonometria della struttura scavata: le travi in acciaio corten, disposte come lame parallele nel terreno, costruiscono lo spazio attraverso un sistema di compressioni e aperture che rivelano il comportamento del suolo, della luce e del percorso.
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+
+Nel progetto per la <i>Bell-Lloc Winery</i>, RCR Arquitectes definisce l’architettura non come oggetto, ma come <strong>sistema di relazioni primarie tra suolo, struttura e luce</strong>. L’assonometria diventa il dispositivo ideale per verificare questo sistema: non rappresenta semplicemente le “forme”, ma permette di osservare come le lame di acciaio corten si comportino come un campo strutturale che attraversa il terreno, lo incide e lo sostiene.</p>
+<p>La cantina è concepita come una <strong>fenditura nel paesaggio</strong>: una sequenza di setti paralleli, regolari nella distanza ma irregolari nella loro deformazione, che produce un ambiente in cui la luce filtra da tagli calibrati e il percorso si inscrive come movimento compresso e liberato. L’assonometria rivela precisamente questo comportamento: come le travi si pieghino, si infittiscano o si diradino in risposta alla topografia, e come lo spazio emerga dalla relazione dinamica tra struttura e suolo.</p>
+<p>In questo senso <i>Bell-Lloc</i> è un caso esemplare: dimostra che la <strong>verifica assonometrica</strong> non serve a “mostrare” l’edificio, ma a rendere leggibile la logica che lo genera. La forma non è un volume chiuso, ma un campo di forze che prende coerenza solo quando viene osservato nella sua continuità tridimensionale. L’assonometria permette di cogliere questa continuità, mostrando come la cantina sia al tempo stesso architettura, infrastruttura e paesaggio.
+</p>
+
+
+  </section>
+
+<br>
+<p><strong>C.</strong></p>
+
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img5/box_5.4_C_1.jpg" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_C_2.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_C_3.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_C_6.jpg" style="display: none; height: 60%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_C_5.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_C_7.jpg" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img5/box_5.4_C_8.jpg" style="display: none; height: 80%; width: auto;">
+   
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Kazuo Shinohara, <i>House in White</i> (1966–1967)</div>
+      <div class="caption-sub">L’assonometria rivela l’ossatura essenziale della casa: una geometria rigorosa, quasi astratta, in cui pochi elementi portanti — travi, pilastri, solai — definiscono un campo spaziale unitario, silenzioso e radicalmente controllato.
+
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+Nella <i>House in White</i>, Kazuo Shinohara afferma con radicalità la propria idea che “la casa è un’opera d’arte” e lo fa attraverso un dispositivo di estrema precisione: l’assonometria strutturale.</p>
+<p>
+Qui l’assonometria non è un semplice modo per rappresentare la casa, ma un mezzo critico per verificare il carattere assoluto del sistema spaziale. La struttura diventa la matrice della forma: un telaio rigoroso e calibrato in cui ogni elemento è indispensabile e nulla è decorativo.</p>
+<p>
+Il disegno assonometrico mostra come la casa sia concepita come un organismo autonomo, quasi matematico: un volume puro, controllato nelle proporzioni, in cui il sistema delle travi e dei pilastri stabilisce una tensione continua tra astrazione e domesticità. È un “campo strutturale” nel senso più radicale: un insieme coerente che non si compone per aggiunta, ma emerge dalla logica interna della costruzione.</p>
+<p>
+L’assonometria permette di vedere ciò che la percezione spaziale rischia di nascondere:
+<ul>
+<li>la regola che governa il vuoto;</li>
+<li>il sistema di forze che struttura la casa;</li>
+<li>l’identità dell’edificio come organismo indivisibile.</li>
+</ul>
+In questo, la <i>House in White</i> è un esempio esemplare in quanto mostra come il progetto trovi consistenza attraverso la verifica tridimensionale del proprio ordine strutturale. L’assonometria non illustra: mette alla prova. E proprio nella severità di questo test emerge la forza concettuale di Shinohara: la forma non rappresenta il vivere, ma crea le condizioni per un’esperienza dello spazio radicale, essenziale e irripetibile.
+</p>
+
+
+  </section>
+
+
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+</body>
+</html>

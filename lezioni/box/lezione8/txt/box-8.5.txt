@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 8.5</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+
+<body class="lezione2">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 8.5 - La prospettiva come simulazione dell’esperienza</h1>
+    <p class="box-intro">La prospettiva mette alla prova il progetto dal punto di vista del corpo. Movimento, profondità, tensioni percettive, variazioni di luce: tutto ciò che era previsto deve manifestarsi come esperienza concreta. È il momento in cui il disegno giudica la realtà dell’architettura.</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img8/box_8.5_A_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_A_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_A_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_A_6.png" style="display: none; height: 80%; width: auto;">
+
+
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Giovanni Battista Piranesi, <i>Carceri d’Invenzione</i> (1745–1761)</div>
+      <div class="caption-sub">La prospettiva come costruzione di vertigine: scale, ponti sospesi e rampe divergenti generano un movimento impossibile che verifica la percezione di profondità, disorientamento e tensione spaziale.
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+Le <i>Carceri d’Invenzione</i> di Giovanni Battista Piranesi non sono vedute architettoniche, ma veri e propri esperimenti percettivi. In queste incisioni la prospettiva non serve a ordinare lo spazio, bensì a metterlo in crisi, trasformandolo in un campo instabile di forze visive, tensioni e movimenti contraddittori.</p>
+<p>
+Piranesi spinge il dispositivo prospettico oltre la sua funzione classica di chiarificazione. Lo spazio non si lascia mai comprendere in un unico colpo d’occhio: rampe che si incrociano senza logica apparente, scale che conducono a livelli inconciliabili, ponti sospesi che non stabiliscono un percorso univoco. Il movimento è suggerito dalla moltiplicazione dei cammini possibili, ma nessuno di essi conduce a una destinazione riconoscibile. La profondità non coincide con una distanza misurabile: diventa una forza che trascina l’occhio, lo disorienta, lo costringe a continui aggiustamenti percettivi.</p>
+<p>
+La luce svolge un ruolo decisivo in questo processo. Fasci luminosi improvvisi illuminano porzioni limitate dello spazio, mentre vaste aree restano immerse nell’ombra. Il chiaroscuro non chiarisce la struttura dell’ambiente, ma ne amplifica l’ambiguità, suggerendo che ciò che è visibile è solo una parte di un organismo spaziale molto più esteso e inaccessibile. La prospettiva non costruisce un interno stabile, ma un ambiente che sembra espandersi indefinitamente oltre i limiti del foglio.</p>
+<p>
+Per la scheda 8.5, le <i>Carceri</i> mostrano con estrema chiarezza che la prospettiva non è semplicemente uno strumento di rappresentazione, ma un mezzo di verifica dell’esperienza spaziale. Piranesi utilizza la prospettiva per testare cosa accade quando la logica dello spazio perde stabilità e diventa esperienza di movimento, tensione e profondità estrema. La prospettiva non spiega lo spazio: lo sottopone a una prova percettiva radicale.</p>
+
+
+
+  </section>
+
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img8/box_8.5_B_2.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_B_1.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_B_3.png" style="display: none; height: 80%; width: auto;">
+ 
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Karl Friedrich Schinkel, <i>Altes Museum, Berlino</i> (1823–1830)</div>
+      <div class="caption-sub">La prospettiva come verifica dell’ordine: luce, assialità e proporzioni costruiscono un percorso calibrato che rende leggibili gerarchie, simmetrie e profondità.
+      </div>
+    </figcaption>
+</section>
+
+<br>
+  <section class="text-section">
+ <p>
+Nelle prospettive interne dell’<i>Altes Museum</i>, Karl Friedrich Schinkel utilizza la prospettiva come strumento di controllo e verifica dell’esperienza spaziale. A differenza della tradizione vedutistica o celebrativa, queste immagini non mirano a esaltare l’edificio, ma a testare la qualità percettiva dell’ordine classico che il progetto intende costruire.</p>
+<p>
+La prospettiva consente di verificare la sequenza spaziale dall’ingresso alla rotonda centrale, mettendo in relazione assialità, simmetria e proporzione. Il percorso non è pensato come un semplice passaggio funzionale, ma come un’esperienza graduata: ogni avanzamento nello spazio produce una variazione controllata dei rapporti tra colonne, aperture, masse e luce. La profondità non è spettacolare né vertiginosa, ma misurata e leggibile, costruita attraverso la ripetizione ritmica degli elementi e la continuità degli assi visivi.</p>
+<p>
+Un ruolo decisivo è svolto dalla luce naturale, in particolare quella zenitale della rotonda. La prospettiva permette di verificarne l’effetto non solo illuminotecnico, ma spaziale e simbolico: la luce non frammenta lo spazio, ma lo unifica, rafforzando la centralità e la chiarezza dell’impianto. L’illuminazione diventa parte integrante della costruzione percettiva dell’ordine, rendendo lo spazio comprensibile nel suo insieme e nei suoi dettagli.</p>
+<p>
+In queste immagini la prospettiva non è un artificio scenografico, ma un dispositivo di controllo: serve a garantire che il sistema di relazioni — assi, campi visivi, proporzioni, direzioni — funzioni realmente nello spazio attraversato dal corpo. La rappresentazione anticipa e verifica l’esperienza del visitatore, assicurando che l’architettura mantenga coerenza tra forma, uso e percezione.</p>
+<p>
+Per la scheda 8.5, Schinkel dimostra che la prospettiva può essere uno strumento rigoroso di verifica dell’esperienza: non mette in crisi lo spazio, come in Piranesi, ma ne controlla l’intelligibilità, trasformando l’ordine architettonico in esperienza percettiva stabile e condivisibile.</p>
+
+
+
+
+  </section>
+
+<br>
+<p><strong>C.</strong></p>
+
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 350px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img8/box_8.5_C_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_C_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_C_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_C_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_C_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_C_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_C_9.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img8/box_8.5_C_10.png" style="display: none; height: 80%; width: auto;">
+
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+      <figcaption>
+        <div class="caption-main">Grafton Architects, <i>UTEC, Universidad de Ingeniería y Tecnología, Lima</i> (2015)</div>
+        <div class="caption-sub">La prospettiva come verifica del campo verticale: livelli sfalsati, terrazze, ombre profonde e pareti massicce misurano il comportamento della luce e della gravità nello spazio attraversato.
+</div>
+<br>
+      </figcaption>
+    </figure>
+  </section>
+<br>
+ 
+<section class="text-section">
+ <p>
+Le prospettive dei livelli-terrazza dell’UTEC di Lima non mostrano un edificio nel senso tradizionale, ma un paesaggio verticale costruito, concepito come una scogliera abitata. Grafton Architects utilizzano la prospettiva per verificare il comportamento del campo spaziale: non l’immagine della forma, ma il modo in cui luce, gravità, massa e movimento agiscono nello spazio reale.</p>
+<p>
+L’edificio nasce come risposta diretta alla topografia della costa peruviana. La sezione non è un semplice dispositivo distributivo, ma il principio generativo dell’intero progetto. Le prospettive permettono di simulare l’esperienza della salita, dell’attraversamento e della sosta lungo una sequenza di terrazze, rampe e piattaforme che costruiscono una continuità tra suolo, edificio e orizzonte marino. La profondità non è frontale né centrata: è laterale, obliqua, atmosferica.</p>
+<p>
+La luce gioca un ruolo decisivo in questa verifica. Non illumina in modo uniforme, ma scava lo spazio attraverso ombre profonde, contrasti netti e variazioni di intensità. Le grandi pareti in cemento non sono fondali neutri, ma masse che assorbono, riflettono e modulano la luce, rendendo percepibile il peso dello spazio e la sua scala. La prospettiva rende leggibile questa relazione dinamica tra pieno e vuoto, tra compressione e apertura.</p>
+<p>
+Il movimento del corpo è il vero generatore dell’esperienza spaziale. Le rampe e i percorsi esterni non conducono semplicemente da un livello all’altro, ma costruiscono una sequenza di situazioni percettive: viste incorniciate, spazi di soglia, improvvise aperture verso il paesaggio urbano e naturale. Lo spazio si chiarisce solo nel tempo dell’attraversamento.</p>
+<p>
+Per la scheda 8.5, l’UTEC dimostra che la prospettiva è uno strumento di verifica del comportamento della forma. Non rappresenta un oggetto compiuto, ma rende visibile come un sistema spaziale reagisce alla luce, alla gravità e al movimento, trasformando l’architettura in esperienza fisica e percettiva.</p>
+
+
+
+  </section>
+
+
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+</body>
+</html>

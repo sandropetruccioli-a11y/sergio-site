@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Box – Titolo]</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<div class="box-container">
+  <header class="box-header">
+    <h1>[TITOLO BOX]</h1>
+    <p class="box-intro">[DESCRIZIONE]</p>
+  </header>
+
+  <section class="image-section">
+    <figure>
+      <img src="../../img/lezione1/box-1.1/esempio1.png" alt="Descrizione" class="zoomable" style="width: 40%; height: auto;">
+      <figcaption>
+        <div class="caption-main">
+        [DIDA]
+        </div>
+        <div class="caption-sub">
+          [SOTTO-DIDA]
+        </div>
+      </figcaption>
+    </figure>
+  </section>
+
+  <section class="text-section">
+    [TESTO]
+  </section>
+
+  <section class="image-section gallery">
+    <div class="carousel-container">
+      <button class="carousel-button prev" onclick="moveSlide(-1)">&#10094;</button>
+      <img class="carousel-image zoomable" src="../../img/lezione#/box-1.1/esempio2a.png" alt="Vista 1" style="width: 40%; height: auto; display: none;">
+      <img class="carousel-image zoomable" src="../../img/lezione#/box-1.1/esempio2b.png" alt="Vista 2" style="width: 40%; height: auto; display: none;">
+      <img class="carousel-image zoomable" src="../../img/lezione#/box-1.1/esempio2b.png" alt="Vista 3" style="width: 40%; height: auto; display: none;">
+      <img class="carousel-image zoomable" src="../../img/lezione#/box-1.1/esempio2b.png" alt="Vista 4" style="width: 40%; height: auto; display: none;">
+      <img class="carousel-image zoomable" src="../../img/lezione#/box-1.1/esempio2b.png" alt="Vista 5" style="width: 40%; height: auto; display: none;">
+      <img class="carousel-image zoomable" src="../../img/lezione#/box-1.1/esempio2b.png" alt="Vista 6" style="width: 40%; height: auto; display: none;">
+<button class="carousel-button next" onclick="moveSlide(1)">&#10095;</button>
+    </div>
+    <figcaption>
+      <div class="caption-main">
+      [DIDA]
+      </div>
+      <div class="caption-sub">
+      [SOTTO-DIDA]
+      </div>
+    </figcaption>
+  </section>
+
+  <section class="image-section">
+    <figure>
+      <img src="../../img/lezione1/box-1.1/esempio3.png" alt="Descrizione" class="zoomable" style="width: 50%; height: auto;">
+      <figcaption>
+        <div class="caption-main">
+        [DIDA]
+        /div>
+        <div class="caption-sub">
+        [SOTTO-DIDA]
+        </div>
+      </figcaption>
+    </figure>
+  </section>
+
+  <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+
+
+
+
+
+
+<!-- SCRIPT -->
+<script>
+  let currentSlide = 0;
+  const slides = document.querySelectorAll('.carousel-image');
+
+  function showSlide(index) {
+    slides.forEach((img, i) => {
+      img.style.display = i === index ? 'block' : 'none';
+    });
+  }
+
+  function moveSlide(step) {
+    currentSlide = (currentSlide + step + slides.length) % slides.length;
+    showSlide(currentSlide);
+  }
+
+  showSlide(currentSlide);
+
+  // Lightbox Zoom Effect
+  document.querySelectorAll('.zoomable').forEach(img => {
+    img.addEventListener('click', () => {
+      const lightbox = document.createElement('div');
+      lightbox.id = 'lightbox';
+      lightbox.innerHTML = `
+        <span class="close" onclick="this.parentElement.remove()">&times;</span>
+        <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+      `;
+      Object.assign(lightbox.style, {
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        width: '100vw',
+        height: '100vh',
+        background: 'rgba(0,0,0,0.9)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        zIndex: 1000
+      });
+      document.body.appendChild(lightbox);
+    });
+  });
+</script>
+</body>
+</html>

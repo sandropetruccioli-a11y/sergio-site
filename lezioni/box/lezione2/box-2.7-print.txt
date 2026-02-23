@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 2.7</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione2">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 2.7</div>
+
+    <h1 class="scheda-title">
+      La forma come campo di tensioni: <br>forze, direzioni, polarità
+    </h1>
+  </div>
+
+  <div class="cover-image" style="--img-scale: 70%;">
+    <img src="print2/box_2.7_B_0.jpg" alt="[COVER_IMAGE_ALT]">
+  </div>
+
+  <div class="cover-intro">
+    <p>
+     La forma nasce da tensioni, non da contorni. Spinte, polarità, equilibri instabili disegnano un campo in cui il progetto comincia a prendere corpo. La composizione non inizia da un perimetro, ma da un sistema di forze. Le immagini esplorano questa fase prefigurativa, dove l’energia spaziale è più rilevante della geometria.
+    </p>
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+      Kazimir Malevich, <i>Suprematist Composition - White on White</i> (1918), MoMA, New York
+    </div>
+  </div>
+
+    <div class="image-grid">
+
+    <div class="image-box">
+      <img src="print2/box_2.7_A_1.jpg" alt="">
+      <div class="image-index"> A.1</div>
+    </div>
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+ Quest’opera non è un quadro: è un campo di direzioni e tensioni.
+<ul>
+<li>il quadrato inclinato</li>
+<li>la polarità vuoto/pieno</li>
+<li>la tensione tra superfici quasi invisibili</li>
+<li>l’assenza di centro</li>
+</ul>
+È un’immagine che mostra come una forma possa essere completamente determinata da tensioni, non da contorni.
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>
+<i>Bianco su bianco</i> è un dipinto radicale e influente in cui Kazimir Malevich ha spinto i confini dell’astrazione a un livello senza precedenti. Raffigura un quadrato bianco che fluttua senza peso in un campo di un bianco leggermente più caldo.</p>
+<p>
+<strong>Caratteristiche e interpretazioni principali:</strong>
+<ul>
+<li><strong>Suprematismo:</strong> L’opera è un esempio centrale della teoria estetica di Malevich, da lui definita Suprematismo, che significa “la supremazia del sentimento o della percezione pura nelle arti pittoriche” rispetto alla rappresentazione oggettiva.</li>
+<li><strong>Minimalismo e texture:</strong> Riducendo al minimo gli elementi pittorici, Malevich ha messo in risalto gli aspetti materiali della pittura. La mano dell’artista è visibile nella delicata pennellata e nella ricca texture della pittura, e i due bianchi sono leggermente diversi per tonalità e tono.</li>
+<li><strong>Simbolismo: </strong>Per Malevich, il bianco era il colore dell’infinito e rappresentava un mondo utopico di forma pura e un regno di sentimenti superiori. La posizione leggermente decentrata e inclinata del quadrato interno crea un’illusione di movimento e spazio infinito, piuttosto che confini fissi.</li>
+<li><strong>Contesto:</strong> Realizzato un anno dopo la Rivoluzione russa, il senso di liberazione del dipinto aveva connotazioni sia estetiche che sociopolitiche, incarnando una rottura radicale con le forme d’arte tradizionali e una visione di una nuova società.</li>
+</ul>
+
+    </p>
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+     Daniel Libeskind, <i>Micromegas</i> (1979), tavola grafica
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print2/box_2.7_B_2.jpg" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print2/box_2.7_B_3.jpg" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print2/box_2.7_B_4.jpg" alt="">
+      <div class="image-index">B.3</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print2/box_2.7_B_5.jpg" alt="">
+      <div class="image-index">B.4</div>
+    </div>
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+   Le tavole di <i>Micromegas</i> sono esercizi di:
+<ul>
+<li>vettori spaziali,</li>
+<li>instabilità controllata,</li>
+<li>tensioni che attraversano la pagina,
+<li>direzioni che si sovrappongono.</li>
+</ul>
+Non rappresentano edifici, ma campi di forze. Sono l’esempio più didattico che si possa dare della forma prima della forma.
+
+</div>
+    
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+
+<p>
+I disegni <i>Micromegas</i> realizzati da Daniel Libeskind nel 1979 sono una serie di studi architettonici che esplorano il potenziale fittizio e teorico dello spazio architettonico, andando oltre la rappresentazione tradizionale. Il progetto, che prende il nome da un racconto breve di Voltaire, è composto da undici disegni a matita originali, successivamente utilizzati come studi per una serie di dodici stampe. I disegni presentano geometrie disorientanti in proiezione parallela. Includono una stampa intitolata <i>Time Sections</i> che mostra elementi architettonici frammentati. Pur apparendo meccanici, gli originali sono stati disegnati a mano e creati per uno studio teorico, senza un programma specifico. Queste opere fanno parte della collezione del MoMA. Realizzati mentre Libeskind insegnava a Cranbrook, i disegni evidenziano un interesse per la geometria e l’uso del disegno tecnico per visualizzare idee spaziali. Suggeriscono uno scenario post-apocalittico simile al romanzo <i>A Canticle for Leibowitz</i>. I disegni <i>Micromegas</i> sono significativi nell’architettura decostruttivista e sono stati esposti nella mostra <i>Drawing Ambience</i>.
+
+
+
+</p>
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+  <div class="caption-main">
+      Zaha Hadid, <i>The Peak</i> (1983), assonometria concettuale
+    </div>
+  </div>
+
+ <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print2/box_2.7_C_1.jpg" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print2/box_2.7_C_2.jpg" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print2/box_2.7_C_4.jpg" alt="">
+      <div class="image-index">C.3</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print2/box_2.7_C_3.jpg" alt="">
+      <div class="image-index">C.4</div>
+    </div>
+
+ 
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+    Nel progetto <i>The Peak</i>:
+<ul>
+<li>l’architettura si comporta come un campo dinamico,</li>
+<li>masse leggere avanzano come forze vettoriali,</li>
+<li>i piani scorrono,</li>
+<li>l’orizzonte viene tagliato.</li>
+</ul>
+È un esempio iconico di forma come tensione, non come oggetto.
+
+</div>
+    
+
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+ <br>
+  <section class="text-section">
+<p>Il progetto di Zaha Hadid del 1983, <i>The Peak Leisure Club</i>, ha prodotto diversi disegni distintivi, tra cui una vista isometrica che funziona in modo simile a un disegno assonometrico. Questi disegni sono noti per il loro stile radicale e frammentato, influenzato dal suprematismo russo, e sono considerati fondamentali per la sua carriera.</p>
+<p>
+<strong>Aspetti chiave del disegno e del progetto:</strong>
+<ul>
+<li><strong>Stile e influenza:</strong> i disegni applicano i principi del Suprematismo, utilizzando un approccio cubista per rappresentare una “geologia artificiale” astratta per l’edificio. Sono caratterizzati da angoli acuti, travi a sbalzo e forme fluttuanti che sfidano la gravità.</li>
+<li><strong>Rappresentazione:</strong> Hadid ha utilizzato la pittura come strumento di progettazione principale, con i disegni che fungono da “manifesti” della sua nuova visione architettonica piuttosto che da tradizionali progetti tecnici. Il “Overall Isometric, Day View” è un esempio particolarmente significativo della collezione.</li>
+<li><strong>Concept del progetto:</strong> il progetto proponeva un lussuoso complesso ricreativo e residenziale sulle colline di Hong Kong, che prevedeva lo scavo del sito per creare scogliere artificiali e l’inserimento di strati orizzontali e vuoti per le varie attività del club.</li>
+<li><strong>Significato:</strong> sebbene non sia mai stato realizzato, il progetto ha vinto un concorso internazionale e ha portato Hadid a ottenere un ampio riconoscimento. I disegni furono esposti nell’influente mostra “Deconstructivist Architecture” del 1988 al MoMA di New York.</li>
+</lu>
+</p>
+
+
+
+</section>
+
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

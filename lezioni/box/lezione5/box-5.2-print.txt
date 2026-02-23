@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 5.2</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione2">
+
+<div class="box-container">
+
+<!-- ================= COPERTINA ================= -->
+
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 5.2</div>
+
+    <h1 class="scheda-title">
+      La pianta come primo banco di prova
+    </h1>
+  </div>
+
+  <div class="cover-image" style="--img-scale: 60%;">
+    <img src="print5/box_5.2_A_8.jpg" alt="[COVER_IMAGE_ALT]">
+  </div>
+
+  <div class="cover-intro">
+    <p>
+ La pianta è il primo dispositivo critico della composizione. Non registra una disposizione, ma verifica relazioni: proporzioni, simmetrie, gerarchie, vuoti dominanti. Funziona come strumento logico e spaziale insieme: se la pianta regge, il progetto può cominciare a esistere come sistema.
+    </p>
+  </div>
+
+</section>
+
+<!-- ================= PROPOSTA A ================= -->
+
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+
+    <div class="caption-main">
+    Andrea Palladio, <i>Villa Rotonda, Vicenza</i> (1566–1570)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_A_3.jpg" alt="">
+      <div class="image-index">A.1</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_A_4.jpg" alt="">
+      <div class="image-index">A.2</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_A_6.jpg" alt="">
+      <div class="image-index">A.3</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_A_7.jpg" alt="">
+      <div class="image-index">A.4</div>
+    </div>
+
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_A_9.jpg" alt="">
+      <div class="image-index">A.5</div>
+    </div>
+
+
+ 
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Pianta centrale e studi proporzionali: il progetto come sistema di rapporti.<br>Nella Villa Rotonda la pianta non descrive l’edificio, ma ne costruisce l’identità: quadrato, cerchio, assi e proporzioni definiscono un campo di equilibrio in cui ogni parte pesa sulle altre. La forma nasce dalla verifica grafica dei rapporti, non da un’immagine ideale.
+
+  </div>
+
+  <div class="icono-divider"></div>
+
+  <section class="text-section">
+<p>
+La <i>Villa Rotonda</i> è uno dei casi più esemplari, nella storia dell’architettura occidentale, di come la pianta sia il luogo in cui l’edificio prende forma in senso critico, prima ancora che volumetrico o figurativo. Palladio non usa la pianta come semplice rappresentazione dell’oggetto, ma come <strong>strumento matematico</strong>, come campo in cui verificare rapporti, simmetrie, pesi e proporzioni che devono garantire la stabilità concettuale dell’opera.</p>
+<p>
+La pianta della <i>Villa Rotonda</i> nasce dall’intersezione tra due sistemi:
+<ul>
+<li>un <strong>ordine geometrico</strong> basato su quadrato, cerchio e assi ortogonali che definiscono la logica del centro;</li>
+<li>una <strong>distribuzione gerarchica delle parti</strong>, misurata in termini di equilibrio, distanza e proporzione tra i volumi serviti e quelli serventi.</li>
+</ul>
+Tutto è verificabile, misurabile, costruito attraverso relazioni: l’ingresso non è un semplice portico, ma un “peso” che deve equivalere a quello degli altri tre; il salone centrale non è un vuoto scenografico, ma il fulcro che garantisce la coerenza dell’intero sistema. Le proporzioni dei bracci, delle camere, delle logge e del vano cupolato derivano da un processo continuo di <strong>aggiustamento grafico</strong>, in cui la pianta serve a controllare che il centro non prevalga sulle periferie, e che la rotazione simmetrica produca equilibrio e non rigidità.</p>
+<p>
+Per questo la pianta della Rotonda è didatticamente preziosa: mostra come la forma non possa essere immaginata senza essere prima verificata. Il prestigio volumetrico dell’edificio — i quattro portici, la cupola, la perfetta centralità — è in realtà l’esito di un lavoro invisibile, fatto di prove proporzionali, pesi, moduli e allineamenti che emergono solo nella pianta.</p>
+<p>
+Palladio ci mostra che la coerenza architettonica è un fatto di rapporti, non di immagine: la pianta non “illustra” la Rotonda, la costruisce.</p>
+   
+
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA B ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+
+    <div class="caption-main">
+    Le Corbusier, <i>Villa Stein, Garches</i> (1926–1928)
+    </div>
+  </div>
+
+  <div class="image-grid">
+
+ 
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_B_1.jpg" alt="">
+      <div class="image-index">B.1</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 90%;">
+      <img src="print5/box_5.2_B_6.jpg" alt="">
+      <div class="image-index">B.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_B_7.jpg" alt="">
+      <div class="image-index">B.3</div>
+    </div>
+
+  
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_B_8.jpg" alt="">
+      <div class="image-index">B.4</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_B_2.jpg" alt="">
+      <div class="image-index">B.5</div>
+    </div>
+
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_B_9.jpg" alt="">
+      <div class="image-index">B.6</div>
+    </div>
+
+   <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_B_5.jpg" alt="">
+      <div class="image-index">B.7</div>
+    </div>
+
+
+
+ 
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+Piante e studi proporzionali: il campo moderno come sistema regolato di rapporti.<br> Nella <i>Villa Stein</i> la pianta verifica la coerenza del campo: proporzioni, spessori, assi e percorsi sono calibrati per tenere insieme un organismo estremamente allungato. La modernità nasce qui come equilibrio misurato, non come libertà formale. 
+
+</div>
+    
+
+  <div class="icono-divider"></div>
+
+
+<section class="text-section">
+<p><strong>La pianta come campo regolato</strong></p>
+<p>
+Nella <i>Villa Stein</i> la pianta diventa il vero luogo di costruzione dell’architettura: non uno schema distributivo, ma un dispositivo critico che permette di verificare l’equilibrio di un organismo estremamente allungato. Le Corbusier utilizza la pianta per misurare rapporti, pesi, proporzioni e allineamenti, assicurandosi che il campo moderno — apparentemente libero — mantenga una coerenza interna rigorosa.</p>
+<p>
+La pianta rivela un sistema proporzionale preciso, basato su rapporti numerici e geometrici che anticipano il Modulor: sequenze, allineamenti, variazioni calibrate di profondità. La struttura non è un dato tecnico aggiunto, ma un elemento che la pianta deve continuamente testare: i setti portanti, le fasce strutturali e i pieni laterali bilanciano il corpo edilizio per evitare che la lunghezza lo renda instabile sul piano spaziale.</p>
+<p>
+Allo stesso tempo, la pianta organizza il percorso come parte integrante della logica del campo: la rampa centrale, le soglie e le aperture non sono elementi funzionali, ma fattori di equilibrio che distribuiscono pesi e gerarchie. È nella pianta che si vede come il movimento concorra alla tenuta dell’intero sistema.</p>
+<p>
+<i>Villa Stein</i> mostra in modo esemplare che la modernità non nasce da una libertà formale, ma dalla <strong>verifica dei rapporti interni</strong>: proporzioni, spessori, assi e movimenti devono reggere insieme, altrimenti la forma non funziona. La pianta, qui, non rappresenta l’edificio: lo mette alla prova.</p>
+
+  </section>
+
+</section>
+
+<!-- ================= PROPOSTA C ================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+
+  <div class="caption-main">
+     Sigurd Lewerentz, <i>Cappella della Resurrezione, Stoccolma</i> (1921–1925)
+    </div>
+  </div>
+
+ <div class="image-grid">
+
+ 
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_C_1.jpg" alt="">
+      <div class="image-index">C.1</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_C_2.jpg" alt="">
+      <div class="image-index">C.2</div>
+    </div>
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_C_3.jpg" alt="">
+      <div class="image-index">C.3</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_C_4.jpg" alt="">
+      <div class="image-index">C.4</div>
+    </div>
+
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_C_5.jpg" alt="">
+      <div class="image-index">C.5</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_C_6.jpg" alt="">
+      <div class="image-index">C.6</div>
+    </div>
+
+
+     <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_C_7.jpg" alt="">
+      <div class="image-index">C.7</div>
+    </div>
+
+    <div class="image-box" style="--img-scale: 100%;">
+      <img src="print5/box_5.2_C_8.jpg" alt="">
+      <div class="image-index">C.8</div>
+    </div>
+
+
+    <!-- DUPLICARE image-box SE NECESSARIO -->
+
+  </div>
+
+  <div class="caption-sub">
+  I disegni di Lewerentz — piante, sezioni e studi grafici — mostrano come la coerenza spaziale della cappella emerga da continue verifiche proporzionali: la pianta non descrive l’edificio, ma ne misura il campo, definendo un’architettura di rigore e silenzio.
+
+</div>
+    
+ <div class="icono-divider"></div>
+
+  <section class="text-section">
+  <p><strong>La pianta come misura del silenzio e dell’equilibrio</strong></p>
+<p>
+Nella <i>Cappella della Resurrezione</i> la pianta non è uno schema distributivo, ma un dispositivo di verifica attraverso cui Lewerentz costruisce l’equilibrio interno dell’architettura. Sebbene il corpus grafico conservato mostri soprattutto studi di dettagli, la <strong>pianta unica</strong> è già sufficiente per capire come l’autore misuri con precisione pesi, rapporti e proporzioni che definiscono il carattere dell’edificio.</p>
+<p>
+Lewerentz non cerca simmetrie apparenti né composizioni scenografiche: ciò che interessa è la <strong>tensione controllata</strong> tra navata, percorsi, cappelle laterali e abside. Ogni spessore murario, ogni scarto di allineamento, ogni variazione nella profondità degli ingressi partecipa alla costruzione di un campo spaziale intensamente calibrato. La pianta diventa così il luogo in cui l’architetto verifica che l’architettura regga non per effetto formale, ma per equilibrio interno.</p>
+<p>
+Questo lavoro di misura si ritrova anche negli altri disegni — sezioni, prospetti, dettagli — dove il silenzio materico della cappella è messo alla prova attraverso micro‐aggiustamenti, variazioni della luce, definizione delle soglie. Lewerentz progetta come se ogni relazione dovesse essere verificata una per una: non un linguaggio, ma un edificio che “trova” la sua forma attraverso la precisione del disegno.</p>
+<p>
+Per questo la <i>Cappella della Resurrezione</i> è esemplare nella Lezione 5: mostra che l’architettura non nasce da un’immagine complessiva, ma da una pianta che mette alla prova l’idea, pesandone le proporzioni e individuando la distanza esatta tra le parti. La pianta di Lewerentz non rappresenta l’edificio: lo rende possibile.</p>
+
+
+    
+ </section>
+
+
+</section>
+
+
+
+<div class="box-footer">
+  <a href="#" onclick="window.close()">← Torna alla lezione</a>
+</div>
+
+</div>
+</body>
+</html>

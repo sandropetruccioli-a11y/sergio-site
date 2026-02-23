@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 8.4</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+  <link rel="stylesheet" href="../../css/print.css" media="print">
+</head>
+
+<body class="lezione8">
+<div class="box-container">
+
+  <!-- =========================
+       COVER SCHEDA
+       ========================= -->
+<section class="scheda-cover">
+
+  <div class="cover-header">
+    <div class="scheda-id">Scheda 8.4</div>
+    <h1 class="scheda-title">
+      L’assonometria come test della coerenza tridimensionale
+    </h1>
+  </div>
+
+  <div class="cover-image">
+    <img src="print8/box_8.4_C_1.jpg" alt="">
+  </div>
+
+  <div class="cover-intro">
+    <p>
+      L’assonometria unisce ciò che pianta e sezione separano. Verifica la tenuta del campo
+      spaziale come organismo coerente. Gerarchie, flussi, connessioni, masse: tutto si
+      mostra simultaneamente. È uno strumento sistemico, non figurativo. Serve a testare
+      l’intero impianto formale, non a rappresentarlo.
+    </p>
+  </div>
+
+</section>
+
+  <!-- =========================
+     PROPOSTA A
+     ========================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">A.</span>
+    <div class="caption-main">
+      Atelier Bow-Wow, <i>House & Atelier Bow-Wow, Tokyo</i> (1992–2005)
+    </div>
+  </div>
+
+  <div class="image-grid">
+    <div class="image-box">
+      <img src="print8/box_8.4_A_1.jpg">
+      <div class="image-index">A.1</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_A_2.jpg">
+      <div class="image-index">A.2</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_A_4.jpg">
+      <div class="image-index">A.3</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_A_5.jpg">
+      <div class="image-index">A.4</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_A_6.jpg">
+      <div class="image-index">A.5</div>
+    </div>
+  </div>
+
+  <div class="caption-sub">
+    L’assonometria come dissezione del sistema spaziale: la compenetrazione di volumi,
+    livelli, scale e nicchie rivela un organismo tridimensionale in cui lavoro e abitare
+    si stratificano come un’unica macchina spaziale continua. Il disegno non rappresenta
+    la casa: ne mette a nudo la logica, le connessioni e la densità.
+  </div>
+
+<div class="icono-divider"></div>
+
+  <section class="text-section">
+     <p>
+La <i>House & Atelier Bow-Wow</i> costituisce uno dei casi più efficaci per comprendere l’assonometria come strumento critico di verifica della coerenza tridimensionale del progetto.</p>
+<p>
+Inserito in un micro-lotto di Tokyo, l’edificio nasce da una condizione estrema che obbliga gli architetti a concepire lo spazio non come sequenza di ambienti distinti, ma come un organismo tridimensionale continuo, in cui funzioni domestiche e professionali si intrecciano in un unico campo spaziale.</p>
+<p>
+L’assonometria utilizzata da Bow-Wow non ha carattere figurativo o illustrativo: funziona come una vera e propria radiografia del sistema.
+Il disegno rende simultaneamente leggibili:
+<ul>
+<li>la sovrapposizione dei livelli senza una gerarchia compositiva rigida;</li>
+<li>le connessioni verticali intese come dispositivi di orientamento spaziale, più che come semplici elementi distributivi;</li>
+<li>la densità volumetrica prodotta da nicchie, cavità, ripiani e piattaforme;</li>
+<li>l’interdipendenza tra spazi di servizio e spazi serviti;</li>
+<li>la permeabilità tra ambiti privati e professionali come parte di un unico campo percettivo.
+</ul>
+In questa rappresentazione, ciò che emerge non è la forma dell’edificio, ma il comportamento dello spazio: il modo in cui si attraversa, si comprime e si espande; il ruolo della luce lungo superfici oblique; la costruzione della gerarchia dei pieni e dei vuoti attraverso i percorsi.</p>
+<p>
+La <i>House & Atelier Bow-Wow</i> diventa così un caso paradigmatico per la Lezione 8, in cui l’assonometria si configura come test della logica tridimensionale del progetto. Il disegno rende visibile la struttura nascosta dell’architettura, la sintassi delle relazioni e l’intelligenza spaziale che consente di tenere insieme un campo complesso all’interno di uno spazio estremamente ridotto.</p>
+<p>
+L’assonometria non rappresenta l’edificio: lo smonta e lo ricompone come sistema coerente di relazioni.</p>
+  </section>
+
+</section>
+
+
+
+  <!-- =========================
+     PROPOSTA B
+     ========================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">B.</span>
+    <div class="caption-main">
+      Atelier Bow-Wow, <i>House & Atelier Bow-Wow, Tokyo</i> (1992–2005)
+    </div>
+  </div>
+
+  <div class="image-grid">
+    <div class="image-box">
+      <img src="print8/box_8.4_B_1.jpg">
+      <div class="image-index">B.1</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_B_2.jpg">
+      <div class="image-index">B.2</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_B_4.jpg">
+      <div class="image-index">B.3</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_B_3.jpg">
+      <div class="image-index">B.4</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_B_5.jpg">
+      <div class="image-index">B.5</div>
+    </div>
+  </div>
+
+  <div class="caption-sub">
+    Una megastruttura osservata come campo di relazioni: moduli, flussi e componenti intercambiabili visualizzano un sistema in continuo divenire, in cui la forma non è data ma si rigenera attraverso variabili operative.
+  </div>
+
+<div class="icono-divider"></div>
+
+  <section class="text-section">
+
+     <p>La <i>Plug-In City</i> di Archigram non è un progetto edilizio in senso convenzionale, ma un dispositivo concettuale che rende esplicito un principio fondamentale della progettazione contemporanea.</p>
+      <p>Il disegno assonometrico rende leggibile una rete strutturale permanente che accoglie elementi temporanei, la variabilità dei moduli e la reversibilità delle configurazioni.</p>
+      <p>In questo senso, <i>Plug-In City</i> anticipa una nozione di coerenza non formale ma sistemica.</p>
+    </div>
+
+  </section>
+
+</section>
+
+
+  <!-- =========================
+     PROPOSTA C
+     ========================= -->
+<section class="proposta">
+
+  <div class="proposta-header">
+    <span class="proposta-id">C.</span>
+    <div class="caption-main">
+      Atelier Bow-Wow, <i>House & Atelier Bow-Wow, Tokyo</i> (1992–2005)
+    </div>
+  </div>
+
+  <div class="image-grid">
+    <div class="image-box">
+      <img src="print8/box_8.4_C_8.jpg">
+      <div class="image-index">C.1</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_1.jpg">
+      <div class="image-index">C.2</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_2.jpg">
+      <div class="image-index">C.3</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_9.jpg">
+      <div class="image-index">C.4</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_3.jpg">
+      <div class="image-index">C.5</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_4.jpg">
+      <div class="image-index">C.6</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_5.jpg">
+      <div class="image-index">C.7</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_6.jpg">
+      <div class="image-index">C.8</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_10.jpg">
+      <div class="image-index">C.9</div>
+    </div>
+    <div class="image-box">
+      <img src="print8/box_8.4_C_11.jpg">
+      <div class="image-index">C.10</div>
+    </div>
+  </div>
+
+  <div class="caption-sub">
+    L’assonometria rivela la doppia natura dell’edificio: infrastruttura e paesaggio costruito come sistema continuo. </div>
+
+<div class="icono-divider"></div>
+
+  <section class="text-section">
+
+ <p>I <i>Mountain Dwellings</i> di BIG costituiscono uno dei casi contemporanei più chiari in cui l’assonometria rende leggibile un sistema complesso.</p>
+      <p>L’edificio combina autorimessa e residenza in un unico organismo tridimensionale continuo.</p>
+      <p>L’assonometria verifica la coerenza interna di questo sistema, rendendo visibile il suo funzionamento.</p>
+
+
+  </section>
+
+</section>
+
+
+
+
+
+</body>
+</html>

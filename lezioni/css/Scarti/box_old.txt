@@ -1,0 +1,97 @@
+/* ===== BOX STYLES ===== */
+body {
+  font-family: 'Merriweather', 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 1.75;
+  margin: 0;
+  background: #fdfdfd;
+  color: #222;
+  padding: 2em;
+}
+
+.box-container {
+  background-color: #333;
+  color: #f4f4f4;
+  padding: 2em;
+  border-radius: 10px;
+  margin: 2em auto;
+  max-width: 1000px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.box-title {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #f2f2f2;
+  margin-bottom: 0.6em;
+  text-align: center;
+}
+
+.box-subtitle {
+  font-size: 1.1em;
+  font-style: italic;
+  margin-bottom: 1.4em;
+  color: #ccc;
+  text-align: center;
+}
+
+.box-text {
+  font-size: 1em;
+  color: #e0e0e0;
+  line-height: 1.6;
+  text-align: justify;
+  margin-bottom: 2em;
+}
+
+/* IMAGE CAROUSEL CONTAINER */
+.carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1em;
+  padding: 1em 0;
+}
+.carousel::-webkit-scrollbar {
+  height: 10px;
+}
+.carousel::-webkit-scrollbar-thumb {
+  background: #666;
+  border-radius: 5px;
+}
+.carousel img {
+  max-height: 300px;
+  scroll-snap-align: center;
+  border-radius: 6px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.carousel img:hover {
+  transform: scale(1.02);
+}
+
+.image-caption {
+  font-size: 0.9em;
+  color: #ddd;
+  text-align: center;
+  margin-top: 0.3em;
+  font-style: italic;
+}
+
+.back-button {
+  margin-top: 2em;
+  display: block;
+  text-align: center;
+}
+
+.back-button a {
+  color: #f2f2f2;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0.6em 1em;
+  border: 2px solid #f2f2f2;
+  border-radius: 5px;
+}
+.back-button a:hover {
+  background-color: #f2f2f2;
+  color: #222;
+}

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda 6.6</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/box.css">
+</head>
+<body>
+<body class="lezione3">
+<div class="box-container">
+  <header class="box-header">
+    <h1>Scheda 6.6 – La direzione: vettori percettivi e orientamento del corpo</h1>
+    <p class="box-intro">La direzione è una forza che orienta il corpo e struttura lo spazio. Linee di fuga, rampe, allineamenti, gradienti di luce non descrivono ma guidano. Più che tracciare assi, la direzione agisce come vettore percettivo: costruisce traiettorie, imposta tensioni, rende leggibile un ordine interno.
+</p>
+  </header>
+<br>
+<p><strong>A.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img6/box_6.6_A_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_A_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_A_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_A_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_A_6.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_A_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_A_7.png" style="display: none; height: 80%; width: auto;">
+      
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">James Stirling, <i>Neue Staatsgalerie, Stoccarda</i> (1977–1984)</div>
+      <div class="caption-sub">La rampa anulare come vettore processionale: un percorso continuo che avvolge il museo, guida il corpo lungo il perimetro e costruisce la direzione come spirale urbana, più forte dell’oggetto architettonico.
+      </div>
+    </figcaption>
+</section>
+
+ 
+<section class="text-section">
+ <p>
+La <i>Neue Staatsgalerie</i> è uno dei casi più chiari in cui la direzione non è un asse geometrico astratto, ma una forza che guida il corpo entro un campo complesso. Stirling costruisce il museo come un sistema dinamico di vettori: rampe, curve, piani inclinati, ponti e allineamenti che definiscono una traiettoria prima ancora che un edificio. Il percorso avvolge lo spazio centrale come in una processione laica, trasformando il movimento in dispositivo organizzatore dell’intero progetto.</p>
+<p>
+La direzione principale non è data da una strada o da un corridoio, ma da una <strong>spirale urbana</strong>: una rampa continua che solleva, devia, avvicina e distanzia il visitatore rispetto al cortile circolare. Questo movimento centrifugo–centripeto produce un orientamento corporeo immediato: si cammina “verso” qualcosa e nello stesso tempo “intorno” a qualcosa. La direzione diventa così un modo di percepire il museo come organismo aperto, permeabile, attraversabile – più infrastruttura pubblica che edificio chiuso.</p>
+<p>
+La forza critica del progetto sta nella capacità di far coincidere direzione e spazio: non c’è neutralità. Ogni elemento — balaustre colorate, pendenze, cambi di quota, tagli di luce — partecipa alla costruzione dei vettori che governano l’esperienza. Stirling non impone un percorso univoco: offre piuttosto una <strong>matrice direzionale complessa</strong>, in cui il corpo sceglie, devia, ritorna. È un’architettura che non si presenta come immagine, ma come sequenza di direzioni incrociate.</p>
+<p>
+In questo senso, la <i>Neue Staatsgalerie</i> è paradigmatica per la lezione: mostra come la direzione possa essere la struttura invisibile che tiene insieme il progetto, generando un campo energetico in cui forma, movimento e percezione coincidono. Non un asse, ma una forza. Non un disegno, ma un’esperienza.</p>
+
+
+  </section>
+
+<br>
+<p><strong>B.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img6/box_6.6_B_1.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_B_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_B_8.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_B_4.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_B_5.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_B_11.png" style="display: none; height: 80%; width: auto;">
+  
+   
+  <!-- Freccia avanti -->
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Zaha Hadid, <i>MAXXI – Museo nazionale delle arti del XXI secolo, Roma</i> (1998–2010)</div>
+      <div class="caption-sub">Direzioni multiple e intrecciate: rampe sospese, lame strutturali e fasci di luce costruiscono un sistema di vettori che incrociano e deviano il percorso, trasformando il museo in un paesaggio di flussi. La direzione può essere plurale e non gerarchica: il corpo non è guidato da un unico asse, ma da una rete di direzioni possibili, che rendono il campo dinamico e aperto.
+      </div>
+    </figcaption>
+</section>
+
+<section class="text-section">
+ <p><strong>Direzioni fluide, campi vettoriali, traiettorie che orientano il corpo</strong></p>
+<p>
+Il <i>MAXXI</i> di Zaha Hadid rappresenta uno dei casi più chiari in cui la direzione non è un asse geometrico imposto, ma un campo vettoriale che si attiva attraverso il movimento del corpo. L’opera non propone forme statiche né volumi composti: costruisce una rete dinamica di traiettorie, curvature, biforcazioni e slittamenti che guidano il visitatore molto prima che egli riconosca la figura architettonica.</p>
+<p>
+La struttura del museo è generata da un sistema di <strong>lame spaziali</strong> che non delimitano soltanto ambienti, ma producono direzioni latenti: scorrono, si sovrappongono, divergono, piegano la continuità, generano accelerazioni e rallentamenti. La percezione del percorso non è lineare, ma immersiva: si entra in un campo in cui lo spazio “spinge”, devia, invita, suggerisce, orienta.
+Le rampe, sospese e perfettamente integrate nella massa fluida del museo, sono dispositivi vettoriali potentissimi: non collegano semplicemente quote diverse, ma costruiscono un <strong>racconto direzionale</strong>, un’esperienza di salita e discesa che modifica continuamente il rapporto con la luce, con la profondità e con i pieni e vuoti della struttura.</p>
+<p>
+La direzione, nel <i>MAXXI</i>, non è un elemento tecnico: è la vera materia dell’architettura. Lo spazio si comporta come un insieme di forze in movimento — le pareti non chiudono, ma scorrono; le solette non separano, ma deviano; la luce non illumina, ma segnala traiettorie. L’utente non attraversa un edificio: attraversa un sistema dinamico in cui la forma si misura sul comportamento del corpo.</p>
+<p>
+Hadid mostra così che la direzione è un fenomeno percettivo prima che geometrico: non si vede, si subisce. È un’energia che orienta la camminata, che produce un ordine invisibile, che trasforma lo spazio in una sequenza di vettori e non in una somma di ambienti.
+Il <i>MAXXI</i> è quindi un caso esemplare per comprendere come la direzione sia uno strumento progettuale fondamentale: non una linea da tracciare, ma un campo di forze da costruire.</p>
+
+
+
+
+  </section>
+
+<br>
+
+
+<br>
+<p><strong>C.</strong></p>
+
+<section class="image-section gallery">
+  <div class="carousel-container" style="height: 400px;"> <!-- Altezza manuale -->
+  
+  <!-- Freccia indietro -->
+  <button class="carousel-button prev" onclick="moveSlide(this, -1)">&#10094;</button>
+
+  <!-- Immagini -->
+    <img class="carousel-image zoomable" src="img6/box_6.6_C_9.png" style="display: block; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_C_10.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_C_12.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_C_1.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_C_2.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_C_3.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_C_7.png" style="display: none; height: 80%; width: auto;">
+    <img class="carousel-image zoomable" src="img6/box_6.6_C_8.png" style="display: none; height: 80%; width: auto;">
+ 
+  <button class="carousel-button next" onclick="moveSlide(this, 1)">&#10095;</button>
+
+  </div>
+<br>
+    <figcaption>
+      <div class="caption-main">Snøhetta, <i>Bibliotheca Alexandrina, Alessandria d’Egitto</i> (2002)</div>
+      <div class="caption-sub">Il grande piano inclinato come vettore elicoidale: la sala di lettura discende e si avvolge rispetto alla facciata vetrata, generando una direzione continua che unisce luce, vista sul mare e movimento del corpo.
+      </div>
+    </figcaption>
+</section>
+
+</section>
+<section class="text-section">
+<p><strong>La direzione come vettore primario dell’esperienza</strong></p>
+<p>
+La <i>Bibliotheca Alexandrina</i> è uno degli esempi contemporanei più chiari di come la direzione possa diventare una forza percettiva capace di orientare il corpo e organizzare l’intera esperienza spaziale. L’edificio non si limita a offrire un orientamento funzionale: costruisce una spinta che guida il movimento, un vettore che nasce dalla geometria e si traduce in percezione immediata.</p>
+<p>
+Il grande disco inclinato — un cerchio tagliato e fatto emergere dalla terra — non è una figura iconica, ma un campo direzionale potentissimo: il suo piano obliquo genera un'inclinazione percepita che trascina il visitatore verso l’ingresso e, allo stesso tempo, verso la luce zenitale che caratterizza gli spazi interni. La direzione nasce così da una relazione tra <strong>massa inclinata</strong>, <strong>traiettoria del sole</strong> e <strong>percorso del corpo</strong>, non da un asse imposto.</p>
+<p>
+All’interno, la vasta sala di lettura è costruita come un paesaggio di piani digradanti che continuano l’inclinazione del disco: superfici, parapetti, travature e lucernari si allineano lungo vettori convergenti che spingono lo sguardo verso il mare. La direzione non è solo una guida visiva: diventa una struttura che ordina luce, acustica, movimento e relazioni verticali.</p>
+<p>
+La facciata incisa in modo continuo con alfabeti e simboli di tutte le culture del Mediterraneo rinforza questa logica vettoriale: una superficie curva che “scivola” lungo l’orizzonte e suggerisce un orientamento non frontale, ma centrifugo, espansivo.</p>
+<p>
+In questo edificio, Snøhetta mostra che la direzione non è un tracciato lineare, ma un campo di forze: una tensione che attrae, guida, accelera o rallenta. La <i>Bibliotheca Alexandrina</i> non orienta semplicemente lo spazio — lo mette in moto.</p>
+
+
+
+</section>
+
+
+
+ <div class="box-footer">
+    <a href="#" onclick="window.close()">← Torna alla lezione</a>
+  </div>
+</div>
+
+<script>
+  function moveSlide(button, step) {
+    const container = button.closest('.carousel-container');
+    const slides = container.querySelectorAll('.carousel-image');
+    const prevBtn = container.querySelector('.carousel-button.prev');
+    const nextBtn = container.querySelector('.carousel-button.next');
+
+    // Trova l'indice corrente
+    let currentIndex = Array.from(slides).findIndex(slide => slide.style.display === 'block');
+
+    // Calcola il prossimo indice (ma senza loop)
+    let nextIndex = currentIndex + step;
+
+    // Blocca se siamo all'inizio o alla fine
+    if (nextIndex < 0 || nextIndex >= slides.length) return;
+
+    // Nasconde quella corrente e mostra la prossima
+    slides[currentIndex].style.display = 'none';
+    slides[nextIndex].style.display = 'block';
+
+    // Aggiorna frecce
+    prevBtn.disabled = (nextIndex === 0);
+    nextBtn.disabled = (nextIndex === slides.length - 1);
+
+    prevBtn.classList.toggle('disabled', prevBtn.disabled);
+    nextBtn.classList.toggle('disabled', nextBtn.disabled);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.carousel-container').forEach(container => {
+      const slides = container.querySelectorAll('.carousel-image');
+      const prevBtn = container.querySelector('.carousel-button.prev');
+      const nextBtn = container.querySelector('.carousel-button.next');
+
+      // Tutte nascoste tranne la prima
+      slides.forEach(slide => slide.style.display = 'none');
+      if (slides[0]) slides[0].style.display = 'block';
+
+      // Stato iniziale delle frecce
+      prevBtn.disabled = true;
+      prevBtn.classList.add('disabled');
+
+      nextBtn.disabled = (slides.length <= 1);
+      nextBtn.classList.toggle('disabled', nextBtn.disabled);
+    });
+
+    // Lightbox Zoom (immutato)
+    document.querySelectorAll('.zoomable').forEach(img => {
+      img.addEventListener('click', () => {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox';
+        lightbox.innerHTML = `
+          <span class="close" onclick="this.parentElement.remove()">&times;</span>
+          <img src="${img.src}" alt="" style="max-width: 90%; max-height: 90%;">
+        `;
+        Object.assign(lightbox.style, {
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100vw',
+          height: '100vh',
+          background: 'rgba(0,0,0,0.9)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        });
+        document.body.appendChild(lightbox);
+      });
+    });
+  });
+</script>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,89 @@
+@media print {
+
+  /* ===== GENERALE ===== */
+  body {
+    background: white !important;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* ===== CONTAINER PRINCIPALE ===== */
+  .box-container {
+    max-width: none !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: white !important;
+    box-shadow: none !important;  /* Rimuove eventuali ombre */
+  }
+
+  /* ===== NASCONDI ELEMENTI INTERATTIVI ===== */
+  .carousel-button,
+  #lightbox,
+  .box-footer {
+    display: none !important;
+  }
+
+  /* ===== CAROUSEL COME SEQUENZA LINEARE ===== */
+  .carousel-container {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+    background: none !important;  /* Rimuove il fondo grigio */
+  }
+
+/* Cornice immagini più sottile in stampa */
+.carousel-image {
+  border: 0.3pt solid #bbb !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+
+  /* ===== CAROUSEL IMAGE SIZE ===== */
+  .carousel-image {
+    display: block !important;
+    width: 50% !important;   /* Riduce le immagini per la stampa */
+    max-height: 70vh;
+    height: auto !important;
+    margin: 0.25cm auto 0.15cm auto;
+    page-break-inside: avoid;
+  }
+
+  /* ===== DIDASCALIE E IMMAGINI SEQUENZIALI ===== */
+  .image-section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  figcaption {
+    order: -1;
+    margin-bottom: 0.3cm;
+    page-break-inside: avoid;
+  }
+
+.text-section p:first-child {
+  margin-top: 0;
+}
+
+.text-section {
+  page-break-inside: auto;
+}
+
+  /* ===== ELIMINARE TAG br PER SPAZI INUTILI ===== */
+  br {
+    display: none;
+  }
+
+  /* ===== PAGINAZIONE ===== */
+  @page {
+    margin: 2.5cm 2.5cm 3cm 2.5cm;
+
+    @bottom-center {
+      content: "8.4." counter(page);
+      font-family: 'Merriweather', serif;
+      font-size: 9pt;
+      color: #444;
+    }
+  }
+}
