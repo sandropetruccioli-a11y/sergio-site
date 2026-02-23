@@ -1,0 +1,475 @@
+:root {
+  --paper-bg: #e8e5df;
+  --panel-bg: #f8f6f2;
+  --panel-border: #d5cdc0;
+  --ink-1: #8b3a3a;
+  --ink-2: #2f4f4f;
+  --ink-3: #3b587a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  --ink: var(--ink-1);
+  --soft-bg: #f3efea;
+  background-color: var(--paper-bg);
+  color: var(--ink);
+  font-family: "Source Serif 4", "Merriweather", "Times New Roman", serif;
+  line-height: 1.68;
+}
+
+/* Terne cromatiche mantenute */
+body.lezione1,
+body.lezione4,
+body.lezione7 {
+  --ink: var(--ink-1);
+  --soft-bg: #f3efea;
+}
+
+body.lezione2,
+body.lezione5,
+body.lezione8 {
+  --ink: var(--ink-2);
+  --soft-bg: #eef3f2;
+}
+
+body.lezione3,
+body.lezione6,
+body.lezione9 {
+  --ink: var(--ink-3);
+  --soft-bg: #edf1f7;
+}
+
+.box-container {
+  width: min(1020px, 94vw);
+  margin: 24px auto 30px;
+  padding: 2.2rem 2.4rem;
+  background-color: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 12px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.15);
+}
+
+.box-header {
+  border-bottom: 1px solid var(--panel-border);
+  padding-bottom: 1rem;
+  margin-bottom: 1.2rem;
+}
+
+.box-header h1 {
+  margin: 0 0 0.5rem;
+  color: var(--ink);
+  font-family: "Merriweather", Georgia, serif;
+  font-size: clamp(1.25rem, 2.6vw, 1.95rem);
+  line-height: 1.28;
+}
+
+.box-intro {
+  margin: 0;
+  color: var(--ink);
+  opacity: 0.95;
+  font-size: 1.05rem;
+}
+
+.text-section {
+  color: var(--ink);
+}
+
+p,
+ul,
+ol {
+  max-width: 76ch;
+}
+
+.image-section {
+  margin-top: 1.2rem;
+}
+
+.image-section figure {
+  text-align: center;
+  margin: 1.2rem auto;
+  max-width: 92%;
+}
+
+.image-section img {
+  width: 100%;
+  max-width: 860px;
+  height: auto;
+  cursor: zoom-in;
+  border: 1px solid #a9a9a9;
+  border-radius: 6px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+  background: #fff;
+}
+
+figcaption {
+  margin: 0.7rem auto 0;
+  max-width: 88%;
+  text-align: left;
+  font-size: 0.95rem;
+  color: var(--ink);
+}
+
+.caption-main {
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.caption-sub {
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.carousel-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: min(900px, 100%);
+  max-width: 900px;
+  margin: 0 auto;
+  overflow: hidden;
+  background-color: var(--soft-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 10px;
+  padding: 10px 6px;
+}
+
+.carousel-image {
+  object-fit: contain;
+  max-width: 100%;
+  transition: opacity 0.25s ease-in-out;
+}
+
+.carousel-button {
+  appearance: none;
+  border: 0;
+  background-color: rgba(0, 0, 0, 0.12);
+  color: #fff;
+  font-size: 1.7rem;
+  line-height: 1;
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  z-index: 10;
+  transition: background-color 0.2s ease;
+}
+
+.carousel-button:hover {
+  background-color: rgba(0, 0, 0, 0.28);
+}
+
+.carousel-button.disabled {
+  opacity: 0.3;
+  cursor: default;
+  pointer-events: none;
+}
+
+#lightbox {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1200;
+  cursor: zoom-out;
+}
+
+#lightbox img {
+  max-width: 92%;
+  max-height: 92%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+  border-radius: 6px;
+}
+
+#lightbox .close {
+  position: fixed;
+  top: 12px;
+  right: 14px;
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.42);
+  border-radius: 999px;
+  font-size: 1.9rem;
+  line-height: 1;
+  cursor: pointer;
+  font-weight: 700;
+  z-index: 1301;
+}
+
+.box-footer {
+  margin-top: 2rem;
+  text-align: center;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--panel-border);
+}
+
+.box-footer a {
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.box-footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .box-container {
+    padding: 1.5rem 1.1rem;
+  }
+
+  body {
+    font-size: 18px;
+  }
+
+  figcaption {
+    max-width: 96%;
+  }
+}
+
+@media (max-width: 560px) {
+  body {
+    font-size: 17px;
+  }
+
+  .box-container {
+    margin: 10px auto 16px;
+    width: 96vw;
+  }
+
+  .box-header h1 {
+    font-size: 1.22rem;
+  }
+
+  .box-intro {
+    font-size: 1rem;
+  }
+
+  .carousel-button {
+    width: 32px;
+    height: 32px;
+    font-size: 1.4rem;
+  }
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 1.8cm 1.6cm 1.8cm 1.6cm;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+  }
+
+  body {
+    font-size: 11pt;
+    line-height: 1.45;
+    color: #111 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    orphans: 3;
+    widows: 3;
+  }
+
+  .box-container {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    background: transparent !important;
+  }
+
+  .box-header {
+    border-bottom: 1px solid #bbb;
+    margin-bottom: 0.7cm;
+    padding-bottom: 0.35cm;
+  }
+
+  .box-header h1 {
+    color: #111 !important;
+    font-size: 18pt;
+    line-height: 1.2;
+  }
+
+  .box-intro {
+    color: #222 !important;
+    font-size: 11.3pt;
+    line-height: 1.4;
+  }
+
+  .carousel-button,
+  #lightbox,
+  .box-footer {
+    display: none !important;
+  }
+
+  .carousel-container {
+    border: none !important;
+    background: transparent !important;
+    padding: 0 !important;
+  }
+
+  .image-section,
+  .image-section figure,
+  figcaption,
+  .text-section,
+  p,
+  ul,
+  ol {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .image-section img,
+  .carousel-image {
+    max-height: 18cm;
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  figcaption {
+    color: #222 !important;
+    font-size: 10pt;
+    line-height: 1.35;
+  }
+
+  .caption-main,
+  .caption-sub {
+    color: inherit !important;
+  }
+
+  a {
+    color: #111 !important;
+    text-decoration: none;
+  }
+}
+
+.print-bulk-link {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 1100;
+  background: color-mix(in srgb, var(--ink) 88%, #000 12%);
+  color: #fff;
+  text-decoration: none;
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  padding: 8px 12px;
+  border-radius: 999px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+}
+
+.print-bulk-link:hover {
+  filter: brightness(1.08);
+}
+
+@media print {
+  .print-bulk-link {
+    display: none !important;
+  }
+}
+
+@media (max-width: 560px) {
+  .print-bulk-link {
+    top: 8px;
+    right: 8px;
+    font-size: 0.74rem;
+    padding: 7px 10px;
+  }
+}
+
+/* Print actions panel (single scheda + lezione completa) */
+.print-links-panel {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 1100;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-end;
+}
+
+.print-link {
+  background: color-mix(in srgb, var(--ink) 88%, #000 12%);
+  color: #fff;
+  text-decoration: none;
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  padding: 8px 12px;
+  border-radius: 999px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+  white-space: nowrap;
+}
+
+.print-link-lesson {
+  background: color-mix(in srgb, var(--ink) 76%, #1b1b1b 24%);
+}
+
+.print-link:hover {
+  filter: brightness(1.08);
+}
+
+@media print {
+  .print-links-panel {
+    display: none !important;
+  }
+}
+
+@media (max-width: 560px) {
+  .print-links-panel {
+    top: 8px;
+    right: 8px;
+    gap: 5px;
+  }
+
+  .print-link {
+    font-size: 0.72rem;
+    padding: 7px 10px;
+  }
+}
+
+.back-top-link {
+  background: color-mix(in srgb, var(--ink) 68%, #ffffff 32%);
+  color: #fff;
+  text-decoration: none;
+  font-family: "Inter", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  padding: 8px 12px;
+  border-radius: 999px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+  white-space: nowrap;
+}
+
+.back-top-link:hover {
+  filter: brightness(1.08);
+}
