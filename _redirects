@@ -1,3 +1,9 @@
-/didattica                /didattica.html                          200
-/lezione:lesson           /lezioni/lezione:lesson.html             200
-/lezioni/box/:path        /lezioni/box/:path.html                  200
+/didattica                       /didattica.html                        200
+/architettura                    /architettura.html                     200
+/menu                            /menu.html                             200
+/lezione:lesson                  /lezioni/lezione:lesson.html           200
+
+# Keep .html box URLs untouched
+/lezioni/box/:path.html          /lezioni/box/:path.html                200
+# Pretty box URL without extension
+/lezioni/box/:path               /lezioni/box/:path.html                200

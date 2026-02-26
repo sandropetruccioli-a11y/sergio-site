@@ -473,3 +473,47 @@ figcaption {
 .back-top-link:hover {
   filter: brightness(1.08);
 }
+
+@media (max-width: 420px) {
+  body {
+    font-size: 16.5px;
+    line-height: 1.64;
+  }
+
+  .box-container {
+    margin: 8px auto 12px;
+    width: 97vw;
+    padding: 1rem 0.75rem;
+    border-radius: 10px;
+  }
+
+  .box-header h1 {
+    font-size: 1.08rem;
+  }
+
+  .image-section figure {
+    max-width: 100%;
+    margin: 0.9rem auto;
+  }
+
+  figcaption {
+    max-width: 100%;
+    font-size: 0.9rem;
+  }
+
+  .carousel-container {
+    gap: 0.35rem;
+    padding: 6px 2px;
+  }
+
+  .carousel-button {
+    width: 36px;
+    height: 36px;
+    font-size: 1.3rem;
+  }
+
+  p,
+  li {
+    overflow-wrap: anywhere;
+  }
+}
