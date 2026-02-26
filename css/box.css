@@ -454,6 +454,10 @@ figcaption {
     font-size: 0.72rem;
     padding: 7px 10px;
   }
+
+  .print-link-single {
+    display: none;
+  }
 }
 
 .back-top-link {
