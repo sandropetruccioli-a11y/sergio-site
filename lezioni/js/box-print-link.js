@@ -10,6 +10,8 @@
   const lesson = Number((pathMatch && pathMatch[1]) || (fileMatch && fileMatch[1]) || (refMatch && refMatch[1]) || 0);
 
   const lessonPage = lesson ? `../../lezione${lesson}.html` : '../../../didattica.html';
+  const printFile = file.replace('.html', '-print.html');
+  const target = printFile + '?autoprint=1&return=' + encodeURIComponent(lessonPage);
   const goBackToLesson = function () {
     if (window.opener && !window.opener.closed) {
       window.close();
@@ -25,6 +27,13 @@
 
   const panel = document.createElement('div');
   panel.className = 'print-links-panel';
+
+  const printBtn = document.createElement('a');
+  printBtn.className = 'print-link print-link-single';
+  printBtn.href = target;
+  printBtn.textContent = 'Stampa questa scheda (A4)';
+  printBtn.setAttribute('aria-label', 'Apri direttamente il dialogo di stampa della scheda corrente');
+  panel.appendChild(printBtn);
 
   const backBtn = document.createElement('a');
   backBtn.className = 'back-top-link';
