@@ -1,6 +1,6 @@
 (function () {
-  const path = window.location.pathname;
-  const lessonMatch = path.match(/lezione(\d+)\.html$/i);
+  const path = window.location.pathname.replace(/\/+$/, '');
+  const lessonMatch = path.match(/(?:^|\/)lezione(\d+)(?:\.html)?$/i);
   if (!lessonMatch) return;
 
   const lesson = Number(lessonMatch[1]);

@@ -1,7 +1,8 @@
 (function () {
-  const path = window.location.pathname;
-  const file = (path.split('/').pop() || '').toLowerCase();
-  if (!file.startsWith('box-') || !file.endsWith('.html') || file.includes('-print')) return;
+  const path = window.location.pathname.replace(/\/+$/, '');
+  const fileRaw = (path.split('/').pop() || '').toLowerCase();
+  if (!fileRaw.startsWith('box-') || fileRaw.includes('-print')) return;
+  const file = fileRaw.endsWith('.html') ? fileRaw : (fileRaw + '.html');
 
   const pathMatch = path.match(/\/lezione(\d+)\//i);
   const fileMatch = file.match(/^box-(\d)\./i);
